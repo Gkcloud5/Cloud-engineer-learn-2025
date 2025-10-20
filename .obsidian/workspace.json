@@ -44,7 +44,7 @@
               "state": {
                 "file": "01-OS/000-Plan and action/01 - OS Plans.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "01 - OS Plans"
