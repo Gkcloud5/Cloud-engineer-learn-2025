@@ -103,4 +103,42 @@ Spend your effort on the most impactful topics:
 ---
 
 ## 🧩 Extra Learning Resources
-- 📺
+- 📺 [Fireship – Operating System in 100 Seconds](https://www.youtube.com/watch?v=pPzqg49KX1g)
+- 📘 *Operating System Concepts* — Silberschatz (Ch. 1–7)
+- 💻 Practice: [GeeksforGeeks OS Questions](https://www.geeksforgeeks.org/operating-systems/)
+
+---
+
+## 📊 Progress Tracker
+
+| Day | Topic          | Completed | Notes / Insights |
+| --- | -------------- | --------- | ---------------- |
+| 1   | Overview       | ☐         |                  |
+| 2   | Architecture   | ☐         |                  |
+| 3   | Process 1      | ☐         |                  |
+| 4   | Process 2      | ☐         |                  |
+| 5   | CPU Scheduling | ☐         |                  |
+| 6   | Deadlocks      | ☐         |                  |
+| 7   | Memory (1)     | ☐         |                  |
+| 8   | Memory (2)     | ☐         |                  |
+| 9   | File & I/O     | ☐         |                  |
+| 10  | Cloud Mapping  | ☐         |                  |
+
+---
+
+## 🧠 Reflection Zone
+Write down 3 big takeaways after finishing this 10-day plan:
+1. 💡  
+2. 💡  
+3. 💡  
+
+> 🎉 **Reward yourself!** You’ve just mastered one of the core subjects of computer science using the 80/20 rule.
+
+---
+
+### 🗣 How to Ask Better in Future
+
+> “Create a 10-day Operating System learning plan using the 80/20 rule, focused on key real-world concepts with daily examples, reflection prompts, and a progress checklist (for Obsidian).”
+
+---
+
