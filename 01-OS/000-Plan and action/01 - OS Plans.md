@@ -27,11 +27,11 @@
 
 ## 📊 Progress Overview
 
-| Category | Total Days | Completed | Progress |
-|-----------|-------------|-----------|-----------|
-| Core Concepts | 10 | 0 | ⚪ 0% |
-| Practice / Output | 10 | 0 | ⚪ 0% |
-| **Overall Progress** | **10** | **0** | **⚪ 0% Complete** |
+| Category             | Total Days | Completed | Progress          |
+| -------------------- | ---------- | --------- | ----------------- |
+| Core Concepts        | 10         | 0         | ⚪ 0%              |
+| Practice / Output    | 10         | 0         | ⚪ 0%              |
+| **Overall Progress** | **10**     | **0**     | **⚪ 0% Complete** |
 
 *(Update manually — each checkmark gives you a dopamine hit 💥)*
 
