@@ -193,8 +193,19 @@
               "icon": "lucide-list",
               "title": "Outline of Cloud engineer 2025 plan"
             }
+          },
+          {
+            "id": "b38d02c109438120",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -211,10 +222,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3b5bf0297831b0fd",
+  "active": "b38d02c109438120",
   "lastOpenFiles": [
     "01-OS/000-Progress tracker/OS/OS - 20th Oct 2025.md",
     "Daily Learn Log.md",
