@@ -8,4 +8,8 @@
 2. Memory Management => Allocates and tracks usage of RAM
 3. File Management => Organizes and controls data on storage devices
 4. Device manager => Handles input and output from devices like mouse, keyboard
-5. Security and access control 
+5. Security and access control => Protects data and manages user permission
+
+### Types of OS:
+1. Batch OS --> one program at one time
+2. Time-Shai
