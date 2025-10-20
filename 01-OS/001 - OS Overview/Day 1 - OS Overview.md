@@ -4,8 +4,8 @@
  * It manages hardware resources and allows software programs to run smoothly
 
 ## Major functions of OS:
-1. Process Management --> 
-2. Memory Management
-3. File Management
-4. Device manager
-5. Security and access control
+1. Process Management => Runs and controls multiple programs at once
+2. Memory Management => Allocates and tracks usage of RAM
+3. File Management => Organizes and controls data on storage devices
+4. Device manager => Handles input and output from devices like mouse, keyboard
+5. Security and access control 
