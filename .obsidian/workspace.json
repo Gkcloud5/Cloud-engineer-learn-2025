@@ -65,6 +65,49 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "956a1033a389f553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50b95ddd0b7cc647",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "01-OS/01-About OS.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 01-About OS"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud engineer 2025 plan.md",
+                "file": "01-OS/01-About OS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloud engineer 2025 plan"
+              "title": "Outline of 01-About OS"
             }
           }
         ],
@@ -217,7 +260,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3b5bf0297831b0fd",
+  "active": "50b95ddd0b7cc647",
   "lastOpenFiles": [
     "01-OS/000-Progress tracker/OS - 20th Oct 2025.md",
     "01-OS/Operating system 2025.md",
