@@ -1,5 +1,9 @@
 ---
 Date: <% tp.date.now("YYYY-MM-DD, dddd") %>
+Topic:
+---
+---
+Date: <% tp.date.now("YYYY-MM-DD, dddd") %>
 Topic: 
 ---
 
