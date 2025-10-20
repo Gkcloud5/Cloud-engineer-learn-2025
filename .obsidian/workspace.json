@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-OS/000-Plan and action/01-Plan.md",
+                "file": "01-OS/000-Plan and action/01 - Plans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Plan"
+              "title": "01 - Plans"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-OS/000-Plan and action/01-Plan.md",
+                "file": "01-OS/000-Plan and action/01 - Plans.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -92,7 +92,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 01-Plan"
+              "title": "Graph of 01 - Plans"
             }
           }
         ]
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-OS/000-Plan and action/01-Plan.md",
+                "file": "01-OS/000-Plan and action/01 - Plans.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-Plan"
+              "title": "Outline of 01 - Plans"
             }
           }
         ],
@@ -250,7 +250,7 @@
   "active": "3b5bf0297831b0fd",
   "lastOpenFiles": [
     "01-OS/000-Progress tracker/OS - 20th Oct 2025.md",
-    "01-OS/000-Plan and action/01-Plan.md",
+    "01-OS/000-Plan and action/01 - Plans.md",
     "01-OS/000-Operating system.md",
     "01-OS/01-About OS.md",
     "Template/Progress tracker/Daily Learning Progress.md",
