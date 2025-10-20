@@ -25,9 +25,9 @@ tags: [dashboard, learning, master]
 ---
 
 ## 📚 Learning Tracker
-| Date | Topic | Time Spent | Progress % | Key Takeaway | Dopamine Hit 🔥 |
-|------|--------|-------------|-------------|---------------|----------------|
-| <% tp.date.now("YYYY-MM-DD") %> |  |  |  |  | [ ] |
+| Date                            | Topic | Time Spent | Progress % | Key Takeaway | Dopamine Hit 🔥 |
+| ------------------------------- | ----- | ---------- | ---------- | ------------ | --------------- |
+| <% tp.date.now("YYYY-MM-DD") %> |       |            |            |              | [ ]             |
 
 Use [[Daily Learn Log]] for detailed progress.  
 👉 *Tip:* Use a dataview query below to auto-pull your daily logs.
