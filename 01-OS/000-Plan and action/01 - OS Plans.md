@@ -14,7 +14,7 @@
 ---
 
 ## ✅ Progress Tracker
-- [ ] Day 1 – OS Overview
+- [x] Day 1 – OS Overview
 - [ ] Day 2 – System Architecture
 - [ ] Day 3 – Process Management
 - [ ] Day 4 – CPU Scheduling
@@ -39,9 +39,9 @@
 OS is like a company manager — allocates tasks, manages workers (processes), and handles resources.
 
 **🧠 Task:**  
-- [ ] Draw OS architecture (User → OS → Hardware)  
-- [ ] Note 5 core OS responsibilities  
-- [ ] Write: “Why OS is essential in computers?”
+- [x] Draw OS architecture (User → OS → Hardware)  
+- [x] Note 5 core OS responsibilities  
+- [x] Write: “Why OS is essential in computers?”
 
 ---
 

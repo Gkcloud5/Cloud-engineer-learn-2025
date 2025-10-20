@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - OS Architecture/Day 2 - Architecture.md",
+                "file": "01-OS/002 - OS Architecture/Day 2 - Architecture.md",
                 "mode": "source",
                 "source": false
               },
@@ -52,8 +52,7 @@
               "title": "OS Overview - 20th Oct 2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "956a1033a389f553",
@@ -66,7 +65,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - OS Architecture/Day 2 - Architecture.md",
+                "file": "01-OS/000-Plan and action/01 - OS Plans.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,7 +93,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Day 2 - Architecture"
+              "title": "Graph of 01 - OS Plans"
             }
           }
         ]
@@ -218,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - OS Architecture/Day 2 - Architecture.md",
+                "file": "01-OS/000-Plan and action/01 - OS Plans.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 2 - Architecture"
+              "title": "Outline of 01 - OS Plans"
             }
           }
         ],
@@ -249,12 +248,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b7a357bad5a1eac9",
+  "active": "50b95ddd0b7cc647",
   "lastOpenFiles": [
+    "01-OS/002 - OS Architecture/Day 2 - Architecture.md",
     "01-OS/000-Plan and action/01 - OS Plans.md",
     "01-OS/000-Progress tracker/OS Overview - 20th Oct 2025.md",
-    "002 - OS Architecture",
-    "002 - OS Architecture/Day 2 - Architecture.md",
+    "01-OS/002 - OS Architecture",
     "01-OS/Old/01-About OS.md",
     "01-OS/001 - OS Overview/Day 1 - OS Overview.md",
     "01-OS/001 - OS Overview",
