@@ -15,4 +15,9 @@
 2. Time-Sharing OS --> Allow many process at same time
 3. Real-time OS --> Responds instantly to inputs, used where timing is critical
 	1. Robotics
-4. 
+4. Distributed OS --> Manages multiple computers as a single system 
+	1. Cloud servers
+5. Mobile OS --> Designed for mobile and tablets
+	1. Android
+	2. IOS
+
