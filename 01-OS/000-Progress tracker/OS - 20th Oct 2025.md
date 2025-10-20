@@ -1,13 +1,13 @@
 ---
 Date: 2025-10-20, Monday
-Topic:
+Topic: OS Overview
 ---
 
 # 📚 Daily Learning Log - 20th Oct 2025
 
 ## 🎯 Goal for Today
 What I want to learn or understand today:
-- 
+-  Understand what an **Operating System (OS)** is, its purpose, and its major functions.
 
 ---
 
