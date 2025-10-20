@@ -21,3 +21,27 @@
 	1. Android
 	2. IOS
 
+### Working
+
+```
++-----------------------------+
+|        User (You)           |
++-------------↑---------------+
+              |
+        User Interface (CLI/GUI)
+              |
++-------------↓---------------+
+|   Operating System (OS)     |
+|  - Process Management        |
+|  - Memory Management         |
+|  - File System               |
+|  - I/O Management            |
+|  - Security & Protection     |
++-------------↓---------------+
+              |
++-----------------------------+
+|       Hardware (CPU, RAM,   |
+|       Disk, I/O devices)    |
++-----------------------------+
+
+```
