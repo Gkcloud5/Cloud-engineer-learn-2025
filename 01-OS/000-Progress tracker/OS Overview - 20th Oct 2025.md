@@ -13,7 +13,7 @@ What I want to learn or understand today:
 
 ## 🧠 What I Learned
 Key points or takeaways:
-- 
+- Without OS computer is js
 - 
 
 ---
