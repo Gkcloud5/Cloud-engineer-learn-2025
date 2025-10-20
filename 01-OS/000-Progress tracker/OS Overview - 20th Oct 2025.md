@@ -26,9 +26,9 @@ Things I didn’t understand or need to review:
 ---
 
 ## 💡 Reflection
-- What went well: 
-- What needs improvement: 
-- How I feel about today’s progress (1–10): 
+- What went well: **Easy to understand a basic things**
+- What needs improvement:  **real life things with topics**
+- How I feel about today’s progress (1–10): 7
 
 ---
 
