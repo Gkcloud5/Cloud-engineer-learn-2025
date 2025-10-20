@@ -12,4 +12,7 @@
 
 ### Types of OS:
 1. Batch OS --> one program at one time
-2. Time-Shai
+2. Time-Sharing OS --> Allow many process at same time
+3. Real-time OS --> Responds instantly to inputs, used where timing is critical
+	1. Robotics
+4. 
