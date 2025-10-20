@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-OS/000-Plan and action/01 - OS Plans.md",
+                "file": "01-OS/02-Main Functions of OS/01-Process Management/01- Process Management - 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - OS Plans"
+              "title": "01- Process Management - 2025"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-OS/000-Plan and action/01 - OS Plans.md",
+                "file": "01-OS/02-Main Functions of OS/01-Process Management/01- Process Management - 2025.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -92,7 +92,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 01 - OS Plans"
+              "title": "Graph of 01- Process Management - 2025"
             }
           }
         ]
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-OS/000-Plan and action/01 - OS Plans.md",
+                "file": "01-OS/02-Main Functions of OS/01-Process Management/01- Process Management - 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 - OS Plans"
+              "title": "Outline of 01- Process Management - 2025"
             }
           }
         ],

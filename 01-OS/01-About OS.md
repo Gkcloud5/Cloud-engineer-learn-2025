@@ -11,7 +11,7 @@
 
 ### Main function of OS:
 * 4 Foundations:
-	* [[01- Process Management - 2025]]
+	* [[001- Process Management]]
 		* Process is running program
 		* OS starts, stop and pause these processes
 		* OS shares CPU time between them so multiple apps can runs together
