@@ -218,7 +218,7 @@ Traffic jam (deadlock) — all cars waiting for each other.
 ---
 
 ## 📓 Notes Area (Link Your Daily Notes)
-- Day 1 - OS Overview []()
+- [[Day 1 - OS Overview]]
 - [[Day 2 - Architecture]]
 - [[Day 3 - Process Management]]
 - [[Day 4 - Scheduling]]
