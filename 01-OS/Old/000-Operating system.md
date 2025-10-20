@@ -12,9 +12,4 @@ Here’s the **20% of OS concepts** that deliver **80% of practical knowledge an
 | **5. Concurrency & Synchronization** | Mutex, semaphore, deadlock, race condition                                                     | How multiple programs share resources safely       |
 | **6. OS Architecture & Kernel**      | Monolithic, microkernel, user mode vs kernel mode                                              | Why Linux is fast and secure                       |
 | **7. System Calls**                  | `fork()`, `exec()`, `wait()`, `open()`, `read()`, `write()`                                    | How programs talk to the OS                        |
-
-1. [[01-About OS]]
-2. [[02-Main Functions of OS]]
-	1. [[001- Process Management]]
-	2. 
-3. 
+### [[01 - OS Plans]]

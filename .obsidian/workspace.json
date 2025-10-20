@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-OS/001 - OS Overview/Day 1 - OS Overview.md",
+                "file": "Cloud engineer 2025 plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1 - OS Overview"
+              "title": "Cloud engineer 2025 plan"
             }
           },
           {
@@ -66,7 +66,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-OS/001 - OS Overview/Day 1 - OS Overview.md",
+                "file": "Cloud engineer 2025 plan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,7 +94,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Day 1 - OS Overview"
+              "title": "Graph of Cloud engineer 2025 plan"
             }
           }
         ]
@@ -218,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-OS/001 - OS Overview/Day 1 - OS Overview.md",
+                "file": "Cloud engineer 2025 plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 1 - OS Overview"
+              "title": "Outline of Cloud engineer 2025 plan"
             }
           }
         ],
@@ -251,21 +251,21 @@
   },
   "active": "139280a4c85bca4b",
   "lastOpenFiles": [
+    "01-OS/Old/000-Operating system.md",
+    "Cloud engineer 2025 plan.md",
+    "Daily Learn Log.md",
     "01-OS/002 - OS Architecture/Day 2 - Architecture.md",
+    "01-OS/001 - OS Overview/Day 1 - OS Overview.md",
     "01-OS/000-Progress tracker/OS Overview - 20th Oct 2025.md",
     "01-OS/000-Plan and action/01 - OS Plans.md",
-    "01-OS/001 - OS Overview/Day 1 - OS Overview.md",
     "01-OS/002 - OS Architecture",
     "01-OS/Old/01-About OS.md",
     "01-OS/001 - OS Overview",
     "Template/Progress tracker/Daily Learning Progress.md",
-    "Cloud engineer 2025 plan.md",
-    "01-OS/Old/000-Operating system.md",
     "01-OS/Old",
     "01-OS/Old/02-Main Functions of OS/01-Process Management/001- Process Management.md",
     "Master Dashboard.md",
     "01-OS/000-Progress tracker/Untitled.md",
-    "Daily Learn Log.md",
     "000-Dashboard",
     "01-OS/000-Plan and action",
     "01-OS/000-Progress tracker/OS",
