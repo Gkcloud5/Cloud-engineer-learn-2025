@@ -25,16 +25,6 @@
             }
           },
           {
-            "id": "139280a4c85bca4b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "bd371c9daeec945e",
             "type": "leaf",
             "state": {
@@ -47,9 +37,19 @@
               "icon": "lucide-file",
               "title": "OS Overview - 20th Oct 2025"
             }
+          },
+          {
+            "id": "0182238406b257d0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "956a1033a389f553",
@@ -243,17 +243,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "139280a4c85bca4b",
+  "active": "0182238406b257d0",
   "lastOpenFiles": [
     "01-OS/000-Plan and action/01 - OS Plans.md",
+    "01-OS/Old/01-About OS.md",
     "01-OS/Old/000-Operating system.md",
+    "01-OS/Old/02-Main Functions of OS/02-Main Functions of OS.md",
+    "01-OS/001 - OS Overview/Day 1 - OS Overview.md",
     "Cloud engineer 2025 plan.md",
     "Daily Learn Log.md",
     "01-OS/002 - OS Architecture/Day 2 - Architecture.md",
-    "01-OS/001 - OS Overview/Day 1 - OS Overview.md",
     "01-OS/000-Progress tracker/OS Overview - 20th Oct 2025.md",
     "01-OS/002 - OS Architecture",
-    "01-OS/Old/01-About OS.md",
     "01-OS/001 - OS Overview",
     "Template/Progress tracker/Daily Learning Progress.md",
     "01-OS/Old",
