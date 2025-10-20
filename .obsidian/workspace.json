@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Progress tracker/Daily Learning Tracker.md",
+                "file": "Template/Progress tracker/Daily_Progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Learning Tracker"
+              "title": "Daily_Progress"
             }
           }
         ],
@@ -190,7 +190,7 @@
   "lastOpenFiles": [
     "Template/Progress tracker",
     "Cloud engineer 2025 plan.md",
-    "Template/Progress tracker/Daily Learning Tracker.md",
+    "Template/Progress tracker/Daily_Progress.md",
     "01-OS/Operating system 2025.md",
     "01-OS/01-About OS.md",
     "Template"
