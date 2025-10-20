@@ -15,7 +15,7 @@ What I want to learn or understand today:
 Key points or takeaways:
 - Without OS computer is just electrical parts
 - OS is manager of computer
-- 
+- what are the major functions and types
 
 ---
 
