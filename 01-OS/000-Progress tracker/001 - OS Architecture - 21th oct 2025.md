@@ -7,14 +7,14 @@ Topic: OS Architecture
 
 ## 🎯 Goal for Today
 What I want to learn or understand today:
-- 
+- How OS communicate with hardware
 
 ---
 
 ## 🧠 What I Learned
 Key points or takeaways:
-- 
-- 
+- Shell --> System call --> kernel
+- Monolithic and microkernel, User mode vs kernel mo
 
 ---
 

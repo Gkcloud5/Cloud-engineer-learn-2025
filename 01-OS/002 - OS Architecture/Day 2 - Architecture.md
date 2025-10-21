@@ -56,4 +56,16 @@
 ----
 
 ### 2.5  User Mode vs Kernel Mode:
-* 
+* User mode -- Apps take resources
+* Kernel mode -- full access
+
+|Mode|Who Works Here|Power Level|Example|
+|---|---|---|---|
+|**User Mode**|Applications|Limited access|Chrome, Spotify, VS Code|
+|**Kernel Mode**|OS Core|Full access|File systems, Device drivers|
+* This separation prevents apps from crashing entire OS
+
+
+```
+The OS is like a perfectly managed company — where every task, from your mouse click to CPU scheduling, is organized by an invisible but powerful brain called the kernel.
+```
