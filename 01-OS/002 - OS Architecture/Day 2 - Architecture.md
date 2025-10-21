@@ -30,6 +30,7 @@
 	* Memory allocation
 * Without kernel computer would only handle one job at a time
 
+---
 ### 2.3  System calls:
 * It's translator between apps and kernel
 * it's communication channel shell to kernel
@@ -41,6 +42,7 @@
 | Device Management | `ioctl()`                     | Control hardware devices    |
 | Information       | `getpid()`                    | Get process information     |
 
+---
 ### 2.4  Monolithic vs Microkernel:
 | Feature      | Monolithic Kernel                        | Microkernel                                      |
 | ------------ | ---------------------------------------- | ------------------------------------------------ |
@@ -49,4 +51,9 @@
 | 🔒 Stability | Less safe — one bug can crash the system | Safer — services isolated                        |
 | 💻 Example   | Linux, Unix                              | MINIX, QNX, macOS (Hybrid)                       |
 * Monolithic kernel -- who does everything himself
-* Micro
+* Microkernel -- Team of experts
+
+----
+
+### 2.5  User Mode vs Kernel Mode:
+* 
