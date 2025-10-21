@@ -33,3 +33,20 @@
 ### 2.3  System calls:
 * It's translator between apps and kernel
 * it's communication channel shell to kernel
+
+| Category          | Example                       | Purpose                     |
+| ----------------- | ----------------------------- | --------------------------- |
+| Process Control   | `fork()`, `exec()`            | Create and run new programs |
+| File Management   | `open()`, `read()`, `write()` | Handle file operations      |
+| Device Management | `ioctl()`                     | Control hardware devices    |
+| Information       | `getpid()`                    | Get process information     |
+
+### 2.4  Monolithic vs Microkernel:
+| Feature      | Monolithic Kernel                        | Microkernel                                      |
+| ------------ | ---------------------------------------- | ------------------------------------------------ |
+| 🧩 Structure | All OS services inside one large kernel  | Only essential parts in kernel; rest run outside |
+| ⚡ Speed      | Faster (less communication)              | Slower (more message passing)                    |
+| 🔒 Stability | Less safe — one bug can crash the system | Safer — services isolated                        |
+| 💻 Example   | Linux, Unix                              | MINIX, QNX, macOS (Hybrid)                       |
+* Monolithic kernel -- who does everything himself
+* Micro
