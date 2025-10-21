@@ -20,4 +20,16 @@
 -----
 ### 2.2  Kernel:
 * Brain of OS
-* 
+* **What it does:**
+	* Manage processes
+	* Controls memory
+	* Handles files and devices
+	* Security and protection
+* Example:
+	* CPU scheduling
+	* Memory allocation
+* Without kernel computer would only handle one job at a time
+
+### 2.3  System calls:
+* It's translator between apps and kernel
+* it's communication channel shell to kernel
