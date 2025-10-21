@@ -14,25 +14,12 @@ What I want to learn or understand today:
 ## 🧠 What I Learned
 Key points or takeaways:
 - Shell --> System call --> kernel
-- Monolithic and microkernel, User mode vs kernel mo
-
----
-
-## ⚙️ Challenges
-Things I didn’t understand or need to review:
-- 
-
----
-
-## 💡 Reflection
-- What went well: 
-- What needs improvement: 
-- How I feel about today’s progress (1–10): 
+- Monolithic and microkernel, User mode vs kernel mode
 
 ---
 
 ## 🚀 Plan for Tomorrow
-- 
+- [[Day 3 - Process Management]]
 
 ---
 

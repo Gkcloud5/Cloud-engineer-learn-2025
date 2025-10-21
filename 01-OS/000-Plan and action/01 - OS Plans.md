@@ -6,16 +6,16 @@
 ---
 
 ## 🗓️ Study Routine (Each Day – 1 Hour)
-- ⏱️ **15 min:** Learn concept (video or notes)
+- ⏱️ **30 min:** Learn concept (video or notes)
 - 💻 **30 min:** Apply via commands/code
-- 🧩 **10 min:** Note insights (Zettelkasten style)
+- 🧩 **10 min:** Note insights
 - 🔄 **5 min:** Reflect & connect to real world
 
 ---
 
 ## ✅ Progress Tracker
 - [x] Day 1 – OS Overview
-- [ ] Day 2 – System Architecture
+- [x] Day 2 – System Architecture
 - [ ] Day 3 – Process Management
 - [ ] Day 4 – CPU Scheduling
 - [ ] Day 5 – Threads & Concurrency
@@ -57,9 +57,9 @@ OS is like a company manager — allocates tasks, manages workers (processes), a
 Kernel = brain; Shell = face; System call = translator.
 
 **💻 Task:**  
-- [ ] Run `uname -a` on Linux/macOS  
-- [ ] Identify kernel version  
-- [ ] Note difference between kernel and shell  
+- [x] Run `uname -a` on Linux/macOS  
+- [x] Identify kernel version  
+- [x] Note difference between kernel and shell  
 
 ---
 
