@@ -36,3 +36,9 @@
 * **Schedulers** decide which process runs next
 * **Priorities** ensure urgent tasks get more CPU time
 * **Synchronization** prevents conflicts when multiple processes share resources
+---
+### Real word problems:
+* Zombie process
+* Deadlock
+* High CPU usage
+* Slow multitasking

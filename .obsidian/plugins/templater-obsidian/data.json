@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Template",
+  "templates_folder": "Template/Progress tracker",
   "templates_pairs": [
     [
       "",
@@ -28,9 +28,10 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [],
+  "enabled_templates_hotkeys": [
+    "Template/Progress tracker/Daily Learning Progress.md"
+  ],
   "startup_templates": [
-    "Template/Progress tracker/Daily Learning Progress.md",
     ""
   ],
   "intellisense_render": 1
