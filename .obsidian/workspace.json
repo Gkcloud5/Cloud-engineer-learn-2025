@@ -6,7 +6,6 @@
       {
         "id": "6431deace3c8d7eb",
         "type": "tabs",
-        "dimension": 67.99363057324841,
         "children": [
           {
             "id": "3b5bf0297831b0fd",
@@ -25,17 +24,27 @@
             }
           },
           {
-            "id": "29c4a941abed3dcc",
+            "id": "cf2e410f11b95830",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-OS/000-Progress tracker/002 - OS Process Management - 22nd OCT 2025.md",
+                "file": "01-OS/001 - OS Learn/Day 4 - Scheduling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 - OS Process Management - 22nd OCT 2025"
+              "title": "Day 4 - Scheduling"
+            }
+          },
+          {
+            "id": "29c4a941abed3dcc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -53,66 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "956a1033a389f553",
-        "type": "tabs",
-        "dimension": 32.00636942675159,
-        "children": [
-          {
-            "id": "50b95ddd0b7cc647",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "01-OS/000-Progress tracker/002 - OS Process Management - 22nd OCT 2025.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224432,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of 002 - OS Process Management - 22nd OCT 2025"
-            }
-          },
-          {
-            "id": "3d08961b69285aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-OS/001 - OS Learn/Day 3 - Process Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 3 - Process Management"
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,9 +215,10 @@
   },
   "active": "29c4a941abed3dcc",
   "lastOpenFiles": [
-    "01-OS/001 - OS Learn/Day 3 - Process Management.md",
     "01-OS/000-Progress tracker/002 - OS Process Management - 22nd OCT 2025.md",
     "01-OS/000-Plan and action/01 - OS Plans.md",
+    "01-OS/001 - OS Learn/Day 4 - Scheduling.md",
+    "01-OS/001 - OS Learn/Day 3 - Process Management.md",
     "Template/Progress tracker/Daily Learning Progress.md",
     "01-OS/001 - OS Learn/Day 2 - Architecture.md",
     "01-OS/000-Progress tracker/001 - OS Architecture - 21th oct 2025.md",

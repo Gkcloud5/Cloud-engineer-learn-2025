@@ -15,25 +15,22 @@ What I want to learn or understand today:
 Key points or takeaways:
 - Actually process is a programs, if programs comes under CPU time then it's process
 - Threads also like process but it's sub part of process
-- OS
+- Process states and PCB
+- Context switching
+- IMPORTANT: Scheduler, priority, Synchronization
 
 ---
 
 ## ⚙️ Challenges
 Things I didn’t understand or need to review:
-- 
-
----
-
-## 💡 Reflection
-- What went well: 
-- What needs improvement: 
-- How I feel about today’s progress (1–10): 
+- Deadlock, zombie process
+- Anatomy of memory
+- How memory hold process information
 
 ---
 
 ## 🚀 Plan for Tomorrow
-- 
+- [[Day 4 - Scheduling]]
 
 ---
 
