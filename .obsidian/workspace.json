@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "cd1ef11f9bfc173e",
+            "id": "dccc3fb1c87cd6b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,48 +39,21 @@
             }
           },
           {
-            "id": "56daa70896b7dea6",
+            "id": "29c4a941abed3dcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-OS/001 - OS Learn/Day 2 - Architecture.md",
+                "file": "01-OS/001 - OS Learn/Day 3 - Process Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 2 - Architecture"
-            }
-          },
-          {
-            "id": "0d70045d5c72f6fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-OS/000-Progress tracker/001 - OS Architecture - 21th oct 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001 - OS Architecture - 21th oct 2025"
-            }
-          },
-          {
-            "id": "b09d54f0bbd9e944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-OS/000-Progress tracker/001 - OS Architecture - 21th oct 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001 - OS Architecture - 21th oct 2025"
+              "title": "Day 3 - Process Management"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "956a1033a389f553",
@@ -93,7 +66,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-OS/000-Plan and action/01 - OS Plans.md",
+                "file": "01-OS/001 - OS Learn/Day 3 - Process Management.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +94,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 01 - OS Plans"
+              "title": "Graph of Day 3 - Process Management"
             }
           }
         ]
@@ -275,13 +248,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50b95ddd0b7cc647",
+  "active": "29c4a941abed3dcc",
   "lastOpenFiles": [
+    "01-OS/000-Plan and action/01 - OS Plans.md",
+    "01-OS/001 - OS Learn/Day 3 - Process Management.md",
+    "01-OS/001 - OS Learn/Day 2 - Architecture.md",
     "01-OS/000-Progress tracker/001 - OS Architecture - 21th oct 2025.md",
     "01-OS/003-Process Management",
-    "01-OS/001 - OS Learn/Day 3 - Process Management.md",
-    "01-OS/000-Plan and action/01 - OS Plans.md",
-    "01-OS/001 - OS Learn/Day 2 - Architecture.md",
     "01-OS/000-Progress tracker/000 - OS Overview PT - 20th Oct 2025.md",
     "README.md",
     "Cloud engineer 2025 plan.md",
