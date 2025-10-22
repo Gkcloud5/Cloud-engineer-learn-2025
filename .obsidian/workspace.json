@@ -38,7 +38,8 @@
               "title": "Day 3 - Process Management"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "956a1033a389f553",
@@ -51,7 +52,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-OS/000-Plan and action/01 - OS Plans.md",
+                "file": "01-OS/001 - OS Learn/Day 3 - Process Management.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,7 +80,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 01 - OS Plans"
+              "title": "Graph of Day 3 - Process Management"
             }
           }
         ]
@@ -233,10 +234,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b5bf0297831b0fd",
+  "active": "29c4a941abed3dcc",
   "lastOpenFiles": [
-    "01-OS/001 - OS Learn/Day 3 - Process Management.md",
     "01-OS/000-Plan and action/01 - OS Plans.md",
+    "01-OS/001 - OS Learn/Day 3 - Process Management.md",
     "01-OS/001 - OS Learn/Day 2 - Architecture.md",
     "01-OS/000-Progress tracker/001 - OS Architecture - 21th oct 2025.md",
     "01-OS/003-Process Management",
