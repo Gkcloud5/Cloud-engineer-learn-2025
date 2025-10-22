@@ -21,4 +21,18 @@
 	* CPU registers -- Temporary data like storing state when context switching
 	* Memory info -- Which memory segment it uses
 	* IO status -- Devices assigned to it
-	* Priority -- Importance of process
+	* Accounting info -- Importance of process, CPU time
+----
+### Context switching:
+* CPU switches from one process to another, it performs context switching
+* Steps:
+	* Save current state into PCB
+	* Load the next process state from it's PCB
+	* Resume execution
+* Too many context switching slow down performance
+
+---
+### How OS manages process efficiently:
+* **Schedulers** decide which process runs next
+* **Priorities** ensure urgent tasks get more CPU time
+* **Synchronization** prevents conflicts when multiple processes share resources
