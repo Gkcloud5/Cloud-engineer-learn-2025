@@ -16,7 +16,7 @@
 ## ✅ Progress Tracker
 - [x] Day 1 – OS Overview
 - [x] Day 2 – System Architecture
-- [ ] Day 3 – Process Management
+- [x] Day 3 – Process Management
 - [ ] Day 4 – CPU Scheduling
 - [ ] Day 5 – Threads & Concurrency
 - [ ] Day 6 – Interprocess Communication
