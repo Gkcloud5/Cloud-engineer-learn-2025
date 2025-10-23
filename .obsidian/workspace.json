@@ -37,7 +37,8 @@
               "title": "Day 4 - Scheduling"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,10 +189,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b5bf0297831b0fd",
+  "active": "60e15baac5c5c017",
   "lastOpenFiles": [
-    "01-OS/001 - OS Learn/Day 4 - Scheduling.md",
     "01-OS/000-Plan and action/01 - OS Plans.md",
+    "01-OS/001 - OS Learn/Day 4 - Scheduling.md",
     "Template/Progress tracker/Daily Learning Progress.md",
     "01-OS/000-Progress tracker/002 - OS Process Management - 22nd OCT 2025.md",
     "01-OS/001 - OS Learn/Day 3 - Process Management.md",
