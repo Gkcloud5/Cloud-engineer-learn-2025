@@ -75,9 +75,9 @@ Kernel = brain; Shell = face; System call = translator.
 Factory analogy: workers (processes) doing assigned tasks.
 
 **💻 Task:**  
-- [ ] Run `ps aux` or open Task Manager  
-- [ ] Observe process IDs and states  
-- [ ] Note 3 observations about process switching  
+- [x] Run `ps aux` or open Task Manager  
+- [x] Observe process IDs and states  
+- [x] Note 3 observations about process switching  
 
 ---
 
