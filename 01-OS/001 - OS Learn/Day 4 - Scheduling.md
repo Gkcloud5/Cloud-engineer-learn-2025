@@ -54,4 +54,13 @@ avg.tat = 9ms
 **Average Turnaround Time:** (11 + 7 + 17) / 3 = **11.67 ms**
 
 ### 4.2.4 Priority scheduling:
-* 
+* Process with the highest priority runs first
+* Problem: Low priority process may wait forever
+
+|Process|Burst|Priority (1=Highest)|Waiting Time|Turnaround Time|
+|---|---|---|---|---|
+|P2|3|1|0|3|
+|P1|5|2|3|8|
+|P3|8|3|8|16|
+**Average Waiting Time:** 3.67 ms  
+**Average Turnaround Time:** 9.0 ms

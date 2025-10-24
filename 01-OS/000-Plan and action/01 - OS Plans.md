@@ -93,9 +93,9 @@ Factory analogy: workers (processes) doing assigned tasks.
 A chef (CPU) cooking multiple orders (processes).
 
 **🧠 Task:**  
-- [ ] Simulate scheduling for 3 processes (burst times: 5, 3, 8)  
-- [ ] Calculate waiting and turnaround times manually  
-- [ ] Identify which algorithm is most efficient  
+- [x] Simulate scheduling for 3 processes (burst times: 5, 3, 8)  
+- [x] Calculate waiting and turnaround times manually  
+- [x] Identify which algorithm is most efficient  
 
 ---
 
