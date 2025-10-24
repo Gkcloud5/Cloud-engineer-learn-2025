@@ -35,4 +35,17 @@ How OS enable single process to perform multiple tasks at the same time, efficie
 ---
 
 ### 5.4  Benefits of multithreading:
-* Responsiveness
+* Responsiveness 
+* Resource sharing --> Threads share same memory and data
+* Economy --> Less memory than multiple processes
+* Scalability --> Runs faster on multi core CPU's
+
+---
+
+### 5.5 Context Switching between threads:
+* OS switches threads in CPU time and execute fast, main difference from processes is memory, threads is shared memory so threads execute faster in CPU time
+----
+
+###  5.6 Thread Synchronization:
+* When multiple threads share the same data, problems like `Race conditions`
+	* Use `locks` or `Semaphores` to control access.
