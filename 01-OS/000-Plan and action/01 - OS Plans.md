@@ -18,7 +18,7 @@
 - [x] Day 2 – System Architecture
 - [x] Day 3 – Process Management
 - [x] Day 4 – CPU Scheduling
-- [ ] Day 5 – Threads & Concurrency
+- [x] Day 5 – Threads & Concurrency
 - [ ] Day 6 – Interprocess Communication
 - [ ] Day 7 – Memory Management
 - [ ] Day 8 – File System
@@ -111,9 +111,9 @@ A chef (CPU) cooking multiple orders (processes).
 Multiple hands (threads) working on one task (process).
 
 **💻 Task:**  
-- [ ] Write simple Python code with `threading` module  
-- [ ] Observe concurrent execution  
-- [ ] Note difference between concurrency and parallelism  
+- [x] Write simple Python code with `threading` module  
+- [x] Observe concurrent execution  
+- [x] Note difference between concurrency and parallelism  
 
 ---
 

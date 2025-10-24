@@ -8,11 +8,12 @@ How OS enable single process to perform multiple tasks at the same time, efficie
 * A thread is the smallest unit of execution inside a process
 * Every process has it own thread main one
 
-|Concept|Description|Real-Life Analogy|
-|---|---|---|
-|**Process**|Independent program with its own memory|A company building|
-|**Thread**|Lightweight sub-task within the process|Employees in the same office|
-|**CPU Core**|Executes threads|Workers doing the tasks|
+| Concept      | Description                             | Real-Life Analogy            |
+| ------------ | --------------------------------------- | ---------------------------- |
+| **Process**  | Independent program with its own memory | A company building           |
+| **Thread**   | Lightweight sub-task within the process | Employees in the same office |
+| **CPU Core** | Executes threads                        | Workers doing the tasks      |
+|              |                                         |                              |
 
 ---
 ### 5.2  Process vs Thread:
@@ -49,3 +50,10 @@ How OS enable single process to perform multiple tasks at the same time, efficie
 ###  5.6 Thread Synchronization:
 * When multiple threads share the same data, problems like `Race conditions`
 	* Use `locks` or `Semaphores` to control access.
+
+
+💬 **Takeaway Thought:**
+
+> “Threads are the secret hands that make your apps feel fast —  
+> one mind, many hands, working in perfect rhythm.”
+
