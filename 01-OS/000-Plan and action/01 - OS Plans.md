@@ -17,7 +17,7 @@
 - [x] Day 1 – OS Overview
 - [x] Day 2 – System Architecture
 - [x] Day 3 – Process Management
-- [ ] Day 4 – CPU Scheduling
+- [x] Day 4 – CPU Scheduling
 - [ ] Day 5 – Threads & Concurrency
 - [ ] Day 6 – Interprocess Communication
 - [ ] Day 7 – Memory Management
