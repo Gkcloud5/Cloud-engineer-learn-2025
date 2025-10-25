@@ -49,7 +49,6 @@
 * It ensures `process isolation + controlled data sharing`
 ---
 ### 6.6  What Happens When It’s Working (Behind the Scenes)
-
 1. OS sets up a **communication path** (pipe, socket, shared memory).
 2. Data moves either through:
     - **Kernel** (message passing) 
