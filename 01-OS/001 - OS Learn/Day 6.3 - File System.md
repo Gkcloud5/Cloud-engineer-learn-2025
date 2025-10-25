@@ -54,4 +54,20 @@ How OS is stores, organizes and protects data using file system, directory struc
 	* Owner
 	* Group
 	* others
-* OS checks permission before allowing access,
+* OS checks permission before allowing access, this prevents unauthorized users from reading and deleting sensitive data
+
+### 6.3.6 How File access works:
+1. Open a file
+2. OS checks your permission using file metadata
+3. If allowed --> OS finds which block on the disk store the file's data
+4. OS loads those blocks into RAM for you to use
+5. When you save --> OS writes the modified data back to the disk blocks
+
+### 6.3.7 Common Problems:
+1. Fragmentation:
+	1. File stored in non-contiguous blocks --> Slow file access
+	2. File Corruption --> Incomplete write
+	3. Unauthorized access --> Weak access control
+	4. Lost files --> File table entry removed
+	5. Inode limit reached --> Too many small files --> no space left error through disk has free space
+

@@ -167,7 +167,7 @@ File cabinet with folders, labels, and locks.
 **💻 Task:**  
 - [ ] Run `ls -l`, `chmod`, `touch` on Linux  
 - [ ] Observe file permissions and owner info  
-- [ ] Note how OS prevents unauthorized access  
+- [x] Note how OS prevents unauthorized access  
 
 ---
 
