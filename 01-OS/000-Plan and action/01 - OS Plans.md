@@ -19,8 +19,8 @@
 - [x] Day 3 – Process Management
 - [x] Day 4 – CPU Scheduling
 - [x] Day 5 – Threads & Concurrency
-- [ ] Day 6 – Interprocess Communication
-- [ ] Day 7 – Memory Management
+- [x] Day 6 – Interprocess Communication
+- [x] Day 7 – Memory Management
 - [ ] Day 8 – File System
 - [ ] Day 9 – I/O Management
 - [ ] Day 10 – Deadlocks & Security
@@ -147,9 +147,9 @@ Two chefs (processes) sharing one cutting board (memory).
 Library shelf (RAM) and borrowing books (Virtual Memory).
 
 **🧠 Task:**  
-- [ ] Draw memory layout: Stack, Heap, Code, Data  
-- [ ] Note what grows upward/downward  
-- [ ] Explain how paging improves performance  
+- [x] Draw memory layout: Stack, Heap, Code, Data  
+- [x] Note what grows upward/downward  
+- [x] Explain how paging improves performance  
 
 ---
 
@@ -225,7 +225,7 @@ Traffic jam (deadlock) — all cars waiting for each other.
 - [[Day 5 - Threads]]
 - [[Day 6.1 - IPC]]
 - [[Day 6.2 - Memory]]
-- [[Day 8 - File System]]
+- [[Day 6.3 - File System]]
 - [[Day 9 - I/O]]
 - [[Day 10 - Deadlock & Security]]
 
