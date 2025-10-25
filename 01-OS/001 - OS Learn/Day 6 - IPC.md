@@ -30,3 +30,29 @@
 	* **Mutex** --> Only one process can access a resources at a a time
 	* **Semaphores** --> Allow limited access
 	* **Events/Conditions** --> Used to signal between processes --> wait/ notify pattern
+
+---
+### 6.4 Race Conditions:
+* A race conditions occurs when 2 process try to modify shared data simultaneously
+* Solutions:
+	* Locks 
+	* Semaphores
+
+---
+
+### 6.5 How OS manages IPC internally
+* OS maintains buffer, queue, memory maps to manage communication
+* It provides system calls
+	* pipe()
+	* shmget()
+	* msgsnd()
+* It ensures `process isolation + controlled data sharing`
+---
+### 6.6  What Happens When It’s Working (Behind the Scenes)
+
+1. OS sets up a **communication path** (pipe, socket, shared memory).
+2. Data moves either through:
+    - **Kernel** (message passing) 
+    - **Shared space in memory** (shared memory) 
+3. Synchronization tools (locks/semaphores) ensure one process doesn’t overwrite another’s data.
+4. Once communication ends, OS cleans up the channel.
