@@ -13,4 +13,24 @@ How OS is stores, organizes and protects data using file system, directory struc
 
 ### 6.3.2 Main Components of file system:
 1. Directory structure --> Organizes files in a hierarchical way 
-2. File Allocation Table --> Keeps track of which disk blocks stores shi
+2. File Allocation Table --> Keeps track of which disk blocks stores which part of a file
+3. Inodes --> Contain file meta data
+	1. Size, permission, owner, timestamp like information
+4. File Permission --> Control who can read and write
+5. Security --> Secure unauthorized users can't access sensitive data
+
+### 6.3.3 Directory Structure:
+* Most OS uses hierarchy directory structure
+* Common directory structure
+	* Single-level --> All files in one directory
+	* Two-level --> Separate directory for each user
+	* Tree-structure --> Hierarchical system with sub directory
+	* Acryclic graph --> Allow shared file via links
+		* Hard links
+
+### 6.3.4 How files are tracked?
+* By using FAT or Inodes
+#### 6.3.4.1  FAT:
+* File allocation table
+	* Using in windows
+	* 
