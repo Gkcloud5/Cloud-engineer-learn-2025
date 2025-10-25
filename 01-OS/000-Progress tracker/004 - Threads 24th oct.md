@@ -25,7 +25,7 @@ Things I didn’t understand or need to review:
 ---
 
 ## 🚀 Plan for Tomorrow
--  [[Day 6 - IPC]]
+-  [[Day 6.1 - IPC]]
 
 ---
 

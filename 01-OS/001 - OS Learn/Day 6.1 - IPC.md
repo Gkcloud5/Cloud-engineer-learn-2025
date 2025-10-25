@@ -1,14 +1,14 @@
 
 **Generally different process need to communicate within to complete their tasks on that time InterProcess Communication will help to complete it in better way and avoid conflicts**
 
-### 6.1 What is IPC:
+### 6.1.1 What is IPC:
 * Generally process are running their isolated place seems one process to another process no connection, sometime they need to connect to complete the tasks during that time IPC comes in.
 	* Both process communicate between them and do works efficiently
 * *IPC is a mechanism that allows process to exchange data and messages safely and efficiently*
 
 ---
 
-### 6.2 Main IPC models:
+### 6.1.2 Main IPC models:
 ##### 1. Message Passing
 * Process communicate between by sending message by using channels managed by OS
 * **Methods:**
@@ -24,7 +24,7 @@
 	* Usage
 
 ---
-### 6.3 Synchronization:
+### 6.1.3 Synchronization:
 * When multiple process or threads shared data, they must stay synchronized to avoid inconsistency
 * Common tools:
 	* **Mutex** --> Only one process can access a resources at a a time
@@ -32,7 +32,7 @@
 	* **Events/Conditions** --> Used to signal between processes --> wait/ notify pattern
 
 ---
-### 6.4 Race Conditions:
+### 6.1.4 Race Conditions:
 * A race conditions occurs when 2 process try to modify shared data simultaneously
 * Solutions:
 	* Locks 
@@ -40,7 +40,7 @@
 
 ---
 
-### 6.5 How OS manages IPC internally
+### 6.1.5 How OS manages IPC internally
 * OS maintains buffer, queue, memory maps to manage communication
 * It provides system calls
 	* pipe()
@@ -48,7 +48,7 @@
 	* msgsnd()
 * It ensures `process isolation + controlled data sharing`
 ---
-### 6.6  What Happens When It’s Working (Behind the Scenes)
+### 6.1.6  What Happens When It’s Working (Behind the Scenes)
 1. OS sets up a **communication path** (pipe, socket, shared memory).
 2. Data moves either through:
     - **Kernel** (message passing) 
