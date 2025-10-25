@@ -25,4 +25,8 @@
 
 ---
 ### 6.3 Synchronization:
-* When multiple process or threads shared data,
+* When multiple process or threads shared data, they must stay synchronized to avoid inconsistency
+* Common tools:
+	* **Mutex** --> Only one process can access a resources at a a time
+	* **Semaphores** --> Allow limited access
+	* **Events/Conditions** --> Used to signal between processes --> wait/ notify pattern
