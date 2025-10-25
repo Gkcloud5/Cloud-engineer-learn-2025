@@ -55,3 +55,28 @@ Memory management will do allocate, organise and optimize system memory(RAM + Vi
 |**Data Segment**|Global/static data|Configuration values|
 |**Stack Segment**|Local variables, function calls|Temporary values|
 |**Heap Segment**|Dynamically allocated memory|Objects created at runtime|
+* There is a chance for external fragmentation
+
+### 6.2.5 Virtual memory:
+* When RAM is full then OS will use some portion of disk to act as extra memory
+	* OS moves less used pages to swap space on disk
+	* Active pages stay in RAM
+	* When needed again --> swapped back from disk
+* Continues swap will lead to down performance --> `thrashing`
+
+### 6.2.6 Page table:
+* Each process has its own page table, it has
+	* Virtual page number
+	* Physical page number
+
+|Virtual Page|Physical Frame|
+|---|---|
+|0|3|
+|1|7|
+|2|1|
+|3|5|
+
+### 6.2.7 Swapping
+* Moving data between RAM and disk
+* when there is not enough memory in RAM then OS temp moves inactive processes pages to disk(swap area), when needed again, it swaps back them
+* 
