@@ -33,4 +33,25 @@ How OS is stores, organizes and protects data using file system, directory struc
 #### 6.3.4.1  FAT:
 * File allocation table
 	* Using in windows
-	* 
+	* Table based system --> Keeps a map where each files are stored on disk
+	* Linked allocation --> Each file block points to the next block
+* A long index point's where each file's entries point to its next part
+
+#### 6.3.4.2  Inodes:
+* Each file has its own ID card containing all its details
+* Metadata includes
+	* File size
+	* Owner
+	* Permission
+	* Timestamp
+* Inodes does not store name alone
+* Inode points to data blocks directly
+* Used in linux system
+
+### 6.3.5 File Permission:
+* Decides who read, write, execute a file
+* Each file has
+	* Owner
+	* Group
+	* others
+* OS checks permission before allowing access,
