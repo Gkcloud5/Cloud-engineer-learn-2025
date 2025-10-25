@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,10 +203,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e63aa2943d1c7455",
+  "active": "7e254bc41bb8fd20",
   "lastOpenFiles": [
-    "01-OS/000-Plan and action/01 - OS Plans.md",
     "01-OS/001 - OS Learn/Day 6.3 - File System.md",
+    "01-OS/000-Plan and action/01 - OS Plans.md",
     "01-OS/001 - OS Learn/Day 6.2 - Memory.md",
     "01-OS/001 - OS Learn/Day 6.1 - IPC.md",
     "01-OS/000-Progress tracker/004 - Threads 24th oct.md",
