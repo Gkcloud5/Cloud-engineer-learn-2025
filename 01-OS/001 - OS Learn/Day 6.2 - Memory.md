@@ -20,8 +20,8 @@ Memory management will do allocate, organise and optimize system memory(RAM + Vi
 	* Data segment
 	* Code segment
 
-	  ``
-	  |----------------------------|  High Memory
+```
+|----------------------------|  High Memory
 |         Stack              |  🔻 Grows Downward
 |----------------------------|
 |         Heap               |  🔺 Grows Upward
@@ -32,3 +32,6 @@ Memory management will do allocate, organise and optimize system memory(RAM + Vi
 |----------------------------|  Low Memory
 
 ```
+
+### 6.2.3 Paging:
+* 
