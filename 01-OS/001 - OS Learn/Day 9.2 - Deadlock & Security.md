@@ -36,4 +36,7 @@ Here we will understand how OS avoid system freezes and protect data in system
 
 #### 9.2.2.1 Main components of OS security:
 * Authentication --> Verify users identity
-* 
+* Authorization --> Grant resources access
+* Encryption --> Protect stored or transmitted data
+* Audit and log --> Track actions
+* Virus/malware --> Monitor and isolate threats
