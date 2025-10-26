@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,8 +203,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "566db44907f02fdf",
+  "active": "3002508a1728b2e9",
   "lastOpenFiles": [
+    "Cloud engineer 2025 plan.md",
     "01-OS/000-Plan and action/01 - OS Plans.md",
     "01-OS/001 - OS Learn/Day 9 - Input and output.md",
     "Day 9 - I/O.md",
@@ -224,7 +225,6 @@
     "01-OS/003-Process Management",
     "01-OS/000-Progress tracker/000 - OS Overview PT - 20th Oct 2025.md",
     "README.md",
-    "Cloud engineer 2025 plan.md",
     "01-OS/Old/01-About OS.md",
     "01-OS/Old/000-Operating system.md",
     "01-OS/Old/02-Main Functions of OS/02-Main Functions of OS.md",
