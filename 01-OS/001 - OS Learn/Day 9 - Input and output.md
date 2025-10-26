@@ -18,3 +18,19 @@
 
 #### 9.2.3 Spooling:
 * It means queueing IO tasks so slow devices can process them one at a time
+* Ex: Printer
+
+### 9.3 Device Drivers:
+* The translator between OS and hardware
+* It's specialized software that lets the OS communicate directly with hardware devices
+* Functions:
+	* Converts OS instruction into device specific signals
+
+
+### 9.4 Interrupt Handling:
+* An interrupt is signal sent by a devices to get CPU attention
+* Process:
+	* Device sends interrupt signal
+	* CPU saves its current state --> context switch
+	* OS identifies interrupt and runs the correct handler
+	* After servicing CPU resumes previous work
