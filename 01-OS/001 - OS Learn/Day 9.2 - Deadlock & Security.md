@@ -17,4 +17,17 @@ Here we will understand how OS avoid system freezes and protect data in system
 3. No preemption --> Can't be forcibly taken
 4. Circular wait --> Process form cycle and wait on each other
 
-#### 9.2.1.3 Deadlock prevention and detection:
+#### 9.2.1.3 Deadlock prevention:
+1. Eliminate Hold and wait --> Process requests all resources at once
+2. Allow preemption --> OS can take resources away
+3. Avoid circular wait --> Impose ordering on resources
+4. Deny mutual exclusion --> Share resources if possible
+
+#### 9.2.1.4 Deadlock detection and recovery:
+1. Detection algorithm --> circular waiting graphs
+2. Recovery: Abort or restart one process to break the cycle
+
+
+### 9.2.2 What is OS security basics:
+* It ensures
+	* Only aut
