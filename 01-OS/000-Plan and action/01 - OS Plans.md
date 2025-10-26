@@ -227,7 +227,7 @@ Traffic jam (deadlock) — all cars waiting for each other.
 - [[Day 6.2 - Memory]]
 - [[Day 6.3 - File System]]
 - [[Day 9 - Input and output]]
-- [[Day 10 - Deadlock & Security]]
+- [[Day 9.2 - Deadlock & Security]]
 
 ---
 
