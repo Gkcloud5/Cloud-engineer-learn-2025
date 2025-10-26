@@ -30,4 +30,10 @@ Here we will understand how OS avoid system freezes and protect data in system
 
 ### 9.2.2 What is OS security basics:
 * It ensures
-	* Only aut
+	* Only authorized users access resources
+	* Process are isolated from each other
+	* System data remains safe and private
+
+#### 9.2.2.1 Main components of OS security:
+* Authentication --> Verify users identity
+* 
