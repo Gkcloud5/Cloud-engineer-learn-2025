@@ -34,3 +34,9 @@
 	* CPU saves its current state --> context switch
 	* OS identifies interrupt and runs the correct handler
 	* After servicing CPU resumes previous work
+
+### 9.5 Why it's important:
+* It keeps CPU busy
+* Prevent data loss due to missmatch speed
+* Increase system efficiency
+* Allows true multitasking

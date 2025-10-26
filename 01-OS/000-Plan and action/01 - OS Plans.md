@@ -183,9 +183,9 @@ File cabinet with folders, labels, and locks.
 Printer queue = spooling; cache = waiting area for quick reuse.
 
 **💻 Task:**  
-- [ ] Observe printer or download queue behavior  
-- [ ] Identify where buffering or caching occurs  
-- [ ] Note one example of I/O bottleneck  
+- [x] Observe printer or download queue behavior  
+- [x] Identify where buffering or caching occurs  
+- [x] Note one example of I/O bottleneck  
 
 ---
 
