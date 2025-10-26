@@ -37,7 +37,8 @@
               "title": "Day 9 - Input and output"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,10 +189,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b5bf0297831b0fd",
+  "active": "3002508a1728b2e9",
   "lastOpenFiles": [
-    "01-OS/001 - OS Learn/Day 9 - Input and output.md",
     "01-OS/000-Plan and action/01 - OS Plans.md",
+    "01-OS/001 - OS Learn/Day 9 - Input and output.md",
     "Day 9 - I/O.md",
     "Day 9 - I",
     "01-OS/001 - OS Learn/Day 6.3 - File System.md",
