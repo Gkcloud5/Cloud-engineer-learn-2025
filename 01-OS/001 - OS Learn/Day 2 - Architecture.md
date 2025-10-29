@@ -59,10 +59,10 @@
 * User mode -- Apps take resources
 * Kernel mode -- full access
 
-|Mode|Who Works Here|Power Level|Example|
-|---|---|---|---|
-|**User Mode**|Applications|Limited access|Chrome, Spotify, VS Code|
-|**Kernel Mode**|OS Core|Full access|File systems, Device drivers|
+| Mode            | Who Works Here | Power Level    | Example                      |
+| --------------- | -------------- | -------------- | ---------------------------- |
+| **User Mode**   | Applications   | Limited access | Chrome, Spotify, VS Code     |
+| **Kernel Mode** | OS Core        | Full access    | File systems, Device drivers |
 * This separation prevents apps from crashing entire OS
 
 
