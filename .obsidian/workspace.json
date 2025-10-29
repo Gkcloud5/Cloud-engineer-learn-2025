@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-OS/001 - OS Learn/Day 4 - Scheduling.md",
+                "file": "01-OS/001 - OS Learn/Day 5 - Threads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 4 - Scheduling"
+              "title": "Day 5 - Threads"
             }
           }
         ],
@@ -205,6 +205,7 @@
   },
   "active": "3445020bde4f6c17",
   "lastOpenFiles": [
+    "01-OS/001 - OS Learn/Day 4 - Scheduling.md",
     "01-OS/001 - OS Learn/Day 3 - Process Management.md",
     "01-OS/001 - OS Learn/Day 2 - Architecture.md",
     "01-OS/001 - OS Learn/Recall/OS recall.md",
@@ -220,7 +221,6 @@
     "01-OS/001 - OS Learn/Day 6.1 - IPC.md",
     "01-OS/000-Progress tracker/004 - Threads 24th oct.md",
     "01-OS/001 - OS Learn/Day 5 - Threads.md",
-    "01-OS/001 - OS Learn/Day 4 - Scheduling.md",
     "01-OS/000-Progress tracker/003 - CPU Scheduling - 23rd oct.md",
     "Template/Progress tracker/Daily Learning Progress.md",
     "01-OS/000-Progress tracker/002 - OS Process Management - 22nd OCT 2025.md",
