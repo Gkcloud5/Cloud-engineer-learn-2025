@@ -1,143 +1,157 @@
-## 🧩 **30 Operating System Recall Questions**
+# **30 FAANG-Level Operating System Interview Questions**
 
-### 🧱 **Day 1 – Introduction & Overview**
+---
 
-1. What is the **main role** of an operating system between users and hardware?
+## 🧠 **Section 1: Core OS Fundamentals (Warm-up / Screening Level)**
+
+1. **What happens when you turn on your computer, step-by-step from power-on to desktop screen?**  
+    🔍 _Tests:_ System boot process, OS loading, kernel initialization, and process startup.
     
-2. Name **five core responsibilities** of an OS.
+2. **Explain the difference between a process and a thread — and why threads are faster.**  
+    🔍 _Tests:_ Understanding of context switching, memory sharing, and overhead.
     
-3. Give one example of how an OS acts like a **manager** in a company.
+3. **What’s the difference between a monolithic kernel and a microkernel? Which one scales better?**  
+    🔍 _Tests:_ Architectural understanding and design trade-offs.
+    
+4. **Describe how system calls work. What happens in the OS when you call `read()` or `write()`?**  
+    🔍 _Tests:_ User mode ↔ kernel mode transitions, and OS–hardware boundary.
+    
+5. **Explain what happens when you execute a program (like `./a.out`) on Linux.**  
+    🔍 _Tests:_ Process creation, `fork()`, `exec()`, loading program into memory, and scheduling.
     
 
 ---
 
-### ⚙️ **Day 2 – System Architecture & Components**
+## ⚙️ **Section 2: Process & Thread Management**
 
-4. What are the **three main parts** of an OS (hint: brain, face, translator)?
+6. **What’s stored in a Process Control Block (PCB)?**  
+    🔍 _Tests:_ Knowledge of context switching, process state, CPU registers, scheduling info.
     
-5. How does a **system call** help a user program communicate with the OS?
+7. **How does the OS perform a context switch? What data must it save and restore?**  
+    🔍 _Tests:_ Thread stack, CPU state, registers, process memory space.
     
-6. Explain the difference between **monolithic** and **microkernel** architectures.
+8. **What are zombie and orphan processes? How can you prevent them?**  
+    🔍 _Tests:_ Process lifecycle management, parent-child relationships, `wait()`.
     
-7. What is the difference between **user mode** and **kernel mode**, and why is it important for security?
+9. **Why is `fork()` followed by `exec()` used in UNIX systems?**  
+    🔍 _Tests:_ Process creation pipeline and performance design.
     
-
----
-
-### 🔁 **Day 3 – Process Management**
-
-8. Define a **process** and list the **five states** in its lifecycle.
-    
-9. What is a **Process Control Block (PCB)**, and what information does it hold?
-    
-10. Explain what happens during a **context switch** between two processes.
+10. **If two threads share the same address space, how do they communicate safely?**  
+    🔍 _Tests:_ Concurrency, synchronization primitives (locks, semaphores, condition variables).
     
 
 ---
 
-### 🧮 **Day 4 – CPU Scheduling**
+## 🧮 **Section 3: CPU Scheduling & Performance**
 
-11. What is the **goal** of CPU scheduling in an OS?
+11. **What’s the difference between preemptive and non-preemptive scheduling?**  
+    🔍 _Tests:_ Process interruption logic and fairness trade-offs.
     
-12. Explain the difference between **preemptive** and **non-preemptive** scheduling.
+12. **You have 3 processes with burst times 5, 3, and 8. Which scheduling algorithm gives minimum waiting time? Why?**  
+    🔍 _Tests:_ Algorithmic reasoning (SJF vs FCFS vs RR).
     
-13. Which CPU scheduling algorithm gives the **shortest average waiting time**, and why?
+13. **Why is Round Robin used in modern systems even though it’s not always the fastest?**  
+    🔍 _Tests:_ Understanding of fairness and time-sharing in multi-user systems.
     
-14. What is **Round Robin scheduling**, and why is it used in time-sharing systems?
+14. **How does CPU scheduling affect system responsiveness and throughput?**  
+    🔍 _Tests:_ Real-world optimization thinking.
     
-15. What is the **convoy effect** in FCFS scheduling?
-    
-
----
-
-### 🧵 **Day 5 – Threads & Concurrency**
-
-16. What’s the difference between a **process** and a **thread**?
-    
-17. Explain **concurrency vs. parallelism** using a real-life example.
-    
-18. Why is **thread context switching** faster than process switching?
-    
-19. What is a **race condition**, and how can synchronization prevent it?
+15. **What’s the difference between throughput, turnaround time, and waiting time? Give formulas.**  
+    🔍 _Tests:_ Performance metrics understanding.
     
 
 ---
 
-### 🔗 **Day 6 – Interprocess Communication (IPC)**
+## 🧵 **Section 4: Synchronization & Deadlocks**
 
-20. What is **Interprocess Communication (IPC)**, and why is it needed?
+16. **What is a race condition, and how can you avoid it in multi-threaded code?**  
+    🔍 _Tests:_ Concurrency safety, atomic operations, critical sections.
     
-21. Compare **message passing** and **shared memory** communication.
+17. **Explain the four necessary conditions for a deadlock. Can a system avoid it entirely?**  
+    🔍 _Tests:_ Coffman conditions, theoretical understanding.
     
-22. What is the purpose of a **semaphore or lock** in IPC?
+18. **How does a semaphore differ from a mutex? Give a real-world example for each.**  
+    🔍 _Tests:_ Synchronization primitives and practical analogy.
     
-23. Give one example of **message passing** in Python using `multiprocessing.Queue()`.
+19. **Describe how you would detect a deadlock in a system. What’s the complexity of detection?**  
+    🔍 _Tests:_ Resource allocation graph, cycle detection.
     
-
----
-
-### 🧠 **Day 7 – Memory Management**
-
-24. Explain the difference between **paging** and **segmentation**.
-    
-25. What is **virtual memory**, and how does it allow large programs to run on limited RAM?
-    
-26. What is the role of a **page table** in memory management?
-    
-27. What’s the difference between **stack** and **heap**, and which grows upward or downward?
+20. **If you were to design a deadlock prevention system, which Coffman condition would you break first and why?**  
+    🔍 _Tests:_ Analytical reasoning and trade-off thinking.
     
 
 ---
 
-### 📁 **Day 8 – File System Management**
+## 💾 **Section 5: Memory Management & Virtualization**
 
-28. What is an **inode**, and what type of information does it store about a file?
+21. **What is the difference between paging and segmentation? Which one avoids external fragmentation?**  
+    🔍 _Tests:_ Memory structure and fragmentation concepts.
     
-29. How does the OS use **file permissions** (`rwx`) to secure data?
+22. **Explain how virtual memory works. Why do we need it even on systems with lots of RAM?**  
+    🔍 _Tests:_ Abstraction, isolation, and performance optimization.
     
-30. What’s the difference between **FAT** and **Inode-based** file systems?
+23. **What’s a page fault? What steps does the OS take to handle it?**  
+    🔍 _Tests:_ Demand paging, disk access latency, page replacement.
     
-
----
-
-### 💽 **Day 9 – I/O & Device Management**
-
-31. What is **buffering**, and why is it important in I/O operations?
+24. **Explain the difference between stack and heap memory. Why does the stack grow downward?**  
+    🔍 _Tests:_ Program memory layout.
     
-32. Explain the difference between **buffering**, **caching**, and **spooling**.
-    
-33. What is the role of a **device driver**?
-    
-34. How does **interrupt handling** improve CPU performance?
+25. **How does the OS translate a virtual address to a physical address?**  
+    🔍 _Tests:_ Page tables, TLB, and MMU (Memory Management Unit).
     
 
 ---
 
-### 🚦 **Day 10 – Deadlocks, Security & Final Review**
+## 📂 **Section 6: File Systems & I/O**
 
-35. List the **four necessary conditions** for a deadlock (Coffman conditions).
+26. **Explain how inodes work in Linux. What information is stored inside an inode?**  
+    🔍 _Tests:_ Low-level understanding of file systems.
     
-36. How can the OS **prevent** a deadlock from happening?
+27. **What’s the difference between buffering, caching, and spooling? Give an example for each.**  
+    🔍 _Tests:_ Data flow and I/O optimization.
     
-37. What’s the difference between **deadlock detection** and **deadlock prevention**?
+28. **How does the OS handle interrupts from I/O devices?**  
+    🔍 _Tests:_ Interrupt handling mechanism, CPU scheduling interplay.
     
-38. What’s the purpose of a **resource allocation graph**, and what does a **cycle** represent?
+29. **What’s the role of a device driver? Why can bad drivers crash the OS?**  
+    🔍 _Tests:_ Kernel-space code and privilege awareness.
     
-39. What’s the difference between **authentication** and **authorization** in OS security?
-    
-40. How does **encryption** protect data in an operating system?
+30. **Explain how file permissions work in UNIX. What does `chmod 755` mean exactly?**  
+    🔍 _Tests:_ Permission bits, user/group/others model.
     
 
 ---
 
-## 🧠 **Bonus Memory Challenge (Advanced)**
+## 🔒 **Section 7: Security, Reliability & Design Thinking**
 
-41. Explain **how paging and swapping** work together to improve memory efficiency.
+31. **Explain the difference between authentication, authorization, and accounting (AAA model).**  
+    🔍 _Tests:_ Core security flow understanding.
     
-42. Describe a real-world **I/O bottleneck** and how buffering or caching can fix it.
+32. **How does OS isolation prevent one process from reading another’s memory?**  
+    🔍 _Tests:_ Hardware memory protection and virtual memory.
     
-43. How does the OS decide which process to terminate during **deadlock recovery**?
+33. **What’s the difference between a kernel panic and a user-space crash?**  
+    🔍 _Tests:_ Privilege boundaries and failure domains.
     
-44. Why is **kernel mode protection** crucial for system stability?
+34. **How does Linux enforce access control for system files?**  
+    🔍 _Tests:_ File permissions, ownership, and process privileges.
     
-45. If you were designing your own OS, what would be your top 3 priorities and why?
+35. **If you were designing an OS for cloud infrastructure, what changes would you make to improve security and concurrency?**  
+    🔍 _Tests:_ System design mindset — creativity + technical reasoning.
+    
+
+---
+
+# ⚡ **Bonus FAANG-Style Rapid Fire (for deeper interviews)**
+
+These questions test how well you **connect concepts** — a FAANG favorite.
+
+36. **What happens inside the OS when you type a command and press Enter in a terminal?**
+    
+37. **Why is context switching expensive, and how do threads help reduce this cost?**
+    
+38. **What is thrashing, and how can you detect and fix it?**
+    
+39. **Why does the OS prefer paging over segmentation in modern systems?**
+    
+40. **What’s the difference between kernel threads and user threads?**

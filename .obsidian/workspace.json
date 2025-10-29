@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,10 +217,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3445020bde4f6c17",
+  "active": "d98f026d114cefbe",
   "lastOpenFiles": [
-    "01-OS/001 - OS Learn/Recall/OS recall.md",
     "01-OS/001 - OS Learn/Day 9.2 - Deadlock & Security.md",
+    "01-OS/001 - OS Learn/Recall/OS recall.md",
     "01-OS/001 - OS Learn/Day 9 - Input and output.md",
     "01-OS/001 - OS Learn/Day 6.3 - File System.md",
     "01-OS/001 - OS Learn/Day 6.2 - Memory.md",
