@@ -4,7 +4,7 @@
 
 *  In this communication process OS has 3 important things
 	* Shell
-	*  System call
+	* System call
 	* Kernel
 
 **User talks to shell and shell tell kernel to do a work with system call, finally kernel take care the task and complete with resources like CPU, Memory, IO device, device manager, security**
