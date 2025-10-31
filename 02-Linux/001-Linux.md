@@ -1,12 +1,5 @@
-Excellent choice 🔥 — here’s your **ready-to-use Obsidian `.md` file** for  
-📘 **“Linux 5-Day Learning Plan (80/20 Rule)”** — designed for real-world mastery, focus, and motivation.  
-It includes ✅ checkboxes, 💭 reflections, 🎯 XP gamification, and 🧩 practical activities.
 
----
 
-### 🗂️ `Linux 5-Day Learning Plan (80-20 Focus).md`
-
-````markdown
 # 🐧 Linux 5-Day Learning Plan (80/20 Focus)
 
 > 🎯 **Goal:** Learn the most important 20% of Linux concepts and commands that give 80% of the practical power used in real-world environments.
@@ -37,6 +30,7 @@ Focus only on:
 - [ ] Navigation commands: `pwd`, `ls`, `cd`, `cat`, `less`, `head`, `tail`
 
 **🧩 Activity:**  
+
 Explore your system with:
 ```bash
 pwd
@@ -206,13 +200,13 @@ What’s one repetitive task you could automate with a script?
 
 ## 📊 Progress Tracker
 
-|Day|Topic|Completed|XP|Notes / Commands to Remember|
-|---|---|---|---|---|
-|1|Navigation|☐|+10||
-|2|File Mgmt|☐|+15||
-|3|Processes|☐|+20||
-|4|Networking|☐|+25||
-|5|Scripting|☐|+30||
+| Day | Topic      | Completed | XP  | Notes / Commands to Remember |
+| --- | ---------- | --------- | --- | ---------------------------- |
+| 1   | Navigation | ☐         | +10 |                              |
+| 2   | File Mgmt  | ☐         | +15 |                              |
+| 3   | Processes  | ☐         | +20 |                              |
+| 4   | Networking | ☐         | +25 |                              |
+| 5   | Scripting  | ☐         | +30 |                              |
 
 🏆 **Total XP Goal:** 100 XP → _Linux Power User Achieved!_
 
@@ -239,4 +233,5 @@ Write down your top 3 takeaways:
 > “Create a 5-day Linux learning plan using the 80/20 rule — focus only on high-impact commands and concepts with examples, tasks, reflection prompts, and XP tracking (for Obsidian).”
 
 ---
+
 
