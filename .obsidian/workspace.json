@@ -192,8 +192,9 @@
   "active": "b510350f6f9fd41c",
   "lastOpenFiles": [
     "Cloud engineer 2025 plan.md",
-    "01-OS/000-Plan and action/01 - OS.md",
     "02-Linux/001-Linux.md",
+    "02-Linux/Learn",
+    "01-OS/000-Plan and action/01 - OS.md",
     "01-OS/001 - OS Learn/Day 9.2 - Deadlock & Security.md",
     "000-Operating system.md",
     "02-Linux",
@@ -220,12 +221,10 @@
     "01-OS/Old/01-About OS.md",
     "01-OS/Old/000-Operating system.md",
     "01-OS/Old/02-Main Functions of OS/02-Main Functions of OS.md",
-    "01-OS/001 - OS Learn/Day 1 - OS Overview.md",
     "01-OS/002 - OS Architecture",
     "01-OS/001 - OS Learn",
     "01-OS/Old",
     "000-Dashboard",
-    "01-OS/000-Plan and action",
-    "01-OS/000-Progress tracker/OS"
+    "01-OS/000-Plan and action"
   ]
 }
