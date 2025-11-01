@@ -24,10 +24,10 @@ Focus only on:
 **Goal:** Understand what Linux is and how to move around confidently.
 
 **Topics**
-- [ ] What is Linux and its architecture  
-- [ ] Linux distributions (Ubuntu, CentOS, Debian)  
-- [ ] Filesystem hierarchy (`/home`, `/etc`, `/var`, `/bin`)  
-- [ ] Navigation commands: `pwd`, `ls`, `cd`, `cat`, `less`, `head`, `tail`
+- [x] What is Linux and its architecture  
+- [x] Linux distributions (Ubuntu, CentOS, Debian)  
+- [x] Filesystem hierarchy (`/home`, `/etc`, `/var`, `/bin`)  
+- [x] Navigation commands: `pwd`, `ls`, `cd`, `cat`, `less`, `head`, `tail`
 
 **🧩 Activity:**  
 
