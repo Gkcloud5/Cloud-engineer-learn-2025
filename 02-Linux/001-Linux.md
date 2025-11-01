@@ -49,7 +49,7 @@ How does it differ from Windows or macOS?
 
 ---
 
-### ✅ **Day 2 – File Management & Permissions**
+### ✅ **[[Day 2 – File Management & Permissions]]**
 
 **Goal:** Learn to manage files and control access like a power user.
 
