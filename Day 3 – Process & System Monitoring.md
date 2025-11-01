@@ -19,4 +19,15 @@ Understading how linux runs programs and how to control them.
 2. `nice` -- Set process priority
 	1. `nice -n 10  fileName`
 		1. Lower values --> Higher priority
-		2. Higher values --> 
+		2. Higher values --> lower priority
+
+### System info commands:
+
+| Command         | Purpose                            | Example Output                     |
+| --------------- | ---------------------------------- | ---------------------------------- |
+| `df -h`         | Disk Free space                    | See available storage on drives    |
+| `du -shfolder/` | Disk Usage                         | Check how much space a folder uses |
+| `free -h`       | Memory usage                       | See total, used, free RAM          |
+| `uptime`        | How long the system’s been running | “up 3 days, 2 hours”               |
+| `uname -a`      | System info                        | Kernel version, OS type            |
+| `dmesg`         | Kernel messages                    | Hardware and boot logs             |

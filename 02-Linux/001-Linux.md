@@ -111,7 +111,7 @@ How does Linux manage multiple processes simultaneously?
 
 ---
 
-### ✅ **Day 4 – Networking, Packages & Users**
+### ✅ **[[Day 4 – Networking, Packages & Users]]**
 
 **Goal:** Learn networking basics and user management.
 
@@ -142,7 +142,7 @@ Why is it safer than using the root account directly?
 
 ---
 
-### ✅ **Day 5 – Shell Scripting & Automation**
+### ✅ **[[Day 5 – Shell Scripting & Automation]]**
 
 **Goal:** Use scripting to automate repetitive tasks.
 
