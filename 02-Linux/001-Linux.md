@@ -82,14 +82,14 @@ What happens when you use `chmod 777`? Why is it risky?
 
 ---
 
-### ✅ **Day 3 – Process & System Monitoring**
+### ✅ **[[Day 3 – Process & System Monitoring]]**
 
 **Goal:** Understand how Linux runs programs and how to control them.
 
 **Topics**
 
 -  View processes: `ps`, `top`, `htop`
-    
+
 -  Manage processes: `kill`, `nice`, `bg`, `fg`
     
 -  System info: `df`, `du`, `free`, `uptime`, `uname`, `dmesg`
