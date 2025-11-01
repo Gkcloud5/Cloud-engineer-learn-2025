@@ -20,7 +20,7 @@ Focus only on:
 
 ---
 
-### ✅ **Day 1 – Foundation & Navigation**
+### ✅ **[[Day 1 – Foundation & Navigation]]**
 **Goal:** Understand what Linux is and how to move around confidently.
 
 **Topics**
