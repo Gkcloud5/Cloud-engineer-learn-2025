@@ -7,4 +7,4 @@
 * curl website
 	* Fetches data from a website or API using the command
 * wget
-	* 
+	*   
