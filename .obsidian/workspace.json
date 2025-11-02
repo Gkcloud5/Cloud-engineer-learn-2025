@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,10 +203,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b510350f6f9fd41c",
+  "active": "e9669d83f6f1c297",
   "lastOpenFiles": [
-    "Day 4 – Networking, Packages & Users.md",
     "02-Linux/001-Linux.md",
+    "Day 4 – Networking, Packages & Users.md",
     "Day 3 – Process & System Monitoring.md",
     "Day 2 – File Management & Permissions.md",
     "02-Linux/Learn/Day 1 – Foundation & Navigation.md",
