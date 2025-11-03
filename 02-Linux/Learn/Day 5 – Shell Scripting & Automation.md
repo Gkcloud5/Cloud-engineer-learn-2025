@@ -17,3 +17,13 @@ Script will help to run repititative tasks
 4. Use variables to avoid repetition
 5. Add error handling
 	1. &&, ||, set -e
+
+
+|Problem|Without Scripts 😩|With Scripts 😎|
+|---|---|---|
+|Backups|You forget sometimes|Script does it daily|
+|Server maintenance|You log in to 5 servers|One script updates all|
+|Deployments|Manual commands (risk of mistakes)|Automated, predictable steps|
+|Monitoring|You check logs manually|Script emails you only on errors|
+|Time|Hours wasted repeating tasks|Saved and reused every time|
+
