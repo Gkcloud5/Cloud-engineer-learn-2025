@@ -2,7 +2,7 @@
 #### Things to learn
 1. [[01 - OS]]
 2. [[001-Linux]]
-3. Networking
+3. [[Networking]]
 4. Git
 5. AWS
 6. IaC -- Terraform
