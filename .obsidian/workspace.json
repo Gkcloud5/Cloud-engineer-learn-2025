@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 4 – Networking, Packages & Users.md",
+                "file": "02-Linux/Learn/Day 4 – Networking, Packages & Users.md",
                 "mode": "source",
                 "source": false
               },
@@ -206,9 +206,9 @@
   "active": "e9669d83f6f1c297",
   "lastOpenFiles": [
     "02-Linux/001-Linux.md",
-    "Day 4 – Networking, Packages & Users.md",
-    "Day 3 – Process & System Monitoring.md",
-    "Day 2 – File Management & Permissions.md",
+    "02-Linux/Learn/Day 4 – Networking, Packages & Users.md",
+    "02-Linux/Learn/Day 3 – Process & System Monitoring.md",
+    "02-Linux/Learn/Day 2 – File Management & Permissions.md",
     "02-Linux/Learn/Day 1 – Foundation & Navigation.md",
     "Cloud engineer 2025 plan.md",
     "02-Linux/Learn",
