@@ -7,7 +7,7 @@
 
 ---
 
-## 📅 Day 1 – Networking Fundamentals (Interview Foundation)
+## 📅 [[Day 1 – Networking Fundamentals]] (Interview Foundation)
 **🎯 Focus:** Understand how computers communicate.
 
 ### 📘 Topics

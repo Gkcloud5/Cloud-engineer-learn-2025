@@ -40,35 +40,35 @@
             }
           },
           {
-            "id": "b5067a1f92c01ca4",
+            "id": "fa67e10808b7ac07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03- Networking/001-Plan/Networking.md",
+                "file": "Prompt Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking"
+              "title": "Prompt Example"
             }
           },
           {
-            "id": "bc2ed3c1de65d4a3",
+            "id": "af38ede70707a69a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Linux/001-Linux.md",
+                "file": "03- Networking/Day 1 – Networking Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001-Linux"
+              "title": "Day 1 – Networking Fundamentals"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,14 +219,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc2ed3c1de65d4a3",
+  "active": "ad583da5459e4fb9",
   "lastOpenFiles": [
+    "03- Networking/Day 1 – Networking Fundamentals.md",
+    "Prompt Example.md",
     "03- Networking/001-Plan/Networking.md",
+    "02-Linux/001-Linux.md",
     "Cloud engineer 2025 plan.md",
     "03- Networking/001-Plan",
     "02-Linux/Learn/Day 5 – Shell Scripting & Automation.md",
     "03- Networking",
-    "02-Linux/001-Linux.md",
     "02-Linux/Learn/Day 4 – Networking, Packages & Users.md",
     "02-Linux/Learn/Day 3 – Process & System Monitoring.md",
     "02-Linux/Learn/Day 2 – File Management & Permissions.md",
@@ -251,7 +253,6 @@
     "01-OS/000-Progress tracker/004 - Threads 24th oct.md",
     "01-OS/000-Progress tracker/003 - CPU Scheduling - 23rd oct.md",
     "Template/Progress tracker/Daily Learning Progress.md",
-    "01-OS/000-Progress tracker/002 - OS Process Management - 22nd OCT 2025.md",
     "01-OS/003-Process Management",
     "01-OS/002 - OS Architecture",
     "01-OS/001 - OS Learn",
