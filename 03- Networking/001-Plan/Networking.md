@@ -11,7 +11,7 @@
 **🎯 Focus:** Understand how computers communicate.
 
 ### 📘 Topics
-- [ ] What is a computer network? (LAN, WAN, MAN, PAN)
+- [x] What is a computer network? (LAN, WAN, MAN, PAN)
 - [ ] Difference between Router, Switch, and Hub
 - [ ] Client-Server vs Peer-to-Peer models
 - [ ] Types of network topologies
