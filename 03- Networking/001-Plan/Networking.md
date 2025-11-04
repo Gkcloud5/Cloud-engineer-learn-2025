@@ -12,9 +12,9 @@
 
 ### 📘 Topics
 - [x] What is a computer network? (LAN, WAN, MAN, PAN)
-- [ ] Difference between Router, Switch, and Hub
-- [ ] Client-Server vs Peer-to-Peer models
-- [ ] Types of network topologies
+- [x] Difference between Router, Switch, and Hub
+- [x] Client-Server vs Peer-to-Peer models
+- [x] Types of network topologies
 
 ### 💡 Interview Focus
 - What is a computer network?
@@ -22,8 +22,8 @@
 - Which topology is most reliable and why?
 
 ### ⚙️ Practice
-- [ ] Draw your home/work network.
-- [ ] Explain your drawing aloud in simple terms.
+- [x] Draw your home/work network.
+- [x] Explain your drawing aloud in simple terms.
 
 ### 💬 Reflection
 > How confident am I in explaining the difference between a router and a switch?
