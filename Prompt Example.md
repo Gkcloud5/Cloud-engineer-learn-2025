@@ -11,7 +11,7 @@ Finally, suggest how I can improve my question to get an even better answer.
 I want to learn the following topic in an effective way: [insert your topic here]
 
 Please guide me on:
-- The most important things I need to know on this topic
+- Understand the “Why”
 - The best steps or strategies to learn it quickly and well
 - Helpful resources or study methods for beginners
 - Any common mistakes or challenges to avoid
