@@ -8,3 +8,12 @@ Include [extra details: real-world examples / analogies / metrics].
 Finally, suggest how I can improve my question to get an even better answer.
 
 ### To know the important thing in particular topic
+I want to learn the following topic in an effective way: [insert your topic here]
+
+Please guide me on:
+- The most important things I need to know on this topic
+- The best steps or strategies to learn it quickly and well
+- Helpful resources or study methods for beginners
+- Any common mistakes or challenges to avoid
+
+Make the explanation clear, simple, and easy for someone new to the subject.
