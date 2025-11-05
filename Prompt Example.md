@@ -16,15 +16,14 @@ Please guide me on:
 1. Understand the “Why”
 2. Break the Topic into Core Parts
 	1. Basics (Foundations): Key terms, principles, and definitions.
-	2. Mechanics (How it works): Processes, frameworks, or steps involved.
-	3. Application (Real use): How people apply it in real-world scenarios.
-3. Identify the Key Concepts
+3. Explain complete workflow of [topic] in simple understanding ways
+4. Identify the Key Concepts
 	1.Core principles
 	2.Common tools or methods
 	3.Real-world examples
-4. Use Multiple Learning Modes
+5. Use Multiple Learning Modes
 	Visual: Suggest video regarding this topic
-5. Connect New Knowledge to What You Already Know
-6. Give mind map of this topic
+6. Connect New Knowledge to What You Already Know
+7. Give mind map of this topic
 
 Make the explanation clear, simple, and easy for someone new to the subject.
