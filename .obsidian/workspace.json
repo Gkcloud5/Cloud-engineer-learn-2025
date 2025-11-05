@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,10 +219,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ebd8b1acd313425",
+  "active": "fa67e10808b7ac07",
   "lastOpenFiles": [
-    "Prompt Example.md",
     "03- Networking/Day 1 – Networking Fundamentals.md",
+    "Prompt Example.md",
     "03- Networking/001-Plan/Networking.md",
     "02-Linux/001-Linux.md",
     "Cloud engineer 2025 plan.md",
