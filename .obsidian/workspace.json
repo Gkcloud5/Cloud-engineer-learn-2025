@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-OS/000-Progress tracker/OS Overview PT - 20th Oct 2025.md",
+                "file": "03- Networking/001-Plan/Networking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OS Overview PT - 20th Oct 2025"
+              "title": "Outline of Networking"
             }
           }
         ],
@@ -203,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +218,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa67e10808b7ac07",
+  "active": "ad583da5459e4fb9",
   "lastOpenFiles": [
-    "03- Networking/Day 1 – Networking Fundamentals.md",
     "Prompt Example.md",
+    "03- Networking/Day 1 – Networking Fundamentals.md",
     "03- Networking/001-Plan/Networking.md",
     "02-Linux/001-Linux.md",
     "Cloud engineer 2025 plan.md",

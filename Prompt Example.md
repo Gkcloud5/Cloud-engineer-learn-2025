@@ -7,13 +7,24 @@ Write in a motivating teacher tone.
 Include [extra details: real-world examples / analogies / metrics].
 Finally, suggest how I can improve my question to get an even better answer.
 
+
+
 ### To know the important thing in particular topic
 I want to learn the following topic in an effective way: [insert your topic here]
 
 Please guide me on:
-- Understand the “Why”
-- The best steps or strategies to learn it quickly and well
-- Helpful resources or study methods for beginners
-- Any common mistakes or challenges to avoid
+1. Understand the “Why”
+2. Break the Topic into Core Parts
+	1. Basics (Foundations): Key terms, principles, and definitions.
+	2. Mechanics (How it works): Processes, frameworks, or steps involved.
+	3. Application (Real use): How people apply it in real-world scenarios.
+3. Identify the Key Concepts
+	1.Core principles
+	2.Common tools or methods
+	3.Real-world examples
+4. Use Multiple Learning Modes
+	Visual: Suggest video regarding this topic
+5. Connect New Knowledge to What You Already Know
+6. Give mind map of this topic
 
 Make the explanation clear, simple, and easy for someone new to the subject.
