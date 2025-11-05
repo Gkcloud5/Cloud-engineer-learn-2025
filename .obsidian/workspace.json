@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt Example.md",
+                "file": "03- Networking/001-Plan/Networking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt Example"
+              "title": "Outline of Networking"
             }
           }
         ],
@@ -218,11 +218,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa67e10808b7ac07",
+  "active": "ad583da5459e4fb9",
   "lastOpenFiles": [
-    "03- Networking/001-Plan/Networking.md",
     "Prompt Example.md",
     "03- Networking/Day 1 – Networking Fundamentals.md",
+    "03- Networking/001-Plan/Networking.md",
     "02-Linux/001-Linux.md",
     "Cloud engineer 2025 plan.md",
     "03- Networking/001-Plan",
