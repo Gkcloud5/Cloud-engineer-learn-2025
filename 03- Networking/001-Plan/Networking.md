@@ -30,11 +30,11 @@
 
 ---
 
-## 📅 Day 2 – OSI & TCP/IP Models
+## 📅 [[Day 2 – OSI Models]] and [[Day 2 – TCP_IP Models]]
 **🎯 Focus:** Learn how data communication happens layer by layer.
 
 ### 📘 Topics
-- [ ] OSI 7 Layers and their functions
+- [x] OSI 7 Layers and their functions
 - [ ] TCP/IP 4-Layer model
 - [ ] Data encapsulation and decapsulation
 - [ ] Example protocols at each layer
