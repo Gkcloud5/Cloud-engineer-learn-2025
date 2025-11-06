@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03- Networking/001-Plan/Networking.md",
+                "file": "03- Networking/Day 2 – OSI Models.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Networking"
+              "title": "Outline of Day 2 – OSI Models"
             }
           }
         ],
@@ -232,12 +232,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad583da5459e4fb9",
+  "active": "4d744809874fa645",
   "lastOpenFiles": [
-    "03- Networking/Day 2 – OSI Models.md",
-    "03- Networking/Image",
-    "03- Networking/001-Plan/Networking.md",
     "03- Networking/Day 2 – TCP_IP Models.md",
+    "03- Networking/Day 2 – OSI Models.md",
+    "03- Networking/001-Plan/Networking.md",
+    "03- Networking/Image",
     "03- Networking/Image/ChatGPT Image Nov 5, 2025, 07_37_56 PM.png",
     "Prompt Example.md",
     "Day 2 – OSI & TCP/IP Models.md",
