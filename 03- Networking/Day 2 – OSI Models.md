@@ -53,5 +53,10 @@
 
 ### 6. Data link layer -- 6th layer
 * Handles communication between devices on the same and local network
-* 
+* Add MAC addresses
+
+### 7. Physical layer:
+* Sends the actual bits over a physical medium
+* Handles electrical signals, light pulses or radio waves
+* Transmits data through cables, wifi
 
