@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03- Networking/Day 3 – IP Addressing and Subnetting.md",
+                "file": "03- Networking/001-Plan/Networking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 3 – IP Addressing and Subnetting"
+              "title": "Outline of Networking"
             }
           }
         ],
@@ -274,11 +274,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f08e624be1034ae",
+  "active": "ad583da5459e4fb9",
   "lastOpenFiles": [
+    "03- Networking/Day 3 – IP Addressing and Subnetting.md",
     "Prompt Example.md",
     "03- Networking/001-Plan/Networking.md",
-    "03- Networking/Day 3 – IP Addressing and Subnetting.md",
     "03- Networking/Day 1 – Networking Fundamentals.md",
     "03- Networking/Day 2 – TCP_IP Models.md",
     "03- Networking/Day 2 – OSI Models.md",
