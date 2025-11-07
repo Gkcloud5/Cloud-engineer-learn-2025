@@ -15,15 +15,12 @@ I want to learn the following topic in an effective way: [insert your topic here
 Please guide me on:
 1. Understand the “Why”
 2. Break the Topic into Core Parts
-	1. Basics (Foundations): Key terms, principles, and definitions.
+	1. Basics (Foundations): About it, what is it, which situation we are using it
 3. Explain complete workflow of [topic] in simple understanding ways
 4. Identify the Key Concepts
 	1.why need to use
 	2.How it works
-	3.Real-world examples
-5. Use Multiple Learning Modes
-	Visual: Suggest video regarding this topic
-6. Connect New Knowledge to What You Already Know
-7. Give mind map of this topic
+	3.why we need to use this over
+5. Connect it with real word example and tell about it depends on topic
 
 Make the explanation clear, simple, and easy for someone new to the subject.
