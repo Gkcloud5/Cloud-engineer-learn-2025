@@ -19,3 +19,15 @@
 ──────────────────────────────────────────────
 🧠 Data travels ↓ sender → receiver ↑ in reverse
 
+
+**TCP/IP -->Transmission control Protocol and Internet Protocol**
+* It has 4 layer
+
+### Layer1: Application layer:
+* Top layer where apps and user interact
+* It defines how data is presented and how data is established
+* Handles data formatting, encryption and session control
+
+### Layer2: Transport layer:
+* Responsible for end to end communication
+* 
