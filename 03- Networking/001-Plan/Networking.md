@@ -52,7 +52,7 @@
 
 ---
 
-## 📅 Day 3 – IP Addressing & Subnetting
+## 📅 [[Day 3 – IP Addressing & Subnetting]]
 **🎯 Focus:** Understand how devices are identified in a network.
 
 ### 📘 Topics

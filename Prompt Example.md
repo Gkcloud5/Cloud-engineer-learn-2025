@@ -18,8 +18,8 @@ Please guide me on:
 	1. Basics (Foundations): Key terms, principles, and definitions.
 3. Explain complete workflow of [topic] in simple understanding ways
 4. Identify the Key Concepts
-	1.Core principles
-	2.Common tools or methods
+	1.why need to use
+	2.How it works
 	3.Real-world examples
 5. Use Multiple Learning Modes
 	Visual: Suggest video regarding this topic

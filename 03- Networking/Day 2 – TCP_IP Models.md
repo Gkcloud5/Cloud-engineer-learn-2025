@@ -30,4 +30,24 @@
 
 ### Layer2: Transport layer:
 * Responsible for end to end communication
-* 
+* Ensure data deliver correctly and right order
+* TCP or UDP
+* Function
+	* Segmentation of data into smaller chunks
+	* Flow control
+	* Error detection and recovery
+
+### Layer3: Internet:
+* Handles logical addressing and routing
+* decides best path for packets to travel across network
+* Protocols
+	* IP
+	* ICMP
+	* ARP
+
+### Layer4: Network access layer:
+* How data is physically sent over the medium
+* Functions:
+	* Defines hardware addressing
+	* converts packets into frames and bits
+	* control transmission
