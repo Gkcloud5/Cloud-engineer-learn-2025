@@ -46,4 +46,19 @@
 * Network ID and Host ID
 	* Host ID is count like how many IP we can use in that network
 
-### Subnet
+### Subnet mask:
+* It's divider
+* It defines how much of the IP address is belongs to the network and how much to the host
+* 255.255.255.0
+	* 3 network and 1 host
+		* In that host it has 1-254 IP address
+		* Total usable IP is 254
+
+### IPv4 classes:
+* A --> 1 to 126 ranges -> 255.0.0.0 --> very large
+* B --> 128 to 191 range --> 255.255.0.0 --> /16
+* C --> 192 to 223 range --> 255.255.255.0 --> /24 range
+
+### CIDR:
+* /n --> n - Represents how many host belongs to the network
+* /27 --> 11111111.11111111.11111111.11100000 --> 
