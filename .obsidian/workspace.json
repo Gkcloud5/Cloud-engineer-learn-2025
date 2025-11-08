@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03- Networking/Day 4 – Data Link Layer & Ethernet.md",
+                "file": "Cloud engineer 2025 plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 4 – Data Link Layer & Ethernet"
+              "title": "Cloud engineer 2025 plan"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03- Networking/Day 4 – Data Link Layer & Ethernet.md",
+                "file": "Cloud engineer 2025 plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 4 – Data Link Layer & Ethernet"
+              "title": "Outline of Cloud engineer 2025 plan"
             }
           }
         ],
@@ -234,10 +234,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "055c80092d10de22",
+  "active": "b7a357bad5a1eac9",
   "lastOpenFiles": [
-    "Prompt Example.md",
     "03- Networking/Day 4 – Data Link Layer & Ethernet.md",
+    "03- Networking/Image/Pasted image 20251109011908.png",
+    "02-Linux/Latest technology",
+    "01-OS/002- Latest technology",
+    "Prompt Example.md",
     "03- Networking/001-Plan/Networking.md",
     "03- Networking/Day 3 – IP Addressing and Subnetting.md",
     "03- Networking/Day 1 – Networking Fundamentals.md",
@@ -268,10 +271,7 @@
     "01-OS/001 - OS Learn/Day 6.1 - IPC.md",
     "01-OS/001 - OS Learn/Day 5 - Threads.md",
     "01-OS/001 - OS Learn/Day 4 - Scheduling.md",
-    "01-OS/001 - OS Learn/Day 3 - Process Management.md",
     "01-OS/001 - OS Learn/Recall",
-    "Day 9 - I",
-    "01-OS/003-Process Management",
-    "01-OS/002 - OS Architecture"
+    "Day 9 - I"
   ]
 }
