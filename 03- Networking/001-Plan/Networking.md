@@ -76,7 +76,7 @@
 
 ---
 
-## 📅 Day 4 – Data Link Layer & Ethernet
+## 📅 [[Day 4 – Data Link Layer & Ethernet]]
 **🎯 Focus:** Learn how data moves within a local area network (LAN).
 
 ### 📘 Topics
