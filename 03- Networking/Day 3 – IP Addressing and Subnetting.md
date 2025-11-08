@@ -33,7 +33,17 @@
 ```
 
 
+### Why:
+* Every device on a network has unique identity to send and receive data
+	* That identity is IP address in network
+* To assign IP address in network we need to use subnet to accomplish it
 
+### Assigning an IP address:
+* Static IP
+* Dynamic IP
 
+### IP address structure:
+* Network ID and Host ID
+	* Host ID is count like how many IP we can use in that network
 
-   
+### Subnet
