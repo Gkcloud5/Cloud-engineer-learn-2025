@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03- Networking/Day 4 – Data Link Layer & Ethernet.md",
+                "file": "03- Networking/001-Plan/Networking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 4 – Data Link Layer & Ethernet"
+              "title": "Outline of Networking"
             }
           }
         ],
@@ -234,10 +234,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "055c80092d10de22",
+  "active": "ad583da5459e4fb9",
   "lastOpenFiles": [
-    "Cloud engineer 2025 plan.md",
     "03- Networking/Day 4 – Data Link Layer & Ethernet.md",
+    "Cloud engineer 2025 plan.md",
     "03- Networking/Image/Pasted image 20251109011908.png",
     "02-Linux/Latest technology",
     "01-OS/002- Latest technology",

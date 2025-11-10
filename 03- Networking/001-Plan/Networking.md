@@ -56,11 +56,11 @@
 **🎯 Focus:** Understand how devices are identified in a network.
 
 ### 📘 Topics
-- [ ] IPv4 structure and classes
-- [ ] Subnet mask and CIDR notation
-- [ ] Private vs Public IP
-- [ ] IPv6 overview
-- [ ] Loopback and reserved addresses
+- [x] IPv4 structure and classes
+- [x] Subnet mask and CIDR notation
+- [x] Private vs Public IP
+- [x] IPv6 overview
+- [x] Loopback and reserved addresses
 
 ### 💡 Interview Focus
 - What is a subnet mask?
@@ -68,8 +68,8 @@
 - How many hosts can fit in /26 subnet?
 
 ### ⚙️ Practice
-- [ ] Solve 3 subnetting examples.
-- [ ] Assign IPs to 3 virtual devices and test `ping`.
+- [x] Solve 3 subnetting examples.
+- [x] Assign IPs to 3 virtual devices and test `ping`.
 
 ### 💬 Reflection
 > Do I understand how IPs are divided into networks and hosts?
@@ -80,10 +80,10 @@
 **🎯 Focus:** Learn how data moves within a local area network (LAN).
 
 ### 📘 Topics
-- [ ] MAC Address
-- [ ] ARP (Address Resolution Protocol)
-- [ ] Ethernet frame format
-- [ ] Switch operation (MAC table)
+- [x] MAC Address
+- [x] ARP (Address Resolution Protocol)
+- [x] Ethernet frame format
+- [x] Switch operation (MAC table)
 
 ### 💡 Interview Focus
 - What is the difference between MAC and IP addresses?

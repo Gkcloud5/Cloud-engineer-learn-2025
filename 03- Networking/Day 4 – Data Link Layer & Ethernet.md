@@ -26,5 +26,9 @@
 	* Each NIC has unique MAC address
 	* Check destination MAC on router
 		* If match then send data to that destination
-		* If not will check with ARP and
+		* If not will check with ARP and find destination
+* Converts packet to bits and sent over cable or air
+* Before convert, it will correct sequence
+
+
  
