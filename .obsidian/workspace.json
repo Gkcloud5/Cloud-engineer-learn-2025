@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud engineer 2025 plan.md",
+                "file": "03- Networking/Day 4 – Data Link Layer & Ethernet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud engineer 2025 plan"
+              "title": "Day 4 – Data Link Layer & Ethernet"
             }
           }
         ],
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud engineer 2025 plan.md",
+                "file": "03- Networking/Day 4 – Data Link Layer & Ethernet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloud engineer 2025 plan"
+              "title": "Outline of Day 4 – Data Link Layer & Ethernet"
             }
           }
         ],
@@ -234,8 +234,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7a357bad5a1eac9",
+  "active": "055c80092d10de22",
   "lastOpenFiles": [
+    "Cloud engineer 2025 plan.md",
     "03- Networking/Day 4 – Data Link Layer & Ethernet.md",
     "03- Networking/Image/Pasted image 20251109011908.png",
     "02-Linux/Latest technology",
@@ -251,7 +252,6 @@
     "Day 2 – OSI & TCP/IP Models.md",
     "Day 2 – OSI & TCP",
     "02-Linux/001-Linux.md",
-    "Cloud engineer 2025 plan.md",
     "03- Networking/001-Plan",
     "02-Linux/Learn/Day 5 – Shell Scripting & Automation.md",
     "03- Networking",
