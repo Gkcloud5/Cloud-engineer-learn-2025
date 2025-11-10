@@ -99,7 +99,7 @@
 
 ---
 
-## 📅 Day 5 – Routing & Packet Flow
+## 📅 [[Day 5 – Routing & Packet Flow]]
 **🎯 Focus:** Understand how data travels between networks.
 
 ### 📘 Topics
