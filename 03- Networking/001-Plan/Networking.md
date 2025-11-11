@@ -121,7 +121,7 @@
 
 ---
 
-## 📅 Day 6 – TCP/IP Suite & Ports
+## 📅 [[Day 6 – TCPandIP Suite & Ports]]
 **🎯 Focus:** Core Internet communication protocols.
 
 ### 📘 Topics
