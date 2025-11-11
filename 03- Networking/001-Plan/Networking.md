@@ -125,10 +125,10 @@
 **🎯 Focus:** Core Internet communication protocols.
 
 ### 📘 Topics
-- [ ] TCP vs UDP
-- [ ] 3-way handshake
-- [ ] ICMP (ping)
-- [ ] Common ports: HTTP(80), HTTPS(443), DNS(53), SSH(22)
+- [x] TCP vs UDP
+- [x] 3-way handshake
+- [x] ICMP (ping)
+- [x] Common ports: HTTP(80), HTTPS(443), DNS(53), SSH(22)
 
 ### 💡 Interview Focus
 - Difference between TCP and UDP?
