@@ -10,3 +10,11 @@
     - Sends it to the **default route (0.0.0.0/0)** — like “send to the Internet.”    
 6. If no route at all:
     - Drops the packet ❌ (unreachable).
+
+```
+It's heart of how the internet works
+```
+
+### 5.1 why?
+* Generally message will pass through many routers and networks to reach destination
+* 
