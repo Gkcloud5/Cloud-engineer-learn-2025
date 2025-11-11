@@ -58,4 +58,6 @@ It's heart of how the internet works
 			* If not found then will send to the google router
 * Step5: Google network receives the packet:
 	* It recognize the destination IP belongs to which network
-	* It decid
+	* It decides the packet to the google web 
+* Step6: Return path:
+	* Response packet finds it way back through router
