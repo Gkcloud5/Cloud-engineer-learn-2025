@@ -38,5 +38,24 @@ It's heart of how the internet works
 
 ### 5.5 Workflow:
 * Browser typed google.com
-* Step1: DNS resoultion
-	* DNS have mostly IP address o
+* Step1: DNS resolution
+	* DNS have mostly IP address of domain
+	* By using DNS we will know the IP address of destination, it's very important to decide path
+* Step2: Packet creation:
+	* Packet contains:
+		* Source IP address
+		* Destination IP address
+		* Data
+	* It wraps this packet to frames
+* Step3: Local router:
+	* Computer sends frames to router
+	* It done
+		* Open packet and read destination IP
+		* Check IP is matching in it's routing table or not and if it has it will decide hop
+* Step4: Router to Router journey:
+	* Router will sends packet to the ISP router
+		* if not found in ISP router then will send to the core network router
+			* If not found then will send to the google router
+* Step5: Google network receives the packet:
+	* It recognize the destination IP belongs to which network
+	* It decid
