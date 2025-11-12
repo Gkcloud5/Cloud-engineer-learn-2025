@@ -234,8 +234,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33a9ac3350c28f31",
+  "active": "b7a357bad5a1eac9",
   "lastOpenFiles": [
+    "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/001-Plan/Networking.md",
     "03- Networking/Day 7 – DNS, DHCP and NAT.md",
     "03- Networking/Day 6 – TCPandIP Suite & Ports.md",
@@ -273,7 +274,6 @@
     "01-OS/001 - OS Learn/Recall/OS recall.md",
     "01-OS/001 - OS Learn/Day 9 - Input and output.md",
     "01-OS/001 - OS Learn/Day 6.3 - File System.md",
-    "01-OS/001 - OS Learn/Day 6.2 - Memory.md",
     "01-OS/001 - OS Learn/Recall"
   ]
 }
