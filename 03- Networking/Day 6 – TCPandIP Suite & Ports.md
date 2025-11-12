@@ -49,3 +49,12 @@
 	* Source --> destination
 	* Got it, Lets start connection
 	* Sends final ack
+* Step4: FIN
+	* When communication ends each side sends a FIN and ack to properly close the connection
+
+### ICMP protocol:
+* Helps to diagnose network issue
+* what it does:
+	* Checks if another device on the network reachable
+	* Measure latency
+	* Reports network error

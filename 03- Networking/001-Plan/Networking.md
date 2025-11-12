@@ -144,7 +144,7 @@
 
 ---
 
-## 📅 Day 7 – DNS, DHCP & NAT
+## 📅 [[Day 7 – DNS, DHCP and NAT]]
 **🎯 Focus:** Understand the services that automate network operations.
 
 ### 📘 Topics
