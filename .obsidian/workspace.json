@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "49cb75eaad28fefb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "18a7983049fb463d",
             "type": "leaf",
             "state": {
@@ -70,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,7 +232,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad583da5459e4fb9",
+  "active": "49cb75eaad28fefb",
   "lastOpenFiles": [
     "03- Networking/Day 6 – TCPandIP Suite & Ports.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
