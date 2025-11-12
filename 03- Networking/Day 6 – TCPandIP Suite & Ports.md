@@ -36,4 +36,16 @@
 * Fast, connection less communication
 
 ### 6.6 TCP 3 way handshake:
-* 
+* Before source and destination talk they will make 3 step handshake
+* Step1: syn (synchronize)
+	* Source --> Destination
+	* Hey i like to connect now
+	* Sends packet with SYN flag=1
+* Step2: Syn-Ack
+	* Destination --> Source
+	* Okay, i am ready to connect
+	* Sends packet with SYN=1, ACK=1
+* Step3: ACK
+	* Source --> destination
+	* Got it, Lets start connection
+	* Sends final ack
