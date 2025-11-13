@@ -167,7 +167,7 @@
 
 ---
 
-## 📅 [[Day 8 – Network Security & Firewalls]]
+## 📅 [[Day 8 – Network Security and Firewalls]]
 **🎯 Focus:** Learn how to protect and secure network communication.
 
 ### 📘 Topics
