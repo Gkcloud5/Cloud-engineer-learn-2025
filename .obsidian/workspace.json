@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03- Networking/Day 7 – DNS, DHCP and NAT.md",
+                "file": "03- Networking/001-Plan/Networking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 7 – DNS, DHCP and NAT"
+              "title": "Outline of Networking"
             }
           }
         ],
@@ -234,11 +234,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7a357bad5a1eac9",
+  "active": "18a7983049fb463d",
   "lastOpenFiles": [
+    "03- Networking/Day 7 – DNS, DHCP and NAT.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/001-Plan/Networking.md",
-    "03- Networking/Day 7 – DNS, DHCP and NAT.md",
     "03- Networking/Day 6 – TCPandIP Suite & Ports.md",
     "03- Networking/Day 5 – Routing & Packet Flow.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
