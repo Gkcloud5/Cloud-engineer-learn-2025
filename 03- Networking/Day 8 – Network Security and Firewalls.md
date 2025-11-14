@@ -15,4 +15,28 @@
 	* Check incoming and outgoing packets and decide which packets allow or block them based on rules
 	* Types:
 		* Software: Runs on individual computers to protect system
-		* 
+		* Hardware: Physical devices btw network and internet --> router
+
+
+### 8.3 Packet filtering and access control:
+#### 8.3.1 Packet filtering:
+* Firewall check each packets and check it's rules
+	* Source IP/Destination IP address
+	* Port - source/destination
+	* Protocol - TCP, UDP, ICMP
+
+#### 8.3.2 Access Control:
+* Allow or deny.
+
+### 8.4 VPN Basics:
+* Virtual Private network
+* It will create secure a encrypted tunnel between devices and a remote server over a network
+* It hides:
+	* Real IP address
+	* Data content
+	* Destination websites
+* Tunneling, encryption and protocol
+
+### 8.5 HTTPS, SSL, SSH, TLS:
+* HTTPS --> Encrypted Communication to prevent data
+* SSL/TLS --> Secure Socket layer/Transport layer
