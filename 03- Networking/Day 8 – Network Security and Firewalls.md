@@ -12,4 +12,7 @@
 ### 8.2 Firewalls: (Hardware and Software)
 #### 8.2.1 What is firewall?
 * Firewall is security guard of network
-	* Check incoming and outgoing packets and decide which
+	* Check incoming and outgoing packets and decide which packets allow or block them based on rules
+	* Types:
+		* Software: Runs on individual computers to protect system
+		* 
