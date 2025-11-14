@@ -6,7 +6,7 @@
 > 💪 Focus: Learn → Visualize → Apply → Practice Interview Answers  
 
 ---
-
+  
 ## 📅 [[Day 1 – Networking Fundamentals]] (Interview Foundation)
 **🎯 Focus:** Understand how computers communicate.
 
