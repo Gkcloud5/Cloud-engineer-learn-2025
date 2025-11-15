@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03- Networking/001-Plan/Networking.md",
+                "file": "Cloud engineer 2025 plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Networking"
+              "title": "Outline of Cloud engineer 2025 plan"
             }
           }
         ],
@@ -248,10 +248,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad583da5459e4fb9",
+  "active": "5f356adea1c5e98f",
   "lastOpenFiles": [
-    "03- Networking/Day 8 – Network Security and Firewalls.md",
     "03- Networking/001-Plan/Networking.md",
+    "03- Networking/Day 8 – Network Security and Firewalls.md",
     "03- Networking/Day 7 – DNS, DHCP and NAT.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Day 6 – TCPandIP Suite & Ports.md",
