@@ -190,7 +190,7 @@
 
 ---
 
-## 📅 Day 9 – Wireless & Troubleshooting
+## 📅 [[Day 9 – Wireless and Troubleshooting]]
 **🎯 Focus:** Practical wireless networking and real-world problem-solving.
 
 ### 📘 Topics
