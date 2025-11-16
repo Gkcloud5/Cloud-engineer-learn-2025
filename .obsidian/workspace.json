@@ -61,16 +61,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03- Networking/Day 9 – Wireless and Troubleshooting.md",
+                "file": "02-Linux/001-Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 9 – Wireless and Troubleshooting"
+              "title": "001-Linux"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03- Networking/Day 9 – Wireless and Troubleshooting.md",
+                "file": "Cloud engineer 2025 plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 9 – Wireless and Troubleshooting"
+              "title": "Outline of Cloud engineer 2025 plan"
             }
           }
         ],
@@ -220,10 +220,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb648567c1cef0a7",
+  "active": "5f356adea1c5e98f",
   "lastOpenFiles": [
-    "03- Networking/001-Plan/Networking.md",
+    "02-Linux/001-Linux.md",
     "03- Networking/Day 9 – Wireless and Troubleshooting.md",
+    "03- Networking/001-Plan/Networking.md",
     "Cloud engineer 2025 plan.md",
     "03- Networking/Day 8 – Network Security and Firewalls.md",
     "03- Networking/Day 7 – DNS, DHCP and NAT.md",
@@ -246,7 +247,6 @@
     "03- Networking/Image/ChatGPT Image Nov 5, 2025, 07_37_56 PM.png",
     "Day 2 – OSI & TCP/IP Models.md",
     "Day 2 – OSI & TCP",
-    "02-Linux/001-Linux.md",
     "03- Networking/001-Plan",
     "02-Linux/Learn/Day 5 – Shell Scripting & Automation.md",
     "03- Networking",
