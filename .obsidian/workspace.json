@@ -56,6 +56,20 @@
             }
           },
           {
+            "id": "3178065328211525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03- Networking/Day 10 – Review and Mini Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 10 – Review and Mini Project"
+            }
+          },
+          {
             "id": "bb648567c1cef0a7",
             "type": "leaf",
             "state": {
@@ -84,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03- Networking/Day 9 – Wireless and Troubleshooting.md",
+                "file": "03- Networking/001-Plan/Networking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 9 – Wireless and Troubleshooting"
+              "title": "Outline of Networking"
             }
           }
         ],
@@ -234,12 +248,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "735754630dd90a6c",
+  "active": "ad583da5459e4fb9",
   "lastOpenFiles": [
+    "03- Networking/Day 10 – Review and Mini Project.md",
     "03- Networking/001-Plan/Networking.md",
+    "03- Networking/Day 9 – Wireless and Troubleshooting.md",
     "Cloud engineer 2025 plan.md",
     "02-Linux/001-Linux.md",
-    "03- Networking/Day 9 – Wireless and Troubleshooting.md",
     "03- Networking/Day 8 – Network Security and Firewalls.md",
     "03- Networking/Day 7 – DNS, DHCP and NAT.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
@@ -274,7 +289,6 @@
     "000-Operating system.md",
     "02-Linux",
     "01-OS/001 - OS Learn/Recall/OS recall.md",
-    "01-OS/001 - OS Learn/Day 9 - Input and output.md",
     "01-OS/001 - OS Learn/Recall"
   ]
 }

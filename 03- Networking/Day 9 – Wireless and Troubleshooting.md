@@ -25,3 +25,19 @@ Generally network is made in two types
 
 ### 9.2 Troubleshoot:
 1. Identify the problems:
+	1. No internet
+	2. Limited connectivity
+	3. Only some site loading
+	4. Slow speed?
+2. Check physical layer
+	1. Is cable pluggedin?
+	2. Wifi turned on
+3. Check IP configuration
+	1. Have IP and gateway
+	2. Network configuration
+4. Connectivity test
+	1. Ping
+		1. local
+		2. Router
+		3. External IP
+		4. Domain

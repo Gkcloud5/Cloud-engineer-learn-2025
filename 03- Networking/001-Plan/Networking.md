@@ -212,7 +212,7 @@
 
 ---
 
-## 📅 Day 10 – Review & Mini Project (Final Interview Prep)
+## 📅 [[Day 10 – Review and Mini Project]] (Final Interview Prep)
 **🎯 Focus:** Combine everything and prepare for interviews.
 
 ### 📘 Topics
