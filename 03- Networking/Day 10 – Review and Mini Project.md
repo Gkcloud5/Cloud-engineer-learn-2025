@@ -7,4 +7,6 @@
 	3. IP founded after used DNS
 	4. Now browser knows the IP address of domain, where to send data
 3. TCP connection: 3-way handshake
-	1. 
+	1. Syn -- Pc to destination server --> "is okay to connect?"
+	2. Ack-Syn -- Destination server to PC --> I'm Ready to connect
+	3. Ack -- PC to destination --> We can share file
