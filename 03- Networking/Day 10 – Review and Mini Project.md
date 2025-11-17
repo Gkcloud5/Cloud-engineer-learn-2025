@@ -29,4 +29,5 @@
 	2. Server sends back HTTP response
 9. Packet return
 	1. Google server --> ISP --> My router
-	2. Router use NAT to find which
+	2. Router use NAT to find which device in network requested and send data to that device
+10. Display output in screen
