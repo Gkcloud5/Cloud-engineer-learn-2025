@@ -21,4 +21,12 @@
 	1. GET data from server
 6. Router and NAT:
 	1. Request from browser to router
-	2. Router forwards
+	2. Router forwards packets to ISP
+7. ISP routing:
+	1. By using routing table packet will send diff routes and reach final.
+8. Server Processing:
+	1. Load balance receive packet and pick nearby health server
+	2. Server sends back HTTP response
+9. Packet return
+	1. Google server --> ISP --> My router
+	2. Router use NAT to find which
