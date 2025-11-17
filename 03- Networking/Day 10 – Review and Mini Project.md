@@ -9,4 +9,7 @@
 3. TCP connection: 3-way handshake
 	1. Syn -- Pc to destination server --> "is okay to connect?"
 	2. Ack-Syn -- Destination server to PC --> I'm Ready to connect
-	3. Ack -- PC to destination --> We can share file
+	3. Ack -- PC to destination --> We can share file now
+	4. Fin -- Once data transfer is completed, we can close the connection now
+4. SSL/TLS handshake
+	1. 
