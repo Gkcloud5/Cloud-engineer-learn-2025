@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03- Networking/Day 5 – Routing & Packet Flow.md",
+                "file": "03- Networking/Day 10 – Review and Mini Project.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 5 – Routing & Packet Flow"
+              "title": "Outline of Day 10 – Review and Mini Project"
             }
           }
         ],
@@ -262,8 +262,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "36b1057d7b8c63aa",
+  "active": "3178065328211525",
   "lastOpenFiles": [
+    "03- Networking/Day 5 – Routing & Packet Flow.md",
     "03- Networking/001-Plan/Networking.md",
     "03- Networking/Day 10 – Review and Mini Project.md",
     "03- Networking/Day 9 – Wireless and Troubleshooting.md",
@@ -273,7 +274,6 @@
     "03- Networking/Day 7 – DNS, DHCP and NAT.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Day 6 – TCPandIP Suite & Ports.md",
-    "03- Networking/Day 5 – Routing & Packet Flow.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "Day 6 – TCP/IP Suite & Ports.md",
     "Day 6 – TCP",
