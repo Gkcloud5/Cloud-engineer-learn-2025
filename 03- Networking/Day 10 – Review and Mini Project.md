@@ -12,4 +12,13 @@
 	3. Ack -- PC to destination --> We can share file now
 	4. Fin -- Once data transfer is completed, we can close the connection now
 4. SSL/TLS handshake
-	1. 
+	1. Before data exchange
+		1. Browser request secure connection
+		2. Server sends its SSL certificate
+		3. Browser verifies authenticity
+		4. Both accept session key encryption
+5. HTTP request:
+	1. GET data from server
+6. Router and NAT:
+	1. Request from browser to router
+	2. Router forwards
