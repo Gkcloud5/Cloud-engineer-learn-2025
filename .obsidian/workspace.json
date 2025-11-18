@@ -59,14 +59,10 @@
             "id": "fcc088916df2d269",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-OS/000-Plan and action/01 - OS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - OS"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -191,13 +187,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-OS/000-Plan and action/01 - OS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 - OS"
+              "title": "Outline"
             }
           }
         ],
@@ -222,8 +217,11 @@
   },
   "active": "fcc088916df2d269",
   "lastOpenFiles": [
-    "01-OS/001 - OS Learn/Day 9 - Input and output.md",
+    "01-OS/001 - OS Learn/Recall/OS recall.md",
     "01-OS/000-Plan and action/01 - OS.md",
+    "01-OS/001 - OS Learn/Day 1 - OS Overview.md",
+    "01-OS/000-Progress tracker/000 - OS Overview PT - 20th Oct 2025.md",
+    "01-OS/001 - OS Learn/Day 9 - Input and output.md",
     "Cloud engineer 2025 plan.md",
     "03- Networking/001-Plan/Networking.md",
     "03- Networking/Day 2 – OSI Models.md",
@@ -256,10 +254,7 @@
     "02-Linux/Learn/Day 4 – Networking, Packages & Users.md",
     "02-Linux/Learn/Day 3 – Process & System Monitoring.md",
     "02-Linux/Learn/Day 2 – File Management & Permissions.md",
-    "02-Linux/Learn/Day 1 – Foundation & Navigation.md",
     "02-Linux/Learn",
-    "01-OS/001 - OS Learn/Day 9.2 - Deadlock & Security.md",
-    "000-Operating system.md",
     "02-Linux",
     "01-OS/001 - OS Learn/Recall"
   ]
