@@ -38,7 +38,6 @@
 ### 3. Session layer -- 5th layer
 * Manages the connection between two device
 * ensure the communication is synchronized and orderly
-
 ### 4. Transport layer -- 4th layer
 * Ensure data arrives reliably and in order
 * breaks data into smaller segments and ensure reliable delivery
