@@ -25,7 +25,7 @@ It's heart of how the internet works
 ### 5.2 what is routing?
 * Routing is process of finding best path in network
 	* Router will help to do that work
-
+ 
 ### 5.3 What is packet?
 * Small chunks of data
 * It has

@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03- Networking/Day 3 – IP Addressing and Subnetting.md",
+                "file": "03- Networking/Day 5 – Routing & Packet Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 3 – IP Addressing and Subnetting"
+              "title": "Day 5 – Routing & Packet Flow"
             }
           },
           {
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03- Networking/Day 3 – IP Addressing and Subnetting.md",
+                "file": "03- Networking/Day 5 – Routing & Packet Flow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 3 – IP Addressing and Subnetting"
+              "title": "Outline of Day 5 – Routing & Packet Flow"
             }
           }
         ],
@@ -232,6 +232,8 @@
   },
   "active": "8891c9387e9e1adc",
   "lastOpenFiles": [
+    "03- Networking/Day 4 – Data Link Layer & Ethernet.md",
+    "03- Networking/Day 3 – IP Addressing and Subnetting.md",
     "03- Networking/Day 2 – TCP_IP Models.md",
     "03- Networking/Day 2 – OSI Models.md",
     "03- Networking/001-Plan/Networking.md",
@@ -253,12 +255,10 @@
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "Day 6 – TCP/IP Suite & Ports.md",
     "Day 6 – TCP",
-    "03- Networking/Day 4 – Data Link Layer & Ethernet.md",
     "03- Networking/Image/Pasted image 20251109011908.png",
     "02-Linux/Latest technology",
     "01-OS/002- Latest technology",
     "Prompt Example.md",
-    "03- Networking/Day 3 – IP Addressing and Subnetting.md",
     "03- Networking/Image",
     "03- Networking/Image/ChatGPT Image Nov 5, 2025, 07_37_56 PM.png",
     "Day 2 – OSI & TCP/IP Models.md",
