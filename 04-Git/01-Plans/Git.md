@@ -267,14 +267,3 @@ At the end, I evaluate you.
 
 ---
 
-# 🎯 Next Step
-
-We start **Day 1 now**.
-
-Before we begin, answer this one question:
-
-### 👉 What operating system will you use for Git practice?
-
-Windows / Linux / macOS?
-
-(I will tailor commands accordingly.)
