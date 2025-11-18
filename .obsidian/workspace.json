@@ -40,6 +40,20 @@
             }
           },
           {
+            "id": "4c629f7df97fd2a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Git/Plans/Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          },
+          {
             "id": "ad583da5459e4fb9",
             "type": "leaf",
             "pinned": true,
@@ -61,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03- Networking/Day 8 – Network Security and Firewalls.md",
+                "file": "03- Networking/Day 9 – Wireless and Troubleshooting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 8 – Network Security and Firewalls"
+              "title": "Day 9 – Wireless and Troubleshooting"
             }
           },
           {
@@ -80,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03- Networking/Day 8 – Network Security and Firewalls.md",
+                "file": "04-Git/Plans/Git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 8 – Network Security and Firewalls"
+              "title": "Outline of Git"
             }
           }
         ],
@@ -230,10 +244,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8891c9387e9e1adc",
+  "active": "4c629f7df97fd2a3",
   "lastOpenFiles": [
-    "03- Networking/Day 7 – DNS, DHCP and NAT.md",
+    "04-Git/Plans",
+    "04-Git",
+    "04-Git/Plans/Git.md",
+    "Cloud engineer 2025 plan.md",
+    "03- Networking/Day 9 – Wireless and Troubleshooting.md",
     "03- Networking/Day 8 – Network Security and Firewalls.md",
+    "03- Networking/Day 7 – DNS, DHCP and NAT.md",
     "03- Networking/Day 6 – TCPandIP Suite & Ports.md",
     "03- Networking/Day 5 – Routing & Packet Flow.md",
     "03- Networking/Day 4 – Data Link Layer & Ethernet.md",
@@ -246,10 +265,8 @@
     "01-OS/001 - OS Learn/Day 1 - OS Overview.md",
     "01-OS/000-Progress tracker/000 - OS Overview PT - 20th Oct 2025.md",
     "01-OS/001 - OS Learn/Day 9 - Input and output.md",
-    "Cloud engineer 2025 plan.md",
     "03- Networking/Day 1 – Networking Fundamentals.md",
     "03- Networking/Day 10 – Review and Mini Project.md",
-    "03- Networking/Day 9 – Wireless and Troubleshooting.md",
     "02-Linux/001-Linux.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
@@ -267,10 +284,7 @@
     "02-Linux/Learn/Day 5 – Shell Scripting & Automation.md",
     "03- Networking",
     "02-Linux/Learn/Day 4 – Networking, Packages & Users.md",
-    "02-Linux/Learn/Day 3 – Process & System Monitoring.md",
-    "02-Linux/Learn/Day 2 – File Management & Permissions.md",
     "02-Linux/Learn",
-    "02-Linux",
-    "01-OS/001 - OS Learn/Recall"
+    "02-Linux"
   ]
 }
