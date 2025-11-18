@@ -56,17 +56,17 @@
             }
           },
           {
-            "id": "3b1bf53eb98d4916",
+            "id": "fc7cafd69c7c20d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03- Networking/Day 1 – Networking Fundamentals.md",
+                "file": "03- Networking/Day 2 – OSI Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1 – Networking Fundamentals"
+              "title": "Day 2 – OSI Models"
             }
           }
         ],
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03- Networking/Day 1 – Networking Fundamentals.md",
+                "file": "03- Networking/Day 2 – OSI Models.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 1 – Networking Fundamentals"
+              "title": "Outline of Day 2 – OSI Models"
             }
           }
         ],
@@ -220,9 +220,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b1bf53eb98d4916",
+  "active": "fc7cafd69c7c20d0",
   "lastOpenFiles": [
     "03- Networking/001-Plan/Networking.md",
+    "03- Networking/Day 1 – Networking Fundamentals.md",
     "03- Networking/Day 10 – Review and Mini Project.md",
     "03- Networking/Day 5 – Routing & Packet Flow.md",
     "03- Networking/Day 9 – Wireless and Troubleshooting.md",
@@ -241,7 +242,6 @@
     "01-OS/002- Latest technology",
     "Prompt Example.md",
     "03- Networking/Day 3 – IP Addressing and Subnetting.md",
-    "03- Networking/Day 1 – Networking Fundamentals.md",
     "03- Networking/Day 2 – TCP_IP Models.md",
     "03- Networking/Day 2 – OSI Models.md",
     "03- Networking/Image",
