@@ -32,3 +32,39 @@ feature/login --> a simple feature branch
 feature/homepage --> another feature
 ```
 
+### 2.4 what is Fast-Forward merge?
+```
+If main has no new commits and dev is ahead, git simply moves main pointer forward.
+```
+
+# **PRACTICAL TASK — Start in your repo**
+
+### 1️⃣ Create dev branch
+
+`git checkout -b dev`
+
+This means:
+
+- `-b` = create branch
+    
+- switch to `dev`
+    
+
+### 2️⃣ Add a new file
+
+`echo "Dev changes" > dev.txt`
+
+### 3️⃣ Add + commit
+
+`git add dev.txt git commit -m "added dev file"`
+
+### 4️⃣ Switch back to main
+
+`git checkout main`
+
+### 5️⃣ Merge dev → main
+
+`git merge dev`
+
+Since there is no conflict, you should see **Fast-forward**.
+
