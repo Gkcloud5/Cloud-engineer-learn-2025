@@ -25,7 +25,7 @@
     
 ---
 
-# ✅ **Day 2 — Branching (The Core of Team Workflows)**
+# ✅ **[[Day 2 — Branching]] (The Core of Team Workflows)**
 
 **Goal:** Deep clarity on branches (most beginners fail here)
 
