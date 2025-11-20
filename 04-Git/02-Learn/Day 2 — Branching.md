@@ -28,5 +28,7 @@ In companies
 ```
 main (already exist)
 dev --> Team development branch
-
+feature/login --> a simple feature branch
+feature/homepage --> another feature
 ```
+
