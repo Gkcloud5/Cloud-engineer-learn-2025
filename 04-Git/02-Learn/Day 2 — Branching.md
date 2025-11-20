@@ -41,30 +41,76 @@ If main has no new commits and dev is ahead, git simply moves main pointer forwa
 
 ### 1️⃣ Create dev branch
 
-`git checkout -b dev`
+```
+git checkout -b dev
+```
 
 This means:
 
 - `-b` = create branch
-    
 - switch to `dev`
     
-
 ### 2️⃣ Add a new file
 
-`echo "Dev changes" > dev.txt`
+```
+echo "Dev changes" > dev.txt
+```
 
 ### 3️⃣ Add + commit
 
-`git add dev.txt git commit -m "added dev file"`
+```
+git add dev.txt
+git commit -m "added dev file"
+```
 
 ### 4️⃣ Switch back to main
 
-`git checkout main`
+```
+git checkout main
+```
 
 ### 5️⃣ Merge dev → main
 
-`git merge dev`
+```
+git merge dev
+```
 
 Since there is no conflict, you should see **Fast-forward**.
+
+# **PRACTICAL TASK — Create Feature Branch**
+
+Now create a feature branch from dev:
+
+```
+git checkout dev
+git checkout -b feature/login
+```
+
+Add a file:
+
+```
+echo "Login page" > login.txt
+git add .
+git commit -m "added login feature"
+```
+
+Merge it back:
+
+```
+git checkout dev
+git merge feature/login
+```
+
+Push branches to GitHub:
+
+```
+git push -u origin dev
+git push -u origin feature/login
+```
+
+### 2.5 Create conflict
+
+```
+It happens when both branches edit the same file
+```
 
