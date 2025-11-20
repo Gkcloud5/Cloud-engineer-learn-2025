@@ -9,7 +9,7 @@
 	* Work safely with a team
 	* Track every line changed
 	* Deploy code using CI/CD pipeline
-
+  
 ### 1.2 The 3 Places where files lives
 #### 1.2.1 Working directory: 
 * Where actual files on Linux
