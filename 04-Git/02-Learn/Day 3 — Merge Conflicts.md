@@ -11,3 +11,17 @@ Dev branch edit
 
 ### My jobs here, how to handle it:
 * Must decide
+	* Keep main version?
+	* Keep dev version?
+	* Keep both?
+	* Modify?
+* No stright answer, depends on project
+
+* In real companies, we choose based on
+	* Newest code
+	* Correctness
+	* Stability
+	* release schedule
+	* break/bug risk
+
+### 3.3 Fix conflict -- manually:
