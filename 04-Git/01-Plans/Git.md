@@ -41,7 +41,7 @@
 
 ---
 
-# ✅ **Day 3 — Merge Conflicts (DevOps Must-Have Skill)**
+# ✅[[ Day 3 — Merge Conflicts]] (DevOps Must-Have Skill)
 
 **Goal:** Fix conflicts confidently like a senior engineer
 
