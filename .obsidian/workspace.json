@@ -70,16 +70,6 @@
             }
           },
           {
-            "id": "1ecd6b59857078e5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "f6f5e67f8b0a7638",
             "type": "leaf",
             "state": {
@@ -262,9 +252,9 @@
   },
   "active": "1171b511a085bc0c",
   "lastOpenFiles": [
+    "04-Git/02-Learn/Day 2 — Branching.md",
     "04-Git/02-Learn/Day 3 — Merge Conflicts.md",
     "04-Git/01-Plans/Git.md",
-    "04-Git/02-Learn/Day 2 — Branching.md",
     "04-Git/02-Learn/Day 1 — Git Fundamentals.md",
     "02-Linux/001-Linux.md",
     "01-OS/000-Plan and action/01 - OS.md",
