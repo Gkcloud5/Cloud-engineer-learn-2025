@@ -24,6 +24,12 @@ We will learn about how teams actualy move code between local and remote reposit
 ### 4.2 Simple, plain meanings of commands:
 * `git push` ---> Send local commit to remote
 * `git fetch` --> Download remote commits only, it does not change working files or branch pointer, good for inspection.
-* `git pull` --> `git fetch` then merge - it updates current branch automaticalluy
+* `git pull` --> `git fetch` then merge - it updates current branch automatically
 * `git remote` --> shows remote repo 
-* `git branch -u` / `git push -u` --> 
+* `git branch -u` / `git push -u` -->  link, tells git "from now on, when i type git push, send this specific local branch to that specific remote branch"
+* `git push --force-with-lease` --> force push but safer, it fails if someone else pushed meanwhile.
+
+### 4.3 why fetch exists:
+
+* `git pull` --> it's actually aggressive. it grabs the changes and smooshes them into your work immediately.
+* `git fetch`
