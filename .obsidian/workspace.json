@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 4 — Remote Repos.md",
+                "file": "04-Git/02-Learn/Day 4 — Remote Repos.md",
                 "mode": "source",
                 "source": false
               },
@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4540dc4352e7e8d3",
@@ -223,7 +224,7 @@
   },
   "active": "791d72a98de8bf43",
   "lastOpenFiles": [
-    "Day 4 — Remote Repos.md",
+    "04-Git/02-Learn/Day 4 — Remote Repos.md",
     "04-Git/01-Plans/Git.md",
     "04-Git/02-Learn/Day 1 — Git Fundamentals.md",
     "04-Git/02-Learn/Day 2 — Branching.md",
