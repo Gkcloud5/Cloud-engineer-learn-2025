@@ -144,3 +144,6 @@ root@ubuntu:~/git-day1#
 ```
 
 
+### ⚠️ Important Warning
+
+**Only rebase your own private branch (`dev` or `feature`).** Never rebase a branch that others are also working on. Rebasing rewrites history (it changes the ID numbers of your commits). If you do this on a shared branch, you will break your teammates' code.
