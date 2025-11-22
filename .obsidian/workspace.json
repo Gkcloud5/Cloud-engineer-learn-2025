@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "791d72a98de8bf43",
+  "active": "4c629f7df97fd2a3",
   "lastOpenFiles": [
     "04-Git/02-Learn/Day 4 — Remote Repos.md",
     "04-Git/01-Plans/Git.md",
