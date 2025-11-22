@@ -56,45 +56,17 @@
             }
           },
           {
-            "id": "1171b511a085bc0c",
+            "id": "791d72a98de8bf43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Git/02-Learn/Day 1 — Git Fundamentals.md",
+                "file": "Day 4 — Remote Repos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1 — Git Fundamentals"
-            }
-          },
-          {
-            "id": "f6f5e67f8b0a7638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Git/02-Learn/Day 2 — Branching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 2 — Branching"
-            }
-          },
-          {
-            "id": "b1dcacab5d39a9f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Git/02-Learn/Day 1 — Git Fundamentals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 1 — Git Fundamentals"
+              "title": "Day 4 — Remote Repos"
             }
           }
         ],
@@ -249,11 +221,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1171b511a085bc0c",
+  "active": "791d72a98de8bf43",
   "lastOpenFiles": [
-    "04-Git/02-Learn/Day 2 — Branching.md",
-    "04-Git/02-Learn/Day 1 — Git Fundamentals.md",
+    "Day 4 — Remote Repos.md",
     "04-Git/01-Plans/Git.md",
+    "04-Git/02-Learn/Day 1 — Git Fundamentals.md",
+    "04-Git/02-Learn/Day 2 — Branching.md",
     "04-Git/02-Learn/Day 3 — Merge Conflicts.md",
     "02-Linux/001-Linux.md",
     "01-OS/000-Plan and action/01 - OS.md",
@@ -287,7 +260,6 @@
     "Prompt Example.md",
     "03- Networking/Image",
     "03- Networking/Image/ChatGPT Image Nov 5, 2025, 07_37_56 PM.png",
-    "Day 2 – OSI & TCP/IP Models.md",
     "Day 2 – OSI & TCP",
     "03- Networking/001-Plan",
     "03- Networking"

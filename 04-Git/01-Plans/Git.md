@@ -59,7 +59,7 @@
 
 ---
 
-# ✅ **Day 4 — Remote Repos (GitHub Real Usage)**
+# ✅ **[[Day 4 — Remote Repos]] (GitHub Real Usage)**
 
 **Goal:** Understand origin → fetch → pull → push like professionals
 
