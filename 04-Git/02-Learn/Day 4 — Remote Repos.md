@@ -32,4 +32,9 @@ We will learn about how teams actualy move code between local and remote reposit
 ### 4.3 why fetch exists:
 
 * `git pull` --> it's actually aggressive. it grabs the changes and smooshes them into your work immediately.
-* `git fetch`
+* `git fetch` --> it's for safety.  it let us see what is coming before you decide to merge it
+	* run `git fetch`
+	* run `git log`
+	* Then decide, okay to merge or not
+
+### 4.4 Commands must memorize:
