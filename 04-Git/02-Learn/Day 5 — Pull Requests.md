@@ -36,3 +36,4 @@
 * Merging without checking CI: always wait for green
 * Force-pushing to shared branches: never use `--force-with-lease` on feature branch
 * No PR description or screenshots: reviewers hate this. Provide steps to test
+
