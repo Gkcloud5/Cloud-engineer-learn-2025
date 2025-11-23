@@ -74,7 +74,7 @@
 
 ---
 
-# ✅ **Day 5 — Pull Requests (Team Workflow Simulation)**
+# ✅ **[[Day 5 — Pull Requests]] (Team Workflow Simulation)**
 
 **Goal:** Learn PR flow exactly like companies use
 
