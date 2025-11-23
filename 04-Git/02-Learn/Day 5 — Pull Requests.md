@@ -19,3 +19,7 @@
 9. When green and approves, merge using the team approved method
 10. Delete the feature branch
 
+### 5.3 Branch and commit rules:
+* Branch names: `feature/ticket-short desc`, `bug fixes/ticket-short`, `hotfix/version`.
+* Commit names: Short summary --> login: add remember me option
+* Keep PR's small - 200 lines max ideally. Big PRs
