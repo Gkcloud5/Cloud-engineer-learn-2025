@@ -27,5 +27,5 @@
 
 ### 5.4 Merge methods: when to use each:
 * Merge commit: Preserves branch history: use for big, multi commit features when want trace
-* Squash merge: Combines all PR commits into one, use to keep main history clean.
-* 
+* Squash merge: Combines all PR commits into one, use to keep `main` history clean.
+* Rebase & merge: replays commits on top of target branch, use when you want clean linear history and keep each commit
