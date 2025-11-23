@@ -37,3 +37,13 @@
 * Force-pushing to shared branches: never use `--force-with-lease` on feature branch
 * No PR description or screenshots: reviewers hate this. Provide steps to test
 
+
+### 5.6 PR templates and Branch protection setup:
+#### 5.6.1 PR templates:
+* It's markdown file that, when placed in root directory of repo, automatically populates the description field whenever someone opens a new pull request
+
+#### 5.6.2. CodeOwners:
+* A file that specifies which teams or individual are responsible for reviewing code changes in specific parts of repo
+
+#### 5.6.3 Branch Protection:
+* A set of rules configured by the repo administration to control what can be merged into
