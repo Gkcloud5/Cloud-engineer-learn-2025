@@ -8,4 +8,14 @@
 	* Keep history understandable
 
 ### 5.2 The PR lifecycle:
-1. Create
+1. Create a feature branch locally
+2. Make focused commits with clear messages
+3. Push branches to remote
+4. Open PR to github: include description, testing steps, ticket number
+5. Assign reviewers, set labels, add reviewers
+6. CI runs automatically on PR.
+7. Reviewers requests changes or approves.
+8. You update the branch, push changes
+9. When green and approves, merge using the team approved method
+10. Delete the feature branch
+
