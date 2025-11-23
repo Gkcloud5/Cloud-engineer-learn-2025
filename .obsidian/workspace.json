@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,7 +235,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac0c68395a435ddf",
+  "active": "4c629f7df97fd2a3",
   "lastOpenFiles": [
     "04-Git/02-Learn/Day 5 — Pull Requests.md",
     "04-Git/01-Plans/Git.md",

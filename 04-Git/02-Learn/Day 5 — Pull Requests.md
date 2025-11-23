@@ -46,4 +46,4 @@
 * A file that specifies which teams or individual are responsible for reviewing code changes in specific parts of repo
 
 #### 5.6.3 Branch Protection:
-* A set of rules configured by the repo administration to control what can be merged into
+* A set of rules configured by the repo administration to control what can be merged into critical branch like main.
