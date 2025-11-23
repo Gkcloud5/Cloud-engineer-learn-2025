@@ -29,3 +29,10 @@
 * Merge commit: Preserves branch history: use for big, multi commit features when want trace
 * Squash merge: Combines all PR commits into one, use to keep `main` history clean.
 * Rebase & merge: replays commits on top of target branch, use when you want clean linear history and keep each commit
+
+
+### 5.5 Common mistakes:
+* Pushing huge WIP PRs: split them
+* Merging without checking CI: always wait for green
+* Force-pushing to shared branches: never use `--force-with-lease` on feature branch
+* No PR description or screenshots: reviewers hate this. Provide steps to test
