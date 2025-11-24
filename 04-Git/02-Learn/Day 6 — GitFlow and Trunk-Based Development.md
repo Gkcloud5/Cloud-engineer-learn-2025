@@ -17,5 +17,7 @@
 	* Following are temporary branches
 		* `feature`- Developing a new feature - created from develop. merged back into `develop` when finished
 		* `release` - Preparing for new official launch - created from `develop`. used for final testing and bug fixes before the release. merged into `both` and `develop`
-		* `hotfix` - Fixing critical bugs, created directly from `main`. merged back into both `main` and `develop`.
-* 
+		* `hotfix` - Fixing critical bugs in production version, created directly from `main`. merged back into both `main` and `develop`.
+* When to use it:
+	* For projects that require a very strict and formal release cycle.
+	* When stability is important and clear sepea
