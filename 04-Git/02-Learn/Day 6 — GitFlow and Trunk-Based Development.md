@@ -20,4 +20,13 @@
 		* `hotfix` - Fixing critical bugs in production version, created directly from `main`. merged back into both `main` and `develop`.
 * When to use it:
 	* For projects that require a very strict and formal release cycle.
-	* When stability is important and clear sepea
+	* When stability is important and clear separation between development, testing and production
+	* In environments where a lot of manual testing QA is required before release
+
+### 6.3 Trunk-Based Development:
+* Big companies using method
+* It's simpler and most modern approach where all developers work almost on a single branch, usually called `main` or `trunk`.
+* `Structure:`
+	* `Main` branch: everyone commits their small changes directly to this branch or uses very short lived branches.
+	* `small, frequent commits:` Key is that developer integrates their work into the main branch many times a day
+	* `Feature flasgs`: 
