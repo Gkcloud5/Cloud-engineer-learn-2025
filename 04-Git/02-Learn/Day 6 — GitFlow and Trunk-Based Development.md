@@ -12,4 +12,10 @@
 * It will be used when company release once a week or once a month.
 * They need structure.
 * Branch structure:
-	* `main` or `master` - 
+	* `main` or `master` - This branch holds the code that is always ready to be released to the users. it is the most stable version.
+	* `develop` - This main branch where all the features are put together and tested. it represents the next major release
+	* Following are temporary branches
+		* `feature`- Developing a new feature - created from develop. merged back into `develop` when finished
+		* `release` - Preparing for new official launch - created from `develop`. used for final testing and bug fixes before the release. merged into `both` and `develop`
+		* `hotfix` - Fixing critical bugs, created directly from `main`. merged back into both `main` and `develop`.
+* 
