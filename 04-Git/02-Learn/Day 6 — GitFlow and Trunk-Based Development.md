@@ -29,4 +29,15 @@
 * `Structure:`
 	* `Main` branch: everyone commits their small changes directly to this branch or uses very short lived branches.
 	* `small, frequent commits:` Key is that developer integrates their work into the main branch many times a day
-	* `Feature flasgs`: 
+	* `Feature flasgs`: to add incomplete feature or turn off feature in live code until it's ready, keeping `main` branch stable
+* `Workflow`:
+	* Create small feature branches
+	* Work for 1 day
+	* Open PR
+	* CI tests
+	* Merge quickly
+	* Delete branch
+* `When to use`:
+	* For teams that practices `continuous integration and continuous delivery`. 
+	* When speed and rapid feedback are the top priority.
+
