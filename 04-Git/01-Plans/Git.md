@@ -99,7 +99,7 @@
 
 ---
 
-# ✅ **Day 6 — GitFlow & Trunk-Based Development**
+# ✅ **[[Day 6 — GitFlow and Trunk-Based Development]]**
 
 **Goal:** Learn two real-world branching models**
 
