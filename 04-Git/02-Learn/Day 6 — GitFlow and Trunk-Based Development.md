@@ -50,4 +50,6 @@
 	* This branch must be stable, tested and ready to deployed.
 * The development cycle:
 	* **feature --> PR -->review and test --> main --> deploy**
-	* 
+* Faster release and quick bug fixes
+* CI/CD driven: guaranteed quality for every change
+* 
