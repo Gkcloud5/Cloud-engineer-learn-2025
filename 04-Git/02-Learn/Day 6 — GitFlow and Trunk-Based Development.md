@@ -45,4 +45,9 @@
 * Focusing on 2 branch `main` and ` feature`.
 	* feature branch is short lived.
 * Core philosophy is `continuous delivery` meaning every change is merged into main codebase and is ready to go live immediately.
-* One `main` and `feature` branch, no other branch like `develop`, `hotfix`, `release`
+* One `main` and `feature` branch, no other branch like `develop`, `hotfix`, `release`.
+* `main` is always production ready`
+	* This branch must be stable, tested and ready to deployed.
+* The development cycle:
+	* **feature --> PR -->review and test --> main --> deploy**
+	* 
