@@ -41,3 +41,8 @@
 	* For teams that practices `continuous integration and continuous delivery`. 
 	* When speed and rapid feedback are the top priority.
 
+### 6.4 Hybrid: Github Flow:
+* Focusing on 2 branch `main` and ` feature`.
+	* feature branch is short lived.
+* Core philosophy is `continuous delivery` meaning every change is merged into main codebase and is ready to go live immediately.
+* One `main` and `feature` branch, no other branch like `develop`, `hotfix`, `release`
