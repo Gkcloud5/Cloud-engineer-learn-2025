@@ -96,9 +96,21 @@
               "icon": "lucide-file",
               "title": "Day 6 — GitFlow and Trunk-Based Development"
             }
+          },
+          {
+            "id": "1050388b6a947948",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -249,7 +261,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7a357bad5a1eac9",
+  "active": "1050388b6a947948",
   "lastOpenFiles": [
     "04-Git/02-Learn/Day 5 — Pull Requests.md",
     "04-Git/How recruiter see things in github profile.md",
