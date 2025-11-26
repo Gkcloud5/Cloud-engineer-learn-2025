@@ -52,4 +52,6 @@
 	* **feature --> PR -->review and test --> main --> deploy**
 * Faster release and quick bug fixes
 * CI/CD driven: guaranteed quality for every change
-* 
+
+
+

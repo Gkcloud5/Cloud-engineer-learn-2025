@@ -89,28 +89,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Git/02-Learn/Day 6 — GitFlow and Trunk-Based Development.md",
+                "file": "Prompt Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 6 — GitFlow and Trunk-Based Development"
-            }
-          },
-          {
-            "id": "1050388b6a947948",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "Prompt Example"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -261,12 +249,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1050388b6a947948",
+  "active": "f163d62dd0c04115",
   "lastOpenFiles": [
+    "04-Git/02-Learn/Day 6 — GitFlow and Trunk-Based Development.md",
     "04-Git/02-Learn/Day 5 — Pull Requests.md",
     "04-Git/How recruiter see things in github profile.md",
     "04-Git/01-Plans/Git.md",
-    "04-Git/02-Learn/Day 6 — GitFlow and Trunk-Based Development.md",
     "04-Git/02-Learn/Day 4 — Remote Repos.md",
     "04-Git/02-Learn/Day 1 — Git Fundamentals.md",
     "04-Git/02-Learn/Day 2 — Branching.md",
