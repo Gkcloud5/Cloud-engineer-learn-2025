@@ -7,7 +7,7 @@ Write in a motivating teacher tone.
 Include [extra details: real-world examples / analogies / metrics].
 Finally, suggest how I can improve my question to get an even better answer.
 
-
+ 
 
 ### To know the important thing in particular topic
 I want to learn the following topic in an effective way: [insert your topic here]
@@ -24,6 +24,7 @@ Please guide me on:
 5. Connect it with real word example and tell about it depends on topic
 
 Make the explanation clear, simple, and easy for someone new to the subject.
+
 
 
 

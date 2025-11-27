@@ -117,7 +117,7 @@
 
 ---
 
-# ✅ **Day 7 — Tags, Releases & Versioning**
+# ✅ **[[Day 7 — Tags, Releases and Versioning]]**
 
 **Goal:** Learn how production releases happen**
 

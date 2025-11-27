@@ -56,6 +56,20 @@
             }
           },
           {
+            "id": "873d3c36e2eff123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Git/02-Learn/Day 7 — Tags, Releases and Versioning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 7 — Tags, Releases and Versioning"
+            }
+          },
+          {
             "id": "609c52a96021f519",
             "type": "leaf",
             "state": {
@@ -89,16 +103,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Example.md",
+                "file": "04-Git/02-Learn/Day 6 — GitFlow and Trunk-Based Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Example"
+              "title": "Day 6 — GitFlow and Trunk-Based Development"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,12 +263,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f163d62dd0c04115",
+  "active": "b7a357bad5a1eac9",
   "lastOpenFiles": [
+    "04-Git/02-Learn/Day 7 — Tags, Releases and Versioning.md",
+    "04-Git/01-Plans/Git.md",
     "04-Git/02-Learn/Day 6 — GitFlow and Trunk-Based Development.md",
+    "Prompt Example.md",
     "04-Git/02-Learn/Day 5 — Pull Requests.md",
     "04-Git/How recruiter see things in github profile.md",
-    "04-Git/01-Plans/Git.md",
     "04-Git/02-Learn/Day 4 — Remote Repos.md",
     "04-Git/02-Learn/Day 1 — Git Fundamentals.md",
     "04-Git/02-Learn/Day 2 — Branching.md",
@@ -278,8 +294,6 @@
     "03- Networking/Day 2 – OSI Models.md",
     "03- Networking/001-Plan/Networking.md",
     "01-OS/000-Progress tracker/000 - OS Overview PT - 20th Oct 2025.md",
-    "01-OS/001 - OS Learn/Day 9 - Input and output.md",
-    "03- Networking/Day 1 – Networking Fundamentals.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "Day 6 – TCP",
