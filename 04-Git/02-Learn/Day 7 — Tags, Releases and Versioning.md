@@ -47,3 +47,15 @@ MAJOR.MINOR.PATCH
 #### 7.3.2 PATCH(Bug fixes):
 * `v1.1.0 --> v1.1.1`
 
+
+### 7.4 How CI/CD uses tags:
+* Most real companies deploy when a tag is created
+ ```yaml
+  on:
+  push:
+    tags:
+      - 'v*.*.*'
+
+
+  ```
+  

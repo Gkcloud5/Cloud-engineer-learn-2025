@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,15 +236,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2de44df7b40951a9",
+  "active": "873d3c36e2eff123",
   "lastOpenFiles": [
+    "04-Git/02-Learn/Day 4 — Remote Repos.md",
     "04-Git/02-Learn/Day 5 — Pull Requests.md",
     "04-Git/01-Plans/Git.md",
     "04-Git/02-Learn/Day 7 — Tags, Releases and Versioning.md",
     "04-Git/02-Learn/Day 6 — GitFlow and Trunk-Based Development.md",
     "Prompt Example.md",
     "04-Git/How recruiter see things in github profile.md",
-    "04-Git/02-Learn/Day 4 — Remote Repos.md",
     "04-Git/02-Learn/Day 1 — Git Fundamentals.md",
     "04-Git/02-Learn/Day 2 — Branching.md",
     "04-Git/02-Learn/Day 3 — Merge Conflicts.md",
