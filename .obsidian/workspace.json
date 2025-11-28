@@ -56,6 +56,20 @@
             }
           },
           {
+            "id": "2de44df7b40951a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Git/02-Learn/Day 4 — Remote Repos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 4 — Remote Repos"
+            }
+          },
+          {
             "id": "873d3c36e2eff123",
             "type": "leaf",
             "state": {
@@ -102,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rebase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +137,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,13 +236,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "873d3c36e2eff123",
+  "active": "2de44df7b40951a9",
   "lastOpenFiles": [
+    "04-Git/02-Learn/Day 5 — Pull Requests.md",
     "04-Git/01-Plans/Git.md",
     "04-Git/02-Learn/Day 7 — Tags, Releases and Versioning.md",
     "04-Git/02-Learn/Day 6 — GitFlow and Trunk-Based Development.md",
     "Prompt Example.md",
-    "04-Git/02-Learn/Day 5 — Pull Requests.md",
     "04-Git/How recruiter see things in github profile.md",
     "04-Git/02-Learn/Day 4 — Remote Repos.md",
     "04-Git/02-Learn/Day 1 — Git Fundamentals.md",
