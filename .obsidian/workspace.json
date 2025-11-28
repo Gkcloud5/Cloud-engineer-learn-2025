@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,10 +221,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c629f7df97fd2a3",
+  "active": "873d3c36e2eff123",
   "lastOpenFiles": [
-    "04-Git/02-Learn/Day 7 — Tags, Releases and Versioning.md",
     "04-Git/01-Plans/Git.md",
+    "04-Git/02-Learn/Day 7 — Tags, Releases and Versioning.md",
     "04-Git/02-Learn/Day 6 — GitFlow and Trunk-Based Development.md",
     "Prompt Example.md",
     "04-Git/02-Learn/Day 5 — Pull Requests.md",
