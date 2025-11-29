@@ -8,5 +8,6 @@ Flow:
 main --> hotfix/urgent-bug
 fix --> test --> merge into main --> tag release --> deploy
 AND
-merege into 
+merege into dev (so dev also receives the fix)
 ```
+
