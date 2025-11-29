@@ -136,7 +136,7 @@
 
 ---
 
-# ✅ **Day 8 — Hotfix & Rollback Workflows**
+# ✅ **[[Day 8 — Hotfix and Rollback Workflows]]**
 
 **Goal:** Handle emergencies like real DevOps**
 
