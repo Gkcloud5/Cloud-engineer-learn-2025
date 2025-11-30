@@ -34,6 +34,30 @@ on:
 on:
 	pull_request:
 		branches:
-		  -main
-		 
+		  - main
+		  - dev
 ```
+
+* Companies use this to:
+	* block merge if tests fail
+	* enforce code review
+	* check for vulnerabilities
+
+
+#### 9.2.3 when a tag is pushed: (Production deploys)
+```yaml
+on:
+	push:
+		tags:
+			- "v*.*.*"
+```
+* Meaning:
+	* You create tag v.1.2.0
+	* CI/CD deploys automatically
+	* No manual clicking
+	* No human mistakes
+	* Install rollback by pushing an older tag
+
+
+### 9.3 CI/CD Pipeline flow in real companies:
+* 
