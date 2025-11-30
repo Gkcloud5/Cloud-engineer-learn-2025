@@ -60,4 +60,8 @@ on:
 
 
 ### 9.3 CI/CD Pipeline flow in real companies:
-* 
+1. Developer pushes code --> CI runs tests
+2. Developer opens PR --> CI runs checks
+3. Merge PR --> CI merges and optionally deploys staging
+4. Create tag --> CI deploys production
+5. If something breaks --> push rollback tag
