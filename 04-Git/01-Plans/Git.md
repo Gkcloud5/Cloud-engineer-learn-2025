@@ -157,7 +157,7 @@
 
 ---
 
-# ✅ **Day 9 — Git for CI/CD (DevOps Core Skill)**
+# ✅ **[[Day 9 — Git for CIandCD]] (DevOps Core Skill)**
 
 **Goal:** Learn how pipelines depend on Git**
 
