@@ -43,6 +43,9 @@ git pull
 ### 10.2.3 Developer B branch:
 * Dashboard related work
 ```
-git checkout main
-git 
+1. Create branch for dashboard
+2. working code
+3. commit and push to branch
 ```
+
+==> Once all okay create PR on github
