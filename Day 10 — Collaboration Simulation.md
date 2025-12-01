@@ -32,3 +32,17 @@ git pull
 
 
 
+### 10.2.2 Step2: Create Developer A branch:
+* feature/login
+```
+1. create new branch
+2. working on it
+3. commit and push
+```
+
+### 10.2.3 Developer B branch:
+* Dashboard related work
+```
+git checkout main
+git 
+```
