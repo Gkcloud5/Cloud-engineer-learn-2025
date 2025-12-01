@@ -19,5 +19,16 @@
 
 ### 10.2.1  Step 1: Prepare repo:
 ```
-1. go to
+1. go to working directory
+2. checkout branch
+3. pull first to make sure all changes are in local
 ```
+
+```
+cd ~/git-day1
+git checkout main
+git pull
+```
+
+
+
