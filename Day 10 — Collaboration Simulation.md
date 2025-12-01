@@ -61,3 +61,11 @@ git pull
 1. Dev B
 	echo "Conflict A line" >> conflict.txt
 ```
+
+### 10.2.5 resolve conflict:
+```
+1. Checkout dashboard branch
+2. pull and fetch 
+3. merge with main
+4. 
+```
