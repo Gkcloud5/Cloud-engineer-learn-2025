@@ -180,7 +180,7 @@
 
 ---
 
-# ✅ **Day 10 — Collaboration Simulation**
+# ✅ **[[Day 10 — Collaboration Simulation]]**
 
 **Goal:** Act like you are on a real DevOps team**
 
