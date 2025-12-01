@@ -49,3 +49,15 @@ git pull
 ```
 
 ==> Once all okay create PR on github
+
+### 10.2.4 Create conflict
+* Edit same file in different branch
+```
+1. Dev A
+   echo "Conflict A line" >> conflict.txt
+```
+
+```
+1. Dev B
+	echo "Conflict A line" >> conflict.txt
+```
