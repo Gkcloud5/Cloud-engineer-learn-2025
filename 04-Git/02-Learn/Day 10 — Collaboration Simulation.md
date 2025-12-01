@@ -67,5 +67,32 @@ git pull
 1. Checkout dashboard branch
 2. pull and fetch 
 3. merge with main
-4. 
+4. edit conflict file
+5. add and commit and push
+```
+
+### 10.2.6 Relesae tag:
+```
+1. checkout main
+2. pull 
+3. git tag with commit version
+4. git push tag
+5. CI will trigger and take code to deployement
+```
+
+### 10.2.7 Production problem: Rollback
+```
+1. Issue with new tag code
+2. Rollback previous version
+```
+
+### 10.2.8 Hotfix:
+```
+1. Let consider need to implememt hotfix in production code
+2. Create specific branch for it and work
+3. add and commit changes
+4. checkout main and merge with new branch
+5. push the content and use new tag version to know better
+6. push the tag
+7. Finally need to update the changes to dev   
 ```

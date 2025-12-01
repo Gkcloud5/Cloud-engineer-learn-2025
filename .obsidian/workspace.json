@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 10 — Collaboration Simulation.md",
+                "file": "04-Git/02-Learn/Day 10 — Collaboration Simulation.md",
                 "mode": "source",
                 "source": false
               },
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4540dc4352e7e8d3",
@@ -250,9 +249,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "00c10070af32f062",
+  "active": "b7a357bad5a1eac9",
   "lastOpenFiles": [
-    "Day 10 — Collaboration Simulation.md",
+    "04-Git/02-Learn/Day 10 — Collaboration Simulation.md",
     "04-Git/01-Plans/Git.md",
     "04-Git/02-Learn/Day 9 — Git for CIandCD.md",
     "04-Git/02-Learn/Day 8 — Hotfix and Rollback Workflows.md",
