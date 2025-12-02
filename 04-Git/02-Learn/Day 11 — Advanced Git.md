@@ -41,4 +41,22 @@
 
 ### 11.2.3 `git rebase -i` - Rewrite history like a senior engineer:
 * Interactive rebase lets you:
-	* squash com
+	* squash commits
+	* rename commits
+	* delete commits
+	* re-order commits
+* Example:
+	* `git rebase -i HEAD~5`
+		* you will see
+			* pick 12345 first commit
+			* pick abcdef second commit
+			* pick ....
+		* change `pick` to `squash`
+			* pick 123456 first commit
+			* squash abcde second commit
+	* Teams use this to keep history clean before merging PR's.
+
+### 11.2.4 `git reflog` - Your git time-machine:
+* It shows **everything git did**, even things that `git log` does NOT show.
+* command
+	* git re
