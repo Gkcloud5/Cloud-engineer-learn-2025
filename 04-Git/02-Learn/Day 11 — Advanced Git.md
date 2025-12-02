@@ -67,4 +67,23 @@
 * **Reflog = Disaster recovery**
 
 
-### 10.2.5 `git bisect` - Find bad commit
+### 10.2.5 `git bisect` - Find bad commit FAST:
+* if bug appears but don't know which commit caused it:
+	* commands:
+		* `git bisect start`
+		* `git bisect bad`
+		* `git bisect good <old-good-commit>`
+	* Mark good/bad:
+		* `git bisect good`
+		* `git bisect bad`
+		* Git finds the exact commit that introduced the bug.
+
+
+### 10.2.6 `git clean` - Remove junk files safely:
+* see what would be deleted:
+	* `git clean -n`
+* Actually delete untracked junk:
+	* `git clean -fd`
+	* NEVER use if not sure
+
+### 10
