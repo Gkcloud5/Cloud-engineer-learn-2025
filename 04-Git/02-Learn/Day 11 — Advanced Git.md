@@ -59,4 +59,12 @@
 ### 11.2.4 `git reflog` - Your git time-machine:
 * It shows **everything git did**, even things that `git log` does NOT show.
 * command
-	* git re
+	* `git reflog`
+* If reset wrongly or lose commits, recover
+	* `git checkout <old-reflog-commit>`
+	* Or restore branch
+		* `git branch restore main <commit-id>`
+* **Reflog = Disaster recovery**
+
+
+### 10.2.5 `git bisect` - Find bad commit
