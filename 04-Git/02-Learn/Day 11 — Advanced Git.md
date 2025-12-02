@@ -1,5 +1,5 @@
 
-## 11.1 Overview:
+## 11.1 Overview of Advanced GIT:
 * Today we will know more about senior level GIT.
 * Some commands usage will separate DevOps engineer from regular developer, here we are going to see that type of commands
 
