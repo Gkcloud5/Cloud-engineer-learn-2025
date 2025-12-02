@@ -15,4 +15,22 @@
 	* commit squashing
 	* history recovery
 * These commands are used on following scenario:
-	* Something goe
+	* Something goes wrong
+	* A developer breaks a branch
+	* CI is failing
+	* A commit must be moved
+	* Production must be recovered
+	* A PR needs cleanup
+
+
+### 11.2.1 `git stash` - save work without committing:
+* When to use:
+	* You are working on something but need to switch branches OR pull latest code, but work is incomplete
+* Commands
+	* `git stash` --> Changes disappear from working directory but are saved
+	* `git stash list` --> Show stash list
+	* `git stash apply` --> Apply stash back
+	* `git stash top` --> Apply and remove
+
+### 11.2.2 `git cherry-pick` - Take one commit and apply anywhere:
+* 
