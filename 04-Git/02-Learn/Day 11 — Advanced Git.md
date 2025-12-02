@@ -86,4 +86,10 @@
 	* `git clean -fd`
 	* NEVER use if not sure
 
-### 10
+### 10.2.7 `safe force push` 
+* When rewriting commit history (rebase, squash), push with:
+	* `git push --force-with-lesae`
+* NEVER use:
+	* `git push --force`
+* `--force-with-lease` -- it protects other's work by failing if remote changed.
+
