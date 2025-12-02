@@ -207,7 +207,7 @@ You will do a full company-style scenario:
 
 ---
 
-# ✅ **Day 11 — Advanced Git (What Seniors Use)**
+# ✅ **[[Day 11 — Advanced Git]] (What Seniors Use)**
 
 **Goal:** Learn powerful commands used by real DevOps**
 
