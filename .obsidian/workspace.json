@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Git/02-Learn/Day 11 — Advanced Git.md",
+                "file": "Cloud engineer 2025 plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 11 — Advanced Git"
+              "title": "Cloud engineer 2025 plan"
             }
           },
           {
@@ -263,7 +263,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7a357bad5a1eac9",
+  "active": "40f1d2e0765f443e",
   "lastOpenFiles": [
     "04-Git/02-Learn/Day 11 — Advanced Git.md",
     "04-Git/01-Plans/Git.md",
