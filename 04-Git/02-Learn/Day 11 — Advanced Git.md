@@ -33,4 +33,12 @@
 	* `git stash top` --> Apply and remove
 
 ### 11.2.2 `git cherry-pick` - Take one commit and apply anywhere:
-* 
+* When to use:
+	* when FIx a bug in PR branch, but the same bug needs fixing in main - without merging the whole PR.
+* Commands:
+	* Commit ID: `git log --oneline`
+	* `git checkout main` & `git cherry-pick <commit id>`
+
+### 11.2.3 `git rebase -i` - Rewrite history like a senior engineer:
+* Interactive rebase lets you:
+	* squash com
