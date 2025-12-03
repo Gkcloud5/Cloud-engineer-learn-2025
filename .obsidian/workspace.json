@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Git/02-Learn/Day 12 — Final DevOps Project Real_World Git Repo.md",
+                "file": "04-Git/GIT cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 12 — Final DevOps Project Real_World Git Repo"
+              "title": "GIT cheatsheet"
             }
           }
         ],
@@ -238,6 +238,7 @@
   "active": "7f8a7f643c32d819",
   "lastOpenFiles": [
     "04-Git/02-Learn/Day 12 — Final DevOps Project Real_World Git Repo.md",
+    "04-Git/GIT cheatsheet.md",
     "04-Git/01-Plans/Git.md",
     "Cloud engineer 2025 plan.md",
     "04-Git/02-Learn/Day 11 — Advanced Git.md",
@@ -265,7 +266,6 @@
     "03- Networking/Day 7 – DNS, DHCP and NAT.md",
     "03- Networking/Day 6 – TCPandIP Suite & Ports.md",
     "03- Networking/Day 5 – Routing & Packet Flow.md",
-    "03- Networking/Day 4 – Data Link Layer & Ethernet.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "Day 6 – TCP",
