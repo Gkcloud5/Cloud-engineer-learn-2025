@@ -230,7 +230,7 @@ You will do a full company-style scenario:
 
 ---
 
-# ✅ **Day 12 — Final DevOps Project: Real-World Git Repo**
+# ✅ **[[Day 12 — Final DevOps Project Real_World Git Repo]]**
 
 **Goal:** You prove you can handle DevOps Git workflows**
 
