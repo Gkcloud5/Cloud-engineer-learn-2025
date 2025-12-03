@@ -11,4 +11,7 @@
 	* Clean history
 	* Apply rebase/squash
 	* Use cherry pick
-	* 
+	* Recover from mistakes using reflog
+	* Trigger CI with tags
+
+
