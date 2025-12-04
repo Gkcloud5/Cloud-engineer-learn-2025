@@ -1,6 +1,5 @@
 
 ### 🧩 1. **Set up your cloud environment**
-
 - Create project, enable required services (Artifact Registry, Cloud Run, etc.).
 - Create service account and credentials.
 ---
