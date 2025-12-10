@@ -1,222 +1,279 @@
-# 🗓️ **DAY 1 — Understand + Build Foundation**
+# **DAY 1 — Understand + Build Foundation (VPS Version)**
 
 Goal:  
 ✔ Understand concepts  
-✔ Build a simple app  
+✔ Build simple app  
 ✔ Learn Docker  
-✔ Set up cloud + registry
+✔ Set up **VPS environment + registry (GHCR)**  
+✔ Add GitHub Secrets
 
 ---
 
 ## **1️⃣ Understand the big picture (1 hour)**
 
-You learn:
+### You learn:
 
-- What is CI/CD
-- What GitHub Actions does
-- What a Docker image is
-- What a Cloud registry is
-- What Cloud Run (or similar) is
+- What CI/CD means
+    
+- What GitHub Actions automates
+    
+- What Docker images & containers are
+    
+- What a registry is (GitHub Container Registry)
+    
+- What deployment looks like on a VPS (SSH → pull image → run container)
+    
 
-Outcome:  
-You clearly understand **why** we are doing build → scan → deploy.
+### Outcome:
+
+You understand **why the pipeline is:**  
+**build → scan → push → deploy to VPS**
 
 ---
 
 ## **2️⃣ Build a tiny “Hello World” app (1 hour)**
 
-Pick any language (Node, Python, Go).  
-Goal is just:  
-**“Hello World” in browser → running locally.**
+Choose any language (Node.js recommended).  
+Goal: simple Hello World in browser.
 
-Outcome:  
-You have a working mini web app.
+Run locally:
+
+`npm install npm start`
+
+### Outcome:
+
+A working mini web app served on **localhost:8080**
 
 ---
 
-## **3️⃣ Learn Docker basics + create a Dockerfile (1 hour)**
+## **3️⃣ Learn Docker basics + create Dockerfile (1 hour)**
 
 You learn:
 
 - What a container is
     
-- How Docker builds an image
+- How Docker packages your app
     
-- How to run a container locally
+- What `docker build` does
+    
+- How to run your app inside Docker
     
 
 Tasks:
 
-- Write a simple Dockerfile
+- Write a Dockerfile
     
-- Run: `docker build`
+- Build image locally
     
-- Run: `docker run`
-    
-
-Outcome:  
-Your app now runs **inside Docker**.
-
----
-
-## **4️⃣ Set up your cloud environment (2 hours)**
-
-Based on your cloud (GCP recommended):
-
-You do:
-
-- Create project
-    
-- Enable Cloud Run and Artifact Registry
-    
-- Create Artifact Registry repo
-    
-- Create service account
-    
-- Create JSON key
-    
-- Add key to GitHub Secrets
+- Run container
     
 
-Outcome:  
-Your cloud is ready to receive images.
+Example:
+
+`docker build -t hello-cicd:local . docker run -d -p 8080:8080 hello-cicd:local`
+
+### Outcome:
+
+Your app runs **inside Docker**, same way it will run on your VPS.
 
 ---
 
-# ✔️ End of Day 1 Result
+## **4️⃣ Set up your VPS environment (2 hours)**
 
-By the end of Day 1:
+_(This replaces the entire Cloud Run + Artifact Registry setup)_
 
-- You understand the pipeline
+### ✔ Install Docker on VPS
+
+`curl -fsSL https://get.docker.com | sh`
+
+### ✔ Create a deploy user
+
+`sudo adduser deployuser sudo usermod -aG docker deployuser`
+
+### ✔ Set up SSH key-based access
+
+Generate a key on your local machine:
+
+`ssh-keygen -t ed25519 -f ~/.ssh/github_actions_key`
+
+Copy public key to VPS:
+
+`ssh-copy-id -i ~/.ssh/github_actions_key.pub deployuser@VPS_IP`
+
+### ✔ Choose a container registry
+
+You need somewhere to store built Docker images.
+
+**Recommended: GitHub Container Registry (GHCR)**  
+No need to use Docker Hub or cloud registries.
+
+### ✔ Add GitHub Secrets
+
+In repo → Settings → Secrets → Actions:
+
+You add:
+
+- `VPS_SSH_KEY` → contents of private key `github_actions_key`
     
-- You have a working app
+- `VPS_HOST` → your VPS IP
     
-- You have a working Docker image
+- `VPS_USER` → deployuser
     
-- Cloud is ready
+- `VPS_SSH_PORT` → 22 (or your custom port)
     
-- GitHub secrets are ready
+- `GHCR_TOKEN` → GitHub PAT with `write:packages`
     
 
-Perfect foundation for Day 2.
+### Outcome:
+
+✔ VPS can accept deploys  
+✔ Registry is ready  
+✔ GitHub Secrets prepared
 
 ---
 
-# 🗓️ **DAY 2 — Build the CI/CD Pipeline + Deploy**
+# ✔️ **End of Day 1 Result**
+
+By end of Day 1 you have:
+
+- Clear understanding of CI/CD
+    
+- A working app
+    
+- A working Docker image
+    
+- A VPS ready for deployment
+    
+- GitHub Secrets ready for CI/CD pipeline
+    
+
+This is the perfect foundation for Day 2.
+
+---
+
+# 🗓️ **DAY 2 — Build the CI/CD Pipeline + Deploy to VPS**
 
 Goal:  
-✔ Write the GitHub Actions pipeline  
-✔ Build and push Docker image automatically  
-✔ Run code scan  
-✔ Deploy to Cloud Run  
-✔ Verify live service
+✔ Build pipeline  
+✔ Push image to GHCR  
+✔ Scan code  
+✔ SSH into VPS and deploy container  
+✔ Verify live app
 
 ---
 
 ## **1️⃣ Create GitHub Actions workflow (2 hours)**
 
-You make `.github/workflows/cicd.yml` with these stages:
+Stages:
 
-### ✓ Build
+### ✓ **Build**
 
 - checkout code
     
-- authenticate to cloud
-    
 - build Docker image
     
-- push to Artifact Registry
+- push to GitHub Container Registry (GHCR)
     
 
-### ✓ Scan
+### ✓ **Scan**
 
-- basic code scan (CodeQL or Trivy)
+- run CodeQL or Trivy security scan
     
 
-### ✓ Deploy
+### ✓ **Deploy (VPS)**
 
-- deploy image to Cloud Run
+- SSH into VPS
+    
+- pull new image
+    
+- restart Docker container
     
 
-Outcome:  
-Your repo has a full CI/CD YAML file.
+### Outcome:
+
+You now have **cicd-vps.yml** in `.github/workflows`.
 
 ---
 
 ## **2️⃣ Run the pipeline (1 hour)**
 
-You do:
+Do this:
 
-- Push code to GitHub
+1. Push code → GitHub Actions triggers
     
-- Watch Actions pipeline run:
+2. Watch workflow:
     
-    1. Build
+    - Build
         
-    2. Scan
+    - Scan
         
-    3. Deploy
+    - Deploy to VPS
         
 
-Outcome:  
-Your image appears in Artifact Registry.
+### Outcome:
+
+The pipeline is working end-to-end.
 
 ---
 
-## **3️⃣ Verify the deployment (30 min)**
+## **3️⃣ Verify deployment (30 minutes)**
 
-You check Cloud Run:
+Go to your VPS:
 
-- A new revision is created
-    
-- A public URL is generated
-    
-- Open the URL → see “Hello World”
-    
+`docker ps docker logs hello-cicd`
 
-Outcome:  
-Your CI/CD pipeline is **working end-to-end**.
+Visit:
 
----
+`http://YOUR_VPS_IP:8080`
 
-## **4️⃣ (Optional) Understand logs + failures (30 min)**
+You should see:  
+**Hello from VPS CI/CD demo!**
 
-You learn:
+### Outcome:
 
-- How to view GitHub Action logs
-    
-- How to debug failed steps
-    
-- Why code scanning matters
-    
-
-Outcome:  
-You understand how real pipelines are maintained.
+Live deployment is successful.
 
 ---
 
-# ✔️ End of Day 2 Result
+## **4️⃣ Debug & understand logs (30 minutes)**
 
-By the end of Day 2:
+Learn:
 
-- You have a full CI/CD pipeline from GitHub → Cloud
+- Where GitHub logs are
     
-- Every push automatically builds, scans, and deploys
+- Why build may fail
     
-- You understand every stage practically
+- Why deploy may fail
     
-- You have a **complete DevOps pipeline project** you can show in portfolio
+- How to fix common issues
     
+
+This makes your DevOps skills much stronger.
+
+---
+
+# ✔️ **End of Day 2 Result**
+
+You now have:
+
+✔ A working CI/CD pipeline from GitHub → VPS  
+✔ Auto build + scan + deploy on every commit  
+✔ Dockerized app  
+✔ Real deployment automation  
+✔ Portfolio-ready real-world DevOps project
 
 ---
 
 # 🎉 Final Outcome (after 2 days)
 
-You will know **exactly**:
+You will know:
 
-✔ How Docker packaging works  
-✔ How GitHub Actions works  
-✔ How to push images to Artifact Registry  
-✔ How to deploy to Cloud Run  
-✔ How to automate everything end-to-end  
-✔ How real companies do DevOps pipelines
+- GitHub Actions end-to-end
+    
+- Docker packaging + registries
+    
+- Automated deployment to VPS
+    
+- How to design real DevOps pipelines
+    
+- How build → scan → push → deploy works at companies
