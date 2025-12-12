@@ -24,4 +24,5 @@
 	* Dependencies
 	* Runtime(Node, python, etc)
 * Docker Image:
-	* A recipe or package of a
+	* A recipe or package of app
+	* 
