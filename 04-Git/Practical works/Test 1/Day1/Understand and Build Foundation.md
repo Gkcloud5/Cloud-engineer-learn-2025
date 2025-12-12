@@ -27,4 +27,6 @@
 	* A recipe or package of app
 * Docker container:
 	* A running instance of the image
-* 
+* Why we use docker:
+	* It runs the same way everywhere - laptop, VPS, github actions
+
