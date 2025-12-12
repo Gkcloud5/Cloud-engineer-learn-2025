@@ -31,4 +31,11 @@
 	* It runs the same way everywhere - laptop, VPS, github actions
 
 ## 1.4 What is container registry:
-* It's like a storage place 
+* It's like a storage place of docker images
+* Example:
+	* Docker Hub
+	* Github container registry
+	* AWS ECR
+* Why we need registry:
+	* VPS must download the new docker image during deployment
+	* It can only download from 
