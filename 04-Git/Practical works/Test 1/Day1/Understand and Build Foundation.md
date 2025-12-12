@@ -48,3 +48,7 @@
 ## 1.5 What deployment looks like in VPS:
 * Steps in deployment
 	* 1. VPS is connects to GHCR
+	* 2. It downloads the latest Docker image
+	* 3. It stops the old container
+	* 4. It starts the new container
+* Build --> Scan --> push --> deploy to VPS
