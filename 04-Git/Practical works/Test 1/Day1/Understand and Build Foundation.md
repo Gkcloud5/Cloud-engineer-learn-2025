@@ -1,4 +1,6 @@
 
 ## 1. Understand the Big picture
 ### 1.1 What is CI/CD?
-
+* CI/CD means automating workflow
+	* CI - Continuous Integration -> Automatically build and test code whenever push to github
+	* CD - Continuous Deploy
