@@ -38,4 +38,10 @@
 	* AWS ECR
 * Why we need registry:
 	* VPS must download the new docker image during deployment
-	* It can only download from 
+	* It can only download from a registry
+* So Pipeline does this:
+	* 1. Build docker image
+	* 2. Push image --> GHCR
+	* 3. VPS pulls the image from GHCR
+	* 4. Run container
+
