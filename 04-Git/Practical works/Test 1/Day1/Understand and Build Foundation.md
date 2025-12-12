@@ -1,3 +1,4 @@
 
-## Understand the Big picture
-### What is CI/CD?
+## 1. Understand the Big picture
+### 1.1 What is CI/CD?
+
