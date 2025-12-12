@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Git/Practical works/Test 1/Day wise plan.md",
+                "file": "04-Git/Practical works/Test 1/Day1/Understand and Build Foundation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day wise plan"
+              "title": "Understand and Build Foundation"
             }
           },
           {
@@ -265,8 +265,8 @@
   },
   "active": "8ba130bbd3389ba7",
   "lastOpenFiles": [
-    "04-Git/Practical works/Test 1/Day1/Understand and Build Foundation.md",
     "04-Git/Practical works/Test 1/Day wise plan.md",
+    "04-Git/Practical works/Test 1/Day1/Understand and Build Foundation.md",
     "04-Git/Practical works/Test 1/Day1",
     "04-Git/Practical works/Some practical explore - reddit.md",
     "04-Git/Practical works/Test 1",
