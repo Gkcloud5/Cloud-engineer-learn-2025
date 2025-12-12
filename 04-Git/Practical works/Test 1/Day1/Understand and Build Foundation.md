@@ -45,3 +45,5 @@
 	* 3. VPS pulls the image from GHCR
 	* 4. Run container
 
+## 1.5 What deployment looks like in VPS:
+* 
