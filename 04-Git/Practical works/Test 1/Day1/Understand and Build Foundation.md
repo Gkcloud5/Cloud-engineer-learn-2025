@@ -3,4 +3,7 @@
 ### 1.1 What is CI/CD?
 * CI/CD means automating workflow
 	* CI - Continuous Integration -> Automatically build and test code whenever push to github
-	* CD - Continuous Deploy
+	* CD - Continuous Deployment -> Automatically deploy code to production environment
+* Pipeline will do all the things
+
+
