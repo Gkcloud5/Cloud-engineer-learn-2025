@@ -19,4 +19,9 @@
 	* Because everything happens automatically - no manual typing commands on your VPS every time.
 
 ## 1.3 What Docker images and containers are:
-* 
+* Docker contain entire app:
+	* Code
+	* Dependencies
+	* Runtime(Node, python, etc)
+* Docker Image:
+	* A recipe or package of a
