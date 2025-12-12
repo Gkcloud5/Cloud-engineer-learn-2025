@@ -14,4 +14,6 @@
 	* It can build docker image
 	* It can scan for security issues
 	* It can push image to GHCR
-	* It can SSH in
+	* It can SSH into your VPS and deploy the container
+* Why:
+	* Because everything happens automatically - no manual typing commands on your VPS every time.
