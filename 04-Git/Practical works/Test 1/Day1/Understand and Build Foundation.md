@@ -46,4 +46,5 @@
 	* 4. Run container
 
 ## 1.5 What deployment looks like in VPS:
-* 
+* Steps in deployment
+	* 1. VPS is connects to GHCR
