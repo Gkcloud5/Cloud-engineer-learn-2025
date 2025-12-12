@@ -51,4 +51,6 @@
 	* 2. It downloads the latest Docker image
 	* 3. It stops the old container
 	* 4. It starts the new container
-* Build --> Scan --> push --> deploy to VPS
+
+# `Build --> Scan --> push --> deploy to VPS`
+
