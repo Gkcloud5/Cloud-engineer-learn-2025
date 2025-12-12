@@ -31,4 +31,4 @@
 	* It runs the same way everywhere - laptop, VPS, github actions
 
 ## 1.4 What is container registry:
-* It's 
+* It's like a storage place 
