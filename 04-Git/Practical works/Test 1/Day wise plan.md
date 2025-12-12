@@ -137,16 +137,11 @@ You add:
 By end of Day 1 you have:
 
 - Clear understanding of CI/CD
-    
-- A working app
-    
+- A working app    
 - A working Docker image
-    
 - A VPS ready for deployment
-    
 - GitHub Secrets ready for CI/CD pipeline
     
-
 This is the perfect foundation for Day 2.
 
 ---
