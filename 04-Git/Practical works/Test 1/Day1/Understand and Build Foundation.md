@@ -25,4 +25,6 @@
 	* Runtime(Node, python, etc)
 * Docker Image:
 	* A recipe or package of app
-	* 
+* Docker container:
+	* A running instance of the image
+* 
