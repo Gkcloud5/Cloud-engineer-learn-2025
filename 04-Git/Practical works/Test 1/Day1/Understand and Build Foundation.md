@@ -17,3 +17,6 @@
 	* It can SSH into your VPS and deploy the container
 * Why:
 	* Because everything happens automatically - no manual typing commands on your VPS every time.
+
+## 1.3 What Docker images and containers are:
+* 
