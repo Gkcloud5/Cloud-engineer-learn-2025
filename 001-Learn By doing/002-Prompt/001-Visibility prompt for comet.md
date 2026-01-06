@@ -117,7 +117,7 @@ Please interact the currenttab and do the following works
 Proceed ONLY if ALL conditions are met:
 - Followers **> 1000**
 - Human individual (NO recruiters, agencies, brands, company pages)
-- Relevant to **Cloud / AI / Software / Dev / DevOps/ HR/ Talent Partner**
+- Relevant to **Cloud / AI / Software / Dev / DevOps/ HR/ Talent Partner/ Technical Require**
 - Profile loads fully
 
 
