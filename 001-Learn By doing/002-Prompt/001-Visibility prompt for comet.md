@@ -166,7 +166,7 @@ Narration Format (Compact):
 ```
 
 
-
+ 
 ## LinkedIN - Cloud engineer:
 
 ```
