@@ -26,5 +26,4 @@ flowchart TD
     E5 --> F
 
     F --> G[Content Playbook Created]
-
 ```

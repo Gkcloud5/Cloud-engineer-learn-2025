@@ -76,7 +76,7 @@
               "type": "markdown",
               "state": {
                 "file": "001-Learn By doing/001-Visibility/02-Learning-From-Platforms.md.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -277,13 +277,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "849db81667af4c3c",
+  "active": "1ba549a236127b5d",
   "lastOpenFiles": [
+    "001-Learn By doing/001-Visibility/01-Visibility & Connection Flowchart.md",
+    "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
     "001-Learn By doing/001-Visibility/03-Content-Creation-Loop.md.md",
     "001-Learn By doing/002-Prompt/002-Content.md",
-    "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
     "001-Learn By doing/001-Visibility/02-Learning-From-Platforms.md.md",
-    "001-Learn By doing/001-Visibility/01-Visibility & Connection Flowchart.md",
     "04-Git/01-Plans/Git.md",
     "001-Learn By doing/002-Prompt",
     "001-Learn By doing/001-Overview.md",
