@@ -118,11 +118,25 @@
               "type": "markdown",
               "state": {
                 "file": "001-Learn By doing/001-Overview.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "001-Overview"
+            }
+          },
+          {
+            "id": "ccde22351b630283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001-Learn By doing/001-Visibility/01-Visibility & Connection Flowchart.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Visibility & Connection Flowchart"
             }
           },
           {
@@ -140,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -291,10 +305,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b8f0ff7798469de",
+  "active": "ccde22351b630283",
   "lastOpenFiles": [
-    "04-Git/Practical works/Test 1/Day1/00-Theory/Understand and Build Foundation.md",
     "001-Learn By doing/001-Overview.md",
+    "001-Learn By doing/001-Visibility/01-Visibility & Connection Flowchart.md",
+    "001-Learn By doing/001-Visibility",
+    "04-Git/Practical works/Test 1/Day1/00-Theory/Understand and Build Foundation.md",
     "001-Learn By doing",
     "04-Git/Practical works/Test 1/Day1/02-Practical/Practical steps create, build, deploy docker image.md",
     "04-Git/Practical works/Test 1/Day1/02-Practical",
@@ -324,13 +340,11 @@
     "04-Git/02-Learn/Day 3 — Merge Conflicts.md",
     "02-Linux/001-Linux.md",
     "01-OS/000-Plan and action/01 - OS.md",
-    "01-OS/001 - OS Learn/Day 1 - OS Overview.md",
     "04-Git/02-Learn",
     "04-Git/01-Plans",
     "04-Git",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
-    "Day 6 – TCP",
     "03- Networking/Image/Pasted image 20251109011908.png",
     "03- Networking/Image/ChatGPT Image Nov 5, 2025, 07_37_56 PM.png"
   ]
