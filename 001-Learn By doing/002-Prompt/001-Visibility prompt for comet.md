@@ -40,9 +40,6 @@ Narrate briefly: "Hovering [username]... Card loaded: [followers]. Eligible? Yes
 ## LinkedIN - cloud engineer:
 
 ```
-
-```
-
 1. Search
 2. Click Post
 3. once post shorted then click Date posted and select past 24hour
@@ -56,4 +53,8 @@ Narrate briefly: "Hovering [username]... Card loaded: [followers]. Eligible? Yes
 	-> About (Read about section and understand and give 2 line intro about that person)
 6. Goal is note maximum 5 profile information per keyword.
 7. Once you have profile information list then move to this link https://docs.google.com/spreadsheets/d/1ChOy4CUTHGRGgBFGYKq1YVkPbXbrPQY7balAqgSd3Og/edit?gid=1959214629#gid=1959214629, and write the noted profile information there
-	1. Already headings are there as per the notes information 
+	1. Already headings are there as per the notes information title so easy to add information
+8. Once write completed please select the next keyword and do the above things again.
+```
+
+
