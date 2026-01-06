@@ -46,4 +46,10 @@ Narrate briefly: "Hovering [username]... Card loaded: [followers]. Eligible? Yes
 Search
 Click Post
 All filter and select past 24 hour
-Open showing profile and check followers, if count is m
+Open showing profile and check followers, if count is more then 1000 then please note the name
+Informaion need to note:
+->  Name
+-> Job role info
+->  Industry cloud/AI
+->  Short
+Goal is note maximum 5 profile information per keyword.
