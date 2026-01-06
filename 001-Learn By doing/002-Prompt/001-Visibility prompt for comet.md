@@ -72,22 +72,18 @@ Narrate briefly: "Hovering [username]... Card loaded: [followers]. Eligible? Yes
 ## KEYWORDS (USE EXACTLY THESE – NO ADDITIONS, NO REMOVALS)
 1. GenAI 
 2. "GenAI engineer"
-3. "GenAI developer" 
-4. GenAI security engineer  
-5. "LLM engineer"
-6. "AI automation" 
-7. "Fine tunning" 
-8. "AI agent"  
-9. "AGI" 
-10. "context engineer"
-11. "prompt engineer" 
-12. "kubernetes"
+3. GenAI security engineer  
+4. "LLM engineer"
+5. "AI automation" 
+6. "AI agent"  
+7. "context engineer"
+8. "prompt engineer" 
 
 ---
 
 ## GLOBAL RULES (NON-NEGOTIABLE)
 - Work **keyword by keyword**, in order 
-- **Maximum 5 valid profiles per keyword** 
+- **Maximum 2 valid profiles per keyword** 
 - **Skip immediately** if any required info is missing or unclear
 - Do NOT guess, infer, or assume 
 - If LinkedIn, filters, or sheet are inaccessible → STOP 
@@ -124,57 +120,33 @@ Proceed ONLY if ALL conditions are met:
 
 
 If **ANY doubt → SKIP immediately**
-
 ---
-
 ## INFORMATION TO EXTRACT (VISIBLE CONTENT ONLY)
-
 From the opened profile, collect:
-
-1. **Name**
-    
+1. **Name** 
 2. **Job Title + Seniority** (if explicitly mentioned)
-    
-3. **Industry**
-    
-    - Choose ONLY if clearly Cloud or AI
-        
-4. **Company**
-    
-5. **Location**
-        
-
-❌ Do NOT infer seniority  
-❌ Do NOT rephrase marketing language  
-❌ Do NOT hallucinate missing fields
+3. **Industry**  
+    - Choose ONLY if clearly Cloud or AI      
+4. **Company**   
+5. **Location**      
 
 ---
 
 ## DATA ENTRY IN GOOGLE SHEET
-
 After collecting up to **5 valid profiles** for the keyword:
-
 ➡️ Go to:  
 [https://docs.google.com/spreadsheets/d/1ChOy4CUTHGRGgBFGYKq1YVkPbXbrPQY7balAqgSd3Og/edit?gid=1959214629#gid=1959214629](https://docs.google.com/spreadsheets/d/1ChOy4CUTHGRGgBFGYKq1YVkPbXbrPQY7balAqgSd3Og/edit?gid=1959214629#gid=1959214629)
-
 - Headings are already present
-    
-- Append new rows only
-    
-- Enter data exactly under matching columns
-    
-- Do NOT modify existing rows
-    
+- Append new rows only 
+- Enter data exactly under matching columns 
+- Do NOT modify existing rows 
 
 ---
 
 ## FLOW CONTROL
-
 - Once data for the keyword is written →  
     **Immediately move to the NEXT keyword**
-    
-- Repeat until **all 13 keywords are completed**
-    
+- Repeat until **all keywords are completed** 
 
 ---
 
@@ -186,10 +158,7 @@ Narration Format (Compact):
 ---
 
 ## STOP CONDITIONS
-
 - All keywords completed
-    
-- OR LinkedIn access blocked
-    
+- OR LinkedIn access blocked  
 - OR Google Sheet inaccessible
 ```
