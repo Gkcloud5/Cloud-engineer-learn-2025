@@ -61,78 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Git/01-Plans/Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "7f8a7f643c32d819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Git/Practical works/Some practical explore - reddit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Some practical explore - reddit"
-            }
-          },
-          {
-            "id": "8ba130bbd3389ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Git/Practical works/Test 1/Day1/00-Theory/Understand and Build Foundation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Understand and Build Foundation"
-            }
-          },
-          {
-            "id": "a9d5d7336fb445e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Git/Practical works/Test 1/Day1/00-Theory/Understand and Build Foundation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Understand and Build Foundation"
-            }
-          },
-          {
-            "id": "8b8f0ff7798469de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001-Learn By doing/001-Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001-Overview"
-            }
-          },
-          {
-            "id": "ccde22351b630283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "001-Learn By doing/001-Visibility/01-Visibility & Connection Flowchart.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -140,12 +70,12 @@
             }
           },
           {
-            "id": "fa71968462c59b81",
+            "id": "1ba549a236127b5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Learning-From-Platforms.md.md",
+                "file": "001-Learn By doing/001-Visibility/02-Learning-From-Platforms.md.md",
                 "mode": "source",
                 "source": false
               },
@@ -154,13 +84,13 @@
             }
           },
           {
-            "id": "a563481fa51865d6",
+            "id": "5ef59c68217b38cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Content-Creation-Loop.md.md",
-                "mode": "preview",
+                "file": "001-Learn By doing/001-Visibility/03-Content-Creation-Loop.md.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -168,21 +98,35 @@
             }
           },
           {
-            "id": "af233d4467dc2d8f",
+            "id": "849db81667af4c3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Git/Practical works/Test 1/Day1/Understand and Build Foundation.md",
+                "file": "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understand and Build Foundation"
+              "title": "001-Visibility prompt for comet"
+            }
+          },
+          {
+            "id": "501a1fd8f0b8c1cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001-Learn By doing/002-Prompt/002-Content.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "002-Content"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -333,11 +277,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a563481fa51865d6",
+  "active": "849db81667af4c3c",
   "lastOpenFiles": [
-    "02-Learning-From-Platforms.md.md",
-    "03-Content-Creation-Loop.md.md",
+    "001-Learn By doing/001-Visibility/03-Content-Creation-Loop.md.md",
+    "001-Learn By doing/002-Prompt/002-Content.md",
+    "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
+    "001-Learn By doing/001-Visibility/02-Learning-From-Platforms.md.md",
     "001-Learn By doing/001-Visibility/01-Visibility & Connection Flowchart.md",
+    "04-Git/01-Plans/Git.md",
+    "001-Learn By doing/002-Prompt",
     "001-Learn By doing/001-Overview.md",
     "001-Learn By doing/001-Visibility",
     "04-Git/Practical works/Test 1/Day1/00-Theory/Understand and Build Foundation.md",
@@ -354,7 +302,6 @@
     "04-Git/GIT cheatsheet.md",
     "04-Git/How recruiter see things in github profile.md",
     "04-Git/02-Learn/Day 12 — Final DevOps Project Real_World Git Repo.md",
-    "04-Git/01-Plans/Git.md",
     "Cloud engineer 2025 plan.md",
     "04-Git/02-Learn/Day 11 — Advanced Git.md",
     "04-Git/02-Learn/Day 10 — Collaboration Simulation.md",
@@ -366,11 +313,8 @@
     "04-Git/02-Learn/Day 6 — GitFlow and Trunk-Based Development.md",
     "Prompt Example.md",
     "04-Git/02-Learn/Day 1 — Git Fundamentals.md",
-    "04-Git/02-Learn/Day 2 — Branching.md",
-    "04-Git/02-Learn/Day 3 — Merge Conflicts.md",
     "04-Git/02-Learn",
     "04-Git/01-Plans",
-    "04-Git",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
