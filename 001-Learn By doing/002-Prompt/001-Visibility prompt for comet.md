@@ -121,7 +121,7 @@ Proceed ONLY if ALL conditions are met:
 - Human individual (NO recruiters, agencies, brands, company pages)
 - Relevant to **Cloud / AI / Software / Dev / DevOps**
 - Profile loads fully
-- About section is readable
+
 
 If **ANY doubt → SKIP immediately**
 
@@ -142,14 +142,6 @@ From the opened profile, collect:
 4. **Company**
     
 5. **Location**
-    
-6. **About Summary**
-    
-    - Read the About section
-        
-    - Write a **neutral, factual 2-line intro**
-        
-    - Use only what is explicitly stated
         
 
 ❌ Do NOT infer seniority  
@@ -186,11 +178,10 @@ After collecting up to **5 valid profiles** for the keyword:
 
 ---
 
-## NARRATION (SHORT, MANDATORY)
+Narration Format (Compact):
 
-For each profile checked, briefly narrate:
+[Checked] @handle — Yes / No
 
-> “Opening profile: [Name] — Followers: [count]. Eligible? Yes / No.”
 
 ---
 
