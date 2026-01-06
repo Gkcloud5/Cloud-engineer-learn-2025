@@ -1,56 +1,22 @@
+``` mermaid
+
 flowchart TD
+    A([Do a Project]) --> B[Capture Experience]
 
-    A([Start]) --> B[Setup Visibility & Connection System]
+    B --> C[Ask Key Questions]
 
-    B --> C[Visibility]
+    C --> C1[How did I do it?]
+    C --> C2[What worked best?]
+    C --> C3[Core concept?]
+    C --> C4[What failed?]
 
-    C --> D[Identify People & Communities]
+    C1 --> D[Extract Lessons]
+    C2 --> D
+    C3 --> D
+    C4 --> D
 
-    D --> E[Send Connection / Engagement Request]
+    D --> E[Convert to Content Ideas]
 
-    E --> X[X (Twitter)]
-    E --> L[LinkedIn]
-    E --> R[Reddit]
+    E --> F[Send to Content Creation Loop]
 
-    %% Observation Phase
-    X --> X1[Observe High-Engagement Posts]
-    L --> L1[Observe High-Engagement Posts]
-    R --> R1[Observe High-Engagement Posts]
-
-    %% Learning Phase
-    X1 --> X2[Learn How People Structure Posts]
-    L1 --> L2[Learn How People Structure Posts]
-    R1 --> R2[Learn How People Structure Posts]
-
-    %% Notes
-    X2 --> X3[Write Notes on Format & Hooks]
-    L2 --> L3[Write Notes on Format & Hooks]
-    R2 --> R3[Write Notes on Format & Hooks]
-
-    %% Merge Learnings
-    X3 --> M[Content Patterns Identified]
-    L3 --> M
-    R3 --> M
-
-    %% Creation Phase
-    M --> N[Create Content]
-
-    N --> O[Post on Platforms]
-
-    O --> P[Measure Engagement & Responses]
-
-    P --> Q[Refine Style & Messaging]
-
-    %% Project Loop
-    Q --> S[Lessons from Doing Projects]
-
-    S --> T[Answer Core Questions]
-    T --> T1[How to do it?]
-    T --> T2[Best things learned?]
-    T --> T3[Core concept?]
-
-    T1 --> U[Convert Lessons into Content]
-    T2 --> U
-    T3 --> U
-
-    U --> N
+    F --> G[[03-Content Creation Loop]]
