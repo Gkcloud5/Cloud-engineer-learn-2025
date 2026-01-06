@@ -43,13 +43,17 @@ Narrate briefly: "Hovering [username]... Card loaded: [followers]. Eligible? Yes
 
 ```
 
-Search
-Click Post
-All filter and select past 24 hour
-Open showing profile and check followers, if count is more then 1000 then please note the name
-Informaion need to note:
-->  Name
--> Job role info
-->  Industry cloud/AI
-->  Short
-Goal is note maximum 5 profile information per keyword.
+1. Search
+2. Click Post
+3. once post shorted then click Date posted and select past 24hour
+4. Open showing profile and check followers, if count is more then 1000 then please note the name
+5. Information need to note:
+	->  Name
+	-> Job title + seniority(if info there)
+	->  Industry cloud/AI
+	->  Company
+	-> Location
+	-> About (Read about section and understand and give 2 line intro about that person)
+6. Goal is note maximum 5 profile information per keyword.
+7. Once you have profile information list then move to this link https://docs.google.com/spreadsheets/d/1ChOy4CUTHGRGgBFGYKq1YVkPbXbrPQY7balAqgSd3Og/edit?gid=1959214629#gid=1959214629, and write the noted profile information there
+	1. Already headings are there as per the notes information 
