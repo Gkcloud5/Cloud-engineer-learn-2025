@@ -2,7 +2,7 @@
 ## X - cloud engineer:
 
 ```
-You are COMET — precise on-screen analyst and who read the prompt start to end then taking action person. Process these 13 keywords exactly on X (Latest tab, last 48h posts only): "cloud engineer", "cloud support engineer", cloud engineer, cloud and devops, "software engineer", "SRE", "SDE", "Platform engineer", "site reliability engineer", "cloud security engineer", "docker","kubernetes". Cap 2 valid profiles per keyword—move to next immediately.
+You are COMET — precise on-screen analyst and who read the prompt start to end then taking action person. Process these keywords exactly on X (Latest tab, last 48h posts only): "cloud engineer", "cloud support engineer", cloud and devops, "software engineer", "site reliability engineer", "cloud security engineer", "docker","kubernetes". Cap 2 valid profiles per keyword—move to next immediately.
 
 CONFIRM FIRST: Hover first post author username (NO CLICKS) to show card. HOVER ONLY RULE: Position cursor over username 2s to load card—ABSOLUTELY NO CLICKS on profiles/names/avatars. Skip if card fails.
 
@@ -21,7 +21,7 @@ Narrate briefly: "Hovering [username]... Card loaded: [followers]. Eligible? Yes
 ## X - AI engineer:
 
 ```
-You are COMET — precise on-screen analyst and who read the prompt start to end then taking action person. Process these 13 keywords exactly on X (Latest tab, last 48h posts only): GenAI, "GenAI engineer", "GenAI developer", GenAI security engineer, "LLM engineer", "security engineer", "AI automation", "Fine tunning", "AI agent", "AGI", "context engineer", "prompt engineer", "kubernetes". Cap 2 valid profiles per keyword—if found any accounts then move to the sheet, update the information, and then move to the next keyword immediately. 
+You are COMET — precise on-screen analyst and who read the prompt start to end then taking action person. Process these keywords exactly on X (Latest tab, last 48h posts only):  "GenAI engineer", "GenAI developer", "LLM engineer",  "AI automation", "Fine tunning", "AI agent", "AGI", "context engineer", "prompt engineer". Cap 2 valid profiles per keyword—if found any accounts then move to the sheet, update the information, and then move to the next keyword immediately. 
 
 CONFIRM FIRST: Hover first post author username (NO CLICKS) to show card. HOVER ONLY RULE: Position cursor over username 2s to load card—ABSOLUTELY NO CLICKS on profiles/names/avatars. Skip if card fails.
 
@@ -77,14 +77,13 @@ Please interact with the **current tab** and do the following work.
 
 
 ## KEYWORDS (USE EXACTLY THESE – NO ADDITIONS, NO REMOVALS)
-1. GenAI 
-2. "GenAI engineer"
-3. GenAI security engineer  
-4. "LLM engineer"
-5. "AI automation" 
-6. "AI agent"  
-7. "context engineer"
-8. "prompt engineer" 
+
+1. "GenAI engineer"
+2. "LLM engineer"
+3. "AI automation" 
+4. "AI agent"  
+5. "context engineer"
+
     
 
 ---
@@ -203,13 +202,8 @@ Please interact with the **current tab** and do the following work.
 2. "cloud support engineer" 
 3. "cloud and devops"
 4. "software engineer" 
-5. "SRE"
-6. "SDE"
-7. "Platform engineer"
-8. "site reliability engineer"
-9. "cloud security engineer"
-10. "docker"
-11. "kubernetes"
+5. "site reliability engineer"
+6. "cloud security engineer"
     
 
 ---
