@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -277,11 +277,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "40f1d2e0765f443e",
+  "active": "5ef59c68217b38cf",
   "lastOpenFiles": [
-    "001-Learn By doing/001-Overview.md",
     "001-Learn By doing/001-Visibility/02-Learning-From-Platforms.md.md",
     "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
+    "001-Learn By doing/001-Overview.md",
     "001-Learn By doing/001-Visibility/01-Visibility & Connection Flowchart.md",
     "001-Learn By doing/001-Visibility/03-Content-Creation-Loop.md.md",
     "001-Learn By doing/002-Prompt/002-Content write.md",
