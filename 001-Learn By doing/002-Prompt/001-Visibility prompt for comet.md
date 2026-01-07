@@ -359,11 +359,12 @@ If **ANY doubt → SKIP immediately**
 
 ## INFORMATION TO EXTRACT (FROM POST ONLY)
 From the **post section / author card**, collect ONLY if visible:
-1. **Name**
-2. **Role / Job Title**
-3. **Company**
-4. **Location** (if shown)
-5. **Industry**
+1. **Date**(today)
+2. **Name**
+3. **Role / Job Title**
+4. **Company**
+5. **Location** (if shown)
+6. **Industry**
     - Choose ONLY if clearly Cloud or AI  
 ---
 
@@ -371,7 +372,7 @@ From the **post section / author card**, collect ONLY if visible:
 
 After collecting up to **2 valid profiles per keyword**:  
 ➡️ Go to:  
-[https://docs.google.com/spreadsheets/d/1ChOy4CUTHGRGgBFGYKq1YVkPbXbrPQY7balAqgSd3Og/edit?gid=897984977#gid=897984977](https://docs.google.com/spreadsheets/d/1ChOy4CUTHGRGgBFGYKq1YVkPbXbrPQY7balAqgSd3Og/edit?gid=897984977#gid=897984977)
+https://docs.google.com/spreadsheets/d/1ChOy4CUTHGRGgBFGYKq1YVkPbXbrPQY7balAqgSd3Og/edit?gid=897984977#gid=897984977
 - Headings are already present 
 - Append new rows only
 - Enter data exactly under matching columns
