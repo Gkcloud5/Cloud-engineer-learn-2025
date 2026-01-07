@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Learn By doing/001-Visibility/03-Content-Creation-Loop.md.md",
+                "file": "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Content-Creation-Loop.md"
+              "title": "001-Visibility prompt for comet"
             }
           },
           {
@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -277,11 +277,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "40f1d2e0765f443e",
+  "active": "5ef59c68217b38cf",
   "lastOpenFiles": [
-    "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
     "001-Learn By doing/001-Visibility/03-Content-Creation-Loop.md.md",
     "001-Learn By doing/001-Visibility/02-Learning-From-Platforms.md.md",
+    "04-Git/02-Learn/Day 2 — Branching.md",
+    "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
     "001-Learn By doing/001-Overview.md",
     "001-Learn By doing/001-Visibility/01-Visibility & Connection Flowchart.md",
     "001-Learn By doing/002-Prompt/002-Content write.md",
@@ -312,7 +313,6 @@
     "04-Git/02-Learn/Day 5 — Pull Requests.md",
     "04-Git/02-Learn/Day 6 — GitFlow and Trunk-Based Development.md",
     "Prompt Example.md",
-    "04-Git/02-Learn/Day 1 — Git Fundamentals.md",
     "04-Git/02-Learn",
     "04-Git/01-Plans",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
