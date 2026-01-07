@@ -374,6 +374,7 @@ After collecting up to **2 valid profiles per keyword**:
 ➡️ Go to:  
 https://docs.google.com/spreadsheets/d/1ChOy4CUTHGRGgBFGYKq1YVkPbXbrPQY7balAqgSd3Og/edit?gid=897984977#gid=897984977
 - Headings are already present 
+- Add today date in Date column
 - Append new rows only
 - Enter data exactly under matching columns
   - if no data match the column leave it empty cell
