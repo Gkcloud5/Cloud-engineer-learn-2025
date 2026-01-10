@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
+                "file": "04-Git/02-Learn/Day 10 — Collaboration Simulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001-Visibility prompt for comet"
+              "title": "Day 10 — Collaboration Simulation"
             }
           },
           {
@@ -279,10 +279,13 @@
   },
   "active": "5ef59c68217b38cf",
   "lastOpenFiles": [
-    "001-Learn By doing/001-Visibility/03-Content-Creation-Loop.md.md",
+    "04-Git/02-Learn/Day 11 — Advanced Git.md",
+    "04-Git/02-Learn/Day 12 — Final DevOps Project Real_World Git Repo.md",
+    "02-Linux/001-Linux.md",
     "001-Learn By doing/001-Visibility/02-Learning-From-Platforms.md.md",
-    "04-Git/02-Learn/Day 2 — Branching.md",
     "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
+    "001-Learn By doing/001-Visibility/03-Content-Creation-Loop.md.md",
+    "04-Git/02-Learn/Day 2 — Branching.md",
     "001-Learn By doing/001-Overview.md",
     "001-Learn By doing/001-Visibility/01-Visibility & Connection Flowchart.md",
     "001-Learn By doing/002-Prompt/002-Content write.md",
@@ -302,9 +305,7 @@
     "Untitled.md",
     "04-Git/GIT cheatsheet.md",
     "04-Git/How recruiter see things in github profile.md",
-    "04-Git/02-Learn/Day 12 — Final DevOps Project Real_World Git Repo.md",
     "Cloud engineer 2025 plan.md",
-    "04-Git/02-Learn/Day 11 — Advanced Git.md",
     "04-Git/02-Learn/Day 10 — Collaboration Simulation.md",
     "04-Git/02-Learn/Day 9 — Git for CIandCD.md",
     "04-Git/02-Learn/Day 8 — Hotfix and Rollback Workflows.md",
@@ -312,7 +313,6 @@
     "04-Git/02-Learn/Day 4 — Remote Repos.md",
     "04-Git/02-Learn/Day 5 — Pull Requests.md",
     "04-Git/02-Learn/Day 6 — GitFlow and Trunk-Based Development.md",
-    "Prompt Example.md",
     "04-Git/02-Learn",
     "04-Git/01-Plans",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
