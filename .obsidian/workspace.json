@@ -103,12 +103,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0001-Resume the learning/Information about learning.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information about learning"
+              "title": "README"
             }
           },
           {
@@ -291,10 +291,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7a357bad5a1eac9",
+  "active": "9c052bd3a32cbdaa",
   "lastOpenFiles": [
-    "04-Git/02-Learn/Day 10 — Collaboration Simulation.md",
+    "Prompt Example.md",
+    "Cloud engineer 2025 plan.md",
     "0001-Resume the learning/Information about learning.md",
+    "04-Git/02-Learn/Day 10 — Collaboration Simulation.md",
     "0001-Resume the learning/01-git",
     "0001-Resume the learning",
     "04-Git/02-Learn/Day 11 — Advanced Git.md",
@@ -323,12 +325,10 @@
     "Untitled.md",
     "04-Git/GIT cheatsheet.md",
     "04-Git/How recruiter see things in github profile.md",
-    "Cloud engineer 2025 plan.md",
     "04-Git/02-Learn/Day 9 — Git for CIandCD.md",
     "04-Git/02-Learn/Day 8 — Hotfix and Rollback Workflows.md",
     "04-Git/02-Learn/Day 7 — Tags, Releases and Versioning.md",
     "04-Git/02-Learn/Day 4 — Remote Repos.md",
-    "04-Git/02-Learn/Day 5 — Pull Requests.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
