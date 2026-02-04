@@ -103,12 +103,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0001-Resume the learning/Information about learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Information about learning"
             }
           },
           {
@@ -293,6 +293,7 @@
   },
   "active": "9c052bd3a32cbdaa",
   "lastOpenFiles": [
+    "README.md",
     "Prompt Example.md",
     "Cloud engineer 2025 plan.md",
     "0001-Resume the learning/Information about learning.md",
@@ -328,7 +329,6 @@
     "04-Git/02-Learn/Day 9 — Git for CIandCD.md",
     "04-Git/02-Learn/Day 8 — Hotfix and Rollback Workflows.md",
     "04-Git/02-Learn/Day 7 — Tags, Releases and Versioning.md",
-    "04-Git/02-Learn/Day 4 — Remote Repos.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
