@@ -1,275 +1,309 @@
-## 🚀 WEEK 1 – FastAPI + Python for AI & DevOps
-
-**Goal: Become capable of building real backend APIs for AI & DevOps use cases**
+# 🚀 WEEK 1 – FastAPI for GenAI + DevOps (Job-Focused Plan)
 
 ---
 
-## 📅 Day 1 – Core FastAPI Fundamentals (Only What Matters)
+## ✅ Day 1 – Core FastAPI Fundamentals (Only What Matters)
 
+### Topics to Learn
 
-### 🎯 Topics to Learn
-
-* FastAPI structure
-* Path operations (GET, POST)
+* What is FastAPI & why it’s used in AI backends
+* API structure (GET, POST)
+* Path & query parameters
 * Request & response models (Pydantic basics)
-* Running server with Uvicorn
-* API docs (Swagger UI)
+* Running app with Uvicorn
 
-### 🛠 What to Practice
+(We skip unnecessary deep Python theory)
+
+### What to Practice
 
 * Create a basic FastAPI app
-* Add 2 endpoints:
+* Add:
 
   * `/`
-  * `/status`
-* Return JSON responses
-* Test using browser + Swagger
+  * `/health`
+  * `/status?name=gokul`
+* Use Pydantic model for POST request
 
-### 🧰 Tools Required
+### What to Build
+
+✅ Basic Health Check API
+
+Example endpoints:
+
+* `/health` → returns status ok
+* `/version` → returns app version
+
+### Tools Required
 
 * Python 3.10+
 * FastAPI
 * Uvicorn
 * VS Code
 
-### ✅ Expected Outcome
+### Expected Outcome
 
-You can:
+You understand:
 
-* Start a FastAPI server
-* Create basic REST APIs
-* Understand request/response flow
-  This is the **core 20%** that powers everything else.
+* How APIs are structured
+* How backend services respond
+* How to run and test APIs (Swagger UI)
+
+This is real backend foundation.
 
 ---
 
-## 📅 Day 2 – Async + Background Tasks + Logging
+## ✅ Day 2 – Async + Environment + Logging (Production Basics)
 
-![Image](https://devopedia.org/images/article/280/2821.1593611212.png)
+### Topics to Learn
 
-![Image](https://media.licdn.com/dms/image/v2/D4D12AQGWtc3j7S82AA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1728674114829?e=2147483647\&t=WP-5JQeuRd34CIId35un-KdP2csUtIaJmCEsVxi4fkc\&v=beta)
-
-![Image](https://mathspp.com/blog/til/042/thumbnail.webp)
-
-![Image](https://images.ctfassets.net/em6l9zw4tzag/4s0fWlp7YWsr4tAP571KPC/265b2967991a65ba8a6448e7f4ecb229/logging-in-python-image11.png?fm=png\&h=707\&q=50\&w=1290)
-
-### 🎯 Topics to Learn
-
-* `async` and `await` (only usage, not theory)
-* FastAPI BackgroundTasks
+* What is async/await (practical understanding only)
+* When to use async in APIs
 * Environment variables (.env)
-* Python logging (structured logs)
+* Python logging basics
+* Why logging matters in DevOps
 
-### 🛠 What to Practice
+### What to Practice
 
 * Convert one endpoint to async
-* Add background task (e.g., write log to file)
-* Load API key from environment variable
-* Add proper logging to every request
+* Create `.env` file and load variables
+* Add structured logging to endpoints
+* Log:
 
-### 🧰 Tools Required
+  * API request
+  * Errors
+  * Execution time
+
+### What to Build
+
+Upgrade Health API:
+
+* Log every request
+* Use environment variable for app name
+* Add `/info` endpoint using env variables
+
+### Tools Required
 
 * python-dotenv
 * logging module
-* FastAPI BackgroundTasks
-
-### ✅ Expected Outcome
-
-You can:
-
-* Write async endpoints
-* Handle background jobs
-* Secure API keys properly
-* Add production-style logging
-  Now your API looks job-ready.
-
----
-
-# 🔥 Day 3 – Build: Health Check API
-
-### 🎯 Topics
-
-* System status reporting
-* JSON response structuring
-* Uptime calculation
-
-### 🛠 What to Practice
-
-* Create `/health` endpoint
-* Return:
-
-  * status
-  * timestamp
-  * uptime
-* Add logging
-
-### 🧱 What to Build
-
-A production-style health check API.
-
-### 🧰 Tools
-
 * FastAPI
-* datetime
-* logging
 
-### ✅ Expected Outcome
+### Expected Outcome
 
-You can build DevOps-style service monitoring endpoints.
-This is used in Kubernetes, Docker, CI/CD.
+You now write:
+
+* Production-style backend code
+* Environment-aware applications
+* Logged and traceable APIs
+
+This is what recruiters expect.
 
 ---
 
-## 📅 Day 4 – Build: CPU Monitoring API
+## ✅ Day 3 – System Monitoring API (DevOps Integration)
 
-![Image](https://cdn.shopify.com/s/files/1/0329/9865/3996/t/5/assets/python_script_to_monitor_cpu_usage_in_linux-oikRMp.True?v=1707774344)
-
-![Image](https://blog.appsignal.com/_next/image?q=90\&url=%2Fimages%2Fblog%2F2024-07%2Fresponse-times-and-throughput.png\&w=3840)
-
-![Image](https://miro.medium.com/1%2Aw7wIj3e6t8ZQ_DGm8tJ4iA.png)
-
-![Image](https://i.sstatic.net/XM2dB.jpg)
-
-### 🎯 Topics
+### Topics to Learn
 
 * psutil basics
-* System metrics collection
-* Clean JSON API structure
+* CPU usage
+* Memory usage
+* Why monitoring matters in cloud systems
 
-### 🛠 What to Practice
+### What to Practice
 
-* Install and use `psutil`
-* Create `/cpu` endpoint
-* Return:
+* Install psutil
+* Create endpoints:
 
-  * CPU %
-  * Memory %
-  * Disk %
+  * `/cpu`
+  * `/memory`
+  * `/metrics`
 
-### 🧱 What to Build
+### What to Build
 
-A lightweight system monitoring API.
+✅ CPU Monitoring API
 
-### 🧰 Tools
+Return:
+
+* CPU %
+* Memory %
+* Timestamp
+
+Bonus:
+
+* Add logging
+* Make endpoint async
+
+### Tools Required
 
 * psutil
 * FastAPI
 * logging
 
-### ✅ Expected Outcome
+### Expected Outcome
 
-You can expose infrastructure metrics via API.
-Very useful for DevOps/backend roles.
+You now understand:
+
+* Backend + System metrics
+* How DevOps tools gather data
+* How monitoring APIs work
+
+You’re thinking like a Cloud Engineer.
 
 ---
 
-## 📅 Day 5 – Build: AI Text Summarizer API
+## ✅ Day 4 – Build AI API (Text Summarizer)
 
-![Image](https://fastapi.tiangolo.com/img/tutorial/body/image01.png)
+### Topics to Learn
 
-![Image](https://us1.discourse-cdn.com/openai1/original/4X/e/0/3/e03947e9f261d26abc1917db950843b812af62e3.png)
-
-![Image](https://opengraph.githubassets.com/1eb418a966b62ed003159d26c4398289e0702ebaccc093ce37274f8288519a87/avatsaev/av-local-llm-api)
-
-![Image](https://blog.greenflux.us/images/posts/local-llms-and-filemaker-pro/image-7.png)
-
-### 🎯 Topics
-
-* POST request handling
-* Calling external API (LLM)
+* Calling external API (OpenAI or local LLM)
 * Handling API keys securely
+* Error handling
+* Response validation
 
-### 🛠 What to Practice
+### What to Practice
 
-* Create `/summarize` POST endpoint
-* Accept JSON input text
-* Call local LLM or OpenAI
-* Return summarized result
+* Create POST `/summarize`
+* Accept input text
+* Return summary
+* Handle:
 
-### 🧱 What to Build
+  * Empty text
+  * API failure
 
-A working AI-powered summarizer backend API.
+### What to Build
 
-### 🧰 Tools
+✅ Simple Text Summarizer API
 
+Structure:
+
+* Input: text
+* Output: summary
+* Logs request + response time
+* API key via environment variable
+
+### Tools Required
+
+* OpenAI API or local LLM
 * FastAPI
-* requests / httpx
-* Local LLM API or OpenAI
-* dotenv
+* python-dotenv
+* logging
 
-### ✅ Expected Outcome
+### Expected Outcome
 
-You now know how to:
+You now:
 
-* Integrate AI into backend APIs
-* Handle external services
-* Build AI microservices
+* Build GenAI backend
+* Secure API keys
+* Integrate AI into production APIs
 
-This is highly job-switch valuable.
+This is job-ready GenAI backend skill.
 
 ---
 
-## 📅 Day 6 – Mini Project: DevOps AI Monitoring Microservice
+## ✅ Day 5 – Mini Production API Project (Combine Everything)
 
-### 🧱 Build This Project
+### Project: AI Monitoring Microservice
 
-Combine everything:
+### Build:
 
-Endpoints:
+Single FastAPI app with:
 
 * `/health`
 * `/cpu`
+* `/memory`
 * `/summarize`
 * Logging enabled
-* Environment variable config
+* Environment-based config
 * Async endpoints
-* Background logging task
 
-### 🎯 What to Focus On
+Add:
 
-* Clean folder structure
 * Error handling
-* Proper logging
-* Clean API documentation
+* Clean folder structure:
 
-### 🧰 Tools
+  ```
+  app/
+    main.py
+    routes/
+    services/
+    utils/
+  ```
+
+### Tools Required
 
 * FastAPI
-* Uvicorn
 * psutil
+* OpenAI/local LLM
 * logging
 * dotenv
-* local LLM / OpenAI
 
-### 📦 Final Output
+### Expected Outcome
 
-A complete backend microservice that:
+You now have:
 
-* Monitors system health
-* Exposes metrics
-* Integrates AI
-* Uses async
-* Uses environment variables
-* Uses logging
+* A real microservice
+* AI + DevOps combined
+* Proper structure
+
+This is resume-worthy.
 
 ---
 
-# 🎯 End of Week Result (Job-Ready Outcome)
+## ✅ Day 6 – Make It Deploy-Ready (Critical for Job Switch)
 
-By the end of 6 days, you can:
+### Topics to Learn
 
-* Build production-style backend APIs
-* Integrate AI models
-* Expose DevOps metrics
-* Use async properly
-* Handle logging and environment configs
-* Build deploy-ready microservices
+* Docker basics
+* Writing Dockerfile
+* Running FastAPI in container
+* Exposing port
+* Why containers matter in cloud
 
-This is the **20% skill set** that gives you 80% readiness for:
+### What to Practice
 
-* Backend Developer roles
-* AI API Engineer roles
-* DevOps Automation roles
-* Platform Engineer roles
+* Write Dockerfile
+* Build image
+* Run container locally
+* Test endpoints
+
+### What to Build
+
+✅ Dockerized AI Monitoring Service
+
+Optional Bonus:
+
+* Push to DockerHub
+* Add README
+
+### Tools Required
+
+* Docker
+* FastAPI project
+* Terminal
+
+### Expected Outcome
+
+You now:
+
+* Understand containerization
+* Can deploy backend
+* Have a cloud-ready project
+
+This is what makes you employable.
+
+---
+
+# 🎯 End of Week Result
+
+After 6 days (2–3 hrs daily), you will:
+
+✅ Build production-style FastAPI services
+✅ Understand async basics
+✅ Use logging properly
+✅ Integrate AI APIs
+✅ Build monitoring endpoints
+✅ Dockerize your application
+
+You officially move from:
+Beginner → Backend + GenAI + DevOps starter level.
 
 
