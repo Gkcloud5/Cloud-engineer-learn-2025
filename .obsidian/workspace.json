@@ -210,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -361,10 +361,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ccc470157ebb7300",
+  "active": "40f1d2e0765f443e",
   "lastOpenFiles": [
-    "001-Learn By doing/003-90days plan/Weekly plan with more topics.md",
     "Week - 1 to Day plan.md",
+    "001-Learn By doing/003-90days plan/Weekly plan with more topics.md",
     "001-Learn By doing/003-90days plan/90 day roadmap to learn genAI and cloud,devops.md",
     "001-Learn By doing/003-90days plan/Weekly study plan to day plan.md",
     "001-Learn By doing/002-Prompt/002-Content write.md",
