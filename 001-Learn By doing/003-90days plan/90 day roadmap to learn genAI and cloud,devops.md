@@ -33,7 +33,7 @@ Goal: You can build and deploy AI APIs.
 
 * FastAPI
 * Uvicorn
-* OpenAI API
+* local LLM API
 * Python logging
 
 By end:
