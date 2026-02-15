@@ -11,4 +11,12 @@ User (browser) → Request → FastAPI → Function runs → Response → User
 
 
 ### About pydantic:
-* Pydantic validate the data automatically
+* Pydantic validate the data automatically.
+
+
+### Final mental map of data process in fastapi world:
+
+```
+User sends request → Uvicorn receives → FastAPI matches route → Pydantic validates → function runs → JSON returned.
+```
+
