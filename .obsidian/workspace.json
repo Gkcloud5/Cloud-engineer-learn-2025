@@ -197,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4540dc4352e7e8d3",
@@ -291,7 +292,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7a357bad5a1eac9",
+  "active": "be90340ceea4e6ae",
   "lastOpenFiles": [
     "001-Learn By doing/Learning and Building/Week-1/01-Plan/Week - 1 to Day plan.md",
     "GenAI and Cloud and devops/01-FastAPI/001- FastAPI basic.md",
