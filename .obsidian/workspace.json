@@ -131,16 +131,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Learn By doing/003-90days plan/Weekly study plan to day plan.md",
+                "file": "001-Learn By doing/Learning and Building/Week-1/01-Plan/Week - 1 to Day plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly study plan to day plan"
+              "title": "Week - 1 to Day plan"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -291,18 +291,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0547b4fc0a390172",
+  "active": "8850b8d0c302ba6d",
   "lastOpenFiles": [
-    "001-Learn By doing/003-90days plan/90 day roadmap to learn genAI and cloud,devops.md",
-    "GenAI and Cloud and devops/01-FastAPI/001- FastAPI basic.md",
-    "Cloud engineer 2025 plan.md",
-    "001-Learn By doing/Learning and Building/Week-1/01-Plan/Week - 1 to Day plan.md",
-    "Learning prompt.md",
-    "GenAI and Cloud and devops/01-FastAPI",
-    "GenAI and Cloud and devops",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day1/Day 1 Hour wise plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day1/Day 1.md",
+    "001-Learn By doing/Learning and Building/Week-1/01-Plan/Week - 1 to Day plan.md",
     "001-Learn By doing/003-90days plan/Weekly study plan to day plan.md",
+    "Learning prompt.md",
+    "GenAI and Cloud and devops/01-FastAPI/001- FastAPI basic.md",
+    "Cloud engineer 2025 plan.md",
+    "001-Learn By doing/003-90days plan/90 day roadmap to learn genAI and cloud,devops.md",
+    "GenAI and Cloud and devops/01-FastAPI",
+    "GenAI and Cloud and devops",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day1",
     "001-Learn By doing/002-Prompt/01- Post creation/001- Created post to X social media post.md",
     "001-Learn By doing/002-Prompt/01- Post creation",
