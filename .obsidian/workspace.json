@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "357c87af778a77fd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt Example.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Prompt Example"
-            }
-          },
-          {
             "id": "5f356adea1c5e98f",
             "type": "leaf",
             "pinned": true,
@@ -140,7 +124,29 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
+      },
+      {
+        "id": "5b176dbf0c7c7099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "357c87af778a77fd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt Example.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Prompt Example"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
