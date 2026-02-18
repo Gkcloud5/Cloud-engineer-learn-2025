@@ -115,12 +115,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Learn By doing/Learning and Building/Week-1/Learn-Day1/Day 1 Hour wise plan.md",
+                "file": "GenAI and Cloud and devops/01-FastAPI/001- FastAPI basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1 Hour wise plan"
+              "title": "001- FastAPI basic"
             }
           },
           {
@@ -293,6 +293,7 @@
   },
   "active": "8850b8d0c302ba6d",
   "lastOpenFiles": [
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day1/Day 1 Hour wise plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day2 plan.md",
     "Learning prompt.md",
     "AI workflow/for separate social media.md",
@@ -303,7 +304,6 @@
     "AI workflow/Content to post workflow.md",
     "001-Learn By doing/Learning and Building/Week-1/01-Plan/Week - 1 to Day plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2",
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day1/Day 1 Hour wise plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day1/Day 1.md",
     "001-Learn By doing/003-90days plan/Weekly study plan to day plan.md",
     "GenAI and Cloud and devops/01-FastAPI",

@@ -9,7 +9,7 @@ User (browser) → Request → FastAPI → Function runs → Response → User
 ### What is Uvicorn:
 * Uvicorn is the server that runs FastAPI and handles incoming HTTP requests
 
-
+G
 ### About pydantic:
 * Pydantic validate the data automatically.
 
