@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -291,16 +291,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8850b8d0c302ba6d",
+  "active": "f5af0b7e9ac5912e",
   "lastOpenFiles": [
+    "Learning prompt.md",
+    "GenAI and Cloud and devops/01-FastAPI/001- FastAPI basic.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day1/Day 1 Hour wise plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day2 plan.md",
-    "Learning prompt.md",
     "AI workflow/for separate social media.md",
     "Prompt Example.md",
     "001-Learn By doing/003-90days plan/90 day roadmap to learn genAI and cloud,devops.md",
     "Cloud engineer 2025 plan.md",
-    "GenAI and Cloud and devops/01-FastAPI/001- FastAPI basic.md",
     "AI workflow/Content to post workflow.md",
     "001-Learn By doing/Learning and Building/Week-1/01-Plan/Week - 1 to Day plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2",
