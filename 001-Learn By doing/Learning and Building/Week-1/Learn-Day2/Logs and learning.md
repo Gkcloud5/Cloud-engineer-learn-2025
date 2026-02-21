@@ -1,7 +1,7 @@
 * When i am learning logs in fastapi, i have created the log file store the requst logs of my http, after 2 days i saw my logs i was socked, wtf, who all are. 
 * some one tried to get my VPS /etc/passwd
   
-  here are the logs:
+Here are the logs:
 
 ```
 2026-02-18 21:13:10,353 | INFO | Log test endpoint triggered
