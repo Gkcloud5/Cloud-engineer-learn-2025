@@ -113,3 +113,7 @@ to:
 Internet → Nginx → FastAPI → Logs → Fail2Ban
 ```
 
+
+## Using ngnix reverse proxy:
+### why?
+* without reverse request will direct 
