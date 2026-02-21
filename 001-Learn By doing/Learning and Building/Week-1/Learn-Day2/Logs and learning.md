@@ -102,4 +102,14 @@ So i just stopped the fastapi learning and planning to secure the server first. 
 * `## 2️⃣ Secret File Scanning`
 * IP checking/Proxy scans
 * API and directory guessing
-  
+
+## Production setup: 
+-> Production grade
+```
+Internet → FastAPI (uvicorn)
+```
+to:
+```
+Internet → Nginx → FastAPI → Logs → Fail2Ban
+```
+
