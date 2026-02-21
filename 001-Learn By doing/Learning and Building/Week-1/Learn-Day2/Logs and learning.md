@@ -98,4 +98,6 @@
 ```
 
 So i just stopped the fastapi learning and planning to secure the server first. i checked and find some things regarding it
+* first important attact: `GET /../../../../../../etc/passwd
+* `## 2️⃣ Secret File Scanning`
 * 
