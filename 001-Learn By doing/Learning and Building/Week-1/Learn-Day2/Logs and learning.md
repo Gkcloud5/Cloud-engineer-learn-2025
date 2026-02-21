@@ -116,4 +116,6 @@ Internet → Nginx → FastAPI → Logs → Fail2Ban
 
 ## Using ngnix reverse proxy:
 ### why?
-* without reverse request will direct 
+* without reverse request will direct python script
+* there is no network to filter bad traffic
+* 
