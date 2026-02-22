@@ -1,5 +1,5 @@
-* When i am learning logs in fastapi, i have created the log file store the requst logs of my http, after 2 days i saw my logs i was socked, wtf, who all are. 
-* some one tried to get my VPS /etc/passwd
+* When i am learning logs in fastapi, i have created the log file store the request logs of my http, after 2 days i saw my logs i was socked, wtf, who all are. 
+* i got more surpirsed when some one tried to get my VPS /etc/passwd
   
 Here are the logs:
 
