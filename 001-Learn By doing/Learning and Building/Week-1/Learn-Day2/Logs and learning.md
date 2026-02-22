@@ -118,4 +118,12 @@ Internet → Nginx → FastAPI → Logs → Fail2Ban
 ### why?
 * without reverse request will direct python script
 * there is no network to filter bad traffic
-* 
+
+### Installation steps:
+
+```
+Internet → Nginx (80/443)
+              ↓
+        127.0.0.1:8000 (FastAPI)
+```
+
