@@ -128,3 +128,65 @@ Internet → Nginx (80/443)
 ```
 
 ### Installed fail2ban
+
+
+After the security result:
+
+```
+2026-02-22 12:12:20,769 | ERROR | POST | / | 0.76ms
+2026-02-22 12:13:58,455 | ERROR | GET | /favicon.ico | 0.68ms
+2026-02-22 12:20:04,293 | ERROR | GET | /wiki | 0.4ms
+2026-02-22 12:20:27,629 | ERROR | POST | / | 0.36ms
+2026-02-22 12:27:19,792 | ERROR | POST | / | 0.36ms
+2026-02-22 12:44:19,712 | ERROR | GET | /agc/timeclock.php | 0.82ms
+2026-02-22 12:44:20,114 | ERROR | GET | /agent/timeclock.php | 0.33ms
+2026-02-22 13:06:57,267 | ERROR | GET | /portal/redlion | 0.34ms
+2026-02-22 13:48:18,350 | ERROR | POST | / | 0.36ms
+2026-02-22 13:55:52,298 | ERROR | GET | /global-protect/login.esp | 0.36ms
+2026-02-22 13:58:54,000 | ERROR | GET | /favicon.ico | 0.36ms
+2026-02-22 15:22:00,262 | ERROR | POST | /hello.world | 0.34ms
+2026-02-22 15:22:00,694 | ERROR | POST | / | 0.48ms
+2026-02-22 15:22:01,235 | ERROR | GET | /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.53ms
+2026-02-22 15:22:01,695 | ERROR | GET | /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php | 0.36ms
+2026-02-22 15:22:02,172 | ERROR | GET | /vendor/phpunit/src/Util/PHP/eval-stdin.php | 0.39ms
+2026-02-22 15:22:02,679 | ERROR | GET | /vendor/phpunit/Util/PHP/eval-stdin.php | 0.37ms
+2026-02-22 15:22:03,171 | ERROR | GET | /vendor/phpunit/phpunit/LICENSE/eval-stdin.php | 0.37ms
+2026-02-22 15:22:03,599 | ERROR | GET | /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.37ms
+2026-02-22 15:22:04,092 | ERROR | GET | /phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.39ms
+2026-02-22 15:22:04,491 | ERROR | GET | /phpunit/phpunit/Util/PHP/eval-stdin.php | 0.38ms
+2026-02-22 15:22:04,820 | ERROR | GET | /phpunit/src/Util/PHP/eval-stdin.php | 0.39ms
+2026-02-22 15:22:05,207 | ERROR | GET | /phpunit/Util/PHP/eval-stdin.php | 0.37ms
+2026-02-22 15:22:05,675 | ERROR | GET | /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.34ms
+2026-02-22 15:22:06,094 | ERROR | GET | /lib/phpunit/phpunit/Util/PHP/eval-stdin.php | 0.36ms
+2026-02-22 15:22:06,596 | ERROR | GET | /lib/phpunit/src/Util/PHP/eval-stdin.php | 0.6ms
+2026-02-22 15:22:07,275 | ERROR | GET | /lib/phpunit/Util/PHP/eval-stdin.php | 0.38ms
+2026-02-22 15:22:07,898 | ERROR | GET | /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.5ms
+2026-02-22 15:22:08,497 | ERROR | GET | /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.41ms
+2026-02-22 15:22:09,086 | ERROR | GET | /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.37ms
+2026-02-22 15:22:09,651 | ERROR | GET | /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.38ms
+2026-02-22 15:22:10,158 | ERROR | GET | /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.38ms
+2026-02-22 15:22:10,609 | ERROR | GET | /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.36ms
+2026-02-22 15:22:11,161 | ERROR | GET | /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.46ms
+2026-02-22 15:22:11,677 | ERROR | GET | /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.28ms
+2026-02-22 15:22:12,217 | ERROR | GET | /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.36ms
+2026-02-22 15:22:12,746 | ERROR | GET | /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.37ms
+2026-02-22 15:22:13,294 | ERROR | GET | /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.35ms
+2026-02-22 15:22:13,891 | ERROR | GET | /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.48ms
+2026-02-22 15:22:14,479 | ERROR | GET | /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.36ms
+2026-02-22 15:22:15,082 | ERROR | GET | /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.37ms
+2026-02-22 15:22:15,509 | ERROR | GET | /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.4ms
+2026-02-22 15:22:15,941 | ERROR | GET | /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.35ms
+2026-02-22 15:22:16,369 | ERROR | GET | /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.42ms
+2026-02-22 15:22:16,888 | ERROR | GET | /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.38ms
+2026-02-22 15:22:17,217 | ERROR | GET | /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.47ms
+2026-02-22 15:22:17,626 | ERROR | GET | /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.36ms
+2026-02-22 15:22:18,029 | ERROR | GET | /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.36ms
+2026-02-22 15:22:18,361 | ERROR | GET | /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.38ms
+2026-02-22 15:22:18,806 | ERROR | GET | /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php | 0.36ms
+2026-02-22 15:22:19,328 | ERROR | GET | /index.php | 0.37ms
+2026-02-22 15:22:19,680 | ERROR | GET | /public/index.php | 0.62ms
+2026-02-22 15:22:20,095 | ERROR | GET | /index.php | 0.51ms
+2026-02-22 15:22:20,580 | ERROR | GET | /index.php | 0.41ms
+2026-02-22 15:22:20,882 | ERROR | GET | /containers/json | 0.37ms
+root@root:~/fastapi# 
+```
