@@ -127,3 +127,4 @@ Internet → Nginx (80/443)
         127.0.0.1:8000 (FastAPI)
 ```
 
+### Installed fail2ban
