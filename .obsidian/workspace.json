@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Logs and learning.md",
+                "file": "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day-2 - Production Health API v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logs and learning"
+              "title": "Day-2 - Production Health API v2"
             }
           },
           {
@@ -308,8 +308,9 @@
   },
   "active": "4124d057f5216596",
   "lastOpenFiles": [
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day2 plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Logs and learning.md",
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day-2 - Production Health API v2.md",
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day2 plan.md",
     "Learning prompt.md",
     "GenAI and Cloud and devops/01-FastAPI/001- FastAPI basic.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day1/Day 1 Hour wise plan.md",
@@ -343,7 +344,6 @@
     "AI workflow",
     "README.md",
     "04-Git/02-Learn/Day 10 — Collaboration Simulation.md",
-    "04-Git/02-Learn/Day 11 — Advanced Git.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
