@@ -68,76 +68,6 @@
             }
           },
           {
-            "id": "0547b4fc0a390172",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learning prompt"
-            }
-          },
-          {
-            "id": "21e2e988d6ce4028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud engineer 2025 plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cloud engineer 2025 plan"
-            }
-          },
-          {
-            "id": "be90340ceea4e6ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GenAI and Cloud and devops/01-FastAPI/001- FastAPI basic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001- FastAPI basic"
-            }
-          },
-          {
-            "id": "3380ed596a3881cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learning prompt"
-            }
-          },
-          {
-            "id": "8850b8d0c302ba6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GenAI and Cloud and devops/01-FastAPI/001- FastAPI basic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001- FastAPI basic"
-            }
-          },
-          {
             "id": "357c87af778a77fd",
             "type": "leaf",
             "pinned": true,
@@ -308,16 +238,16 @@
   },
   "active": "4124d057f5216596",
   "lastOpenFiles": [
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Logs and learning.md",
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day-2 - Production Health API v2.md",
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day2 plan.md",
-    "Learning prompt.md",
+    "Prompt Example.md",
     "GenAI and Cloud and devops/01-FastAPI/001- FastAPI basic.md",
+    "Learning prompt.md",
+    "Cloud engineer 2025 plan.md",
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day-2 - Production Health API v2.md",
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Logs and learning.md",
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day2 plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day1/Day 1 Hour wise plan.md",
     "AI workflow/for separate social media.md",
-    "Prompt Example.md",
     "001-Learn By doing/003-90days plan/90 day roadmap to learn genAI and cloud,devops.md",
-    "Cloud engineer 2025 plan.md",
     "AI workflow/Content to post workflow.md",
     "001-Learn By doing/Learning and Building/Week-1/01-Plan/Week - 1 to Day plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2",
