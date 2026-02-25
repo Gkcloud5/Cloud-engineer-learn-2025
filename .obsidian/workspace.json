@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,13 +236,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4124d057f5216596",
+  "active": "f5af0b7e9ac5912e",
   "lastOpenFiles": [
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day-2 - Production Health API v2.md",
     "Prompt Example.md",
     "GenAI and Cloud and devops/01-FastAPI/001- FastAPI basic.md",
     "Learning prompt.md",
     "Cloud engineer 2025 plan.md",
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day-2 - Production Health API v2.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Logs and learning.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day2 plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day1/Day 1 Hour wise plan.md",
