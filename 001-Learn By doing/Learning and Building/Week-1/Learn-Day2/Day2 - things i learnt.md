@@ -16,4 +16,11 @@ An **async function** in Python does not run code in true parallel like multiple
 ```
 
 ## Exception handler:
+* If client sends request then endpoint will run, if error occurs then exception will be raised and exception will hanlde it and customer response will be returned
+* Catches exception and sends clean and structured reponse to the client
 
+```
+An **exception handler** works when a client sends a request and the endpoint starts running. If an error happens during execution, Python raises an exception. The exception handler catches that error and prevents the app from crashing. Instead of showing a raw error, it returns a clean and structured response to the client. This helps send proper status codes and clear error messages. It improves API reliability and user experience. Without it, users may see confusing or unsafe error details. Exception handling makes the system stable and professional.
+```
+
+## load dotenv:
