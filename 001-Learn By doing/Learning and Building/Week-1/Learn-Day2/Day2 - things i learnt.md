@@ -24,3 +24,11 @@ An **exception handler** works when a client sends a request and the endpoint st
 ```
 
 ## load dotenv:
+1. generally code or project will be different environment like test, dev and production
+2. some key values and important values will be change environement to environment, chanign values manaully for each environment is hard, rigjt?to resolve the issue, we are using env things in project.
+3. so inorder to call the environment value in python script we are using dotenv function and using env values inside program
+4. configuration will be change each environment so by using this we can be better in each project environment
+
+```
+In real projects, we have different environments like dev, test, and production. Some values like database URL, API keys, and secrets change in each environment. Changing them manually in code is risky and hard to manage. To solve this, we use environment variables. In Python, we use `python-dotenv` to load values from a `.env` file into the program. This keeps secrets outside the code and makes config clean. Each environment can have its own `.env` file with different values. This makes the project secure, flexible, and easy to manage.
+```
