@@ -8,4 +8,10 @@
 	* Disk IO
 	* network
 	* Running processes
-* 
+
+### Swap:
+* When memory hits 98% then
+	* OS starts using swap
+	* Disk IO increases
+	* System becomes slow
+* Memory pressure causing disk thrashing.
