@@ -32,3 +32,9 @@ An **exception handler** works when a client sends a request and the endpoint st
 ```
 In real projects, we have different environments like dev, test, and production. Some values like database URL, API keys, and secrets change in each environment. Changing them manually in code is risky and hard to manage. To solve this, we use environment variables. In Python, we use `python-dotenv` to load values from a `.env` file into the program. This keeps secrets outside the code and makes config clean. Each environment can have its own `.env` file with different values. This makes the project secure, flexible, and easy to manage.
 ```
+
+
+## Middleware:
+1. It's a middleware of webserver and the main application logic
+2. It intercepts and processes every incoming http request and outgoing response.
+3. 
