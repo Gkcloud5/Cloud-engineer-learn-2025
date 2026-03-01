@@ -15,3 +15,11 @@
 	* Disk IO increases
 	* System becomes slow
 * Memory pressure causing disk thrashing.
+
+
+## psutils:
+* in python we can't get the metrices from OS, OS have system calls to tell the things going on OS like memory, CPU metrics.
+* By using psutil, it act as bridge that wraps those system calls in python friendly functions
+* Flow is
+	* Psutil --> OS kernel --> Hardware counters
+* 
