@@ -36,4 +36,9 @@ psutil.cpu_percent()
 Python → C extension → system call → kernel → CPU stats → back to Python.
 ```
 
+```
+import psutil
+cpu = psutil.cpu_percent(interval=1)
+print(cpu)
+```
 
