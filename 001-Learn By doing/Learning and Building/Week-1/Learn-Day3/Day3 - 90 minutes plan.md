@@ -1,22 +1,3 @@
-
-This is a VERY powerful Day 3 plan 🔥  
-Now we turn it into a structured **90-minute deep-learning session** made exactly for you.
-
-You said:
-
-- You know a little
-    
-- Your goal is building projects
-    
-- Topic: Python + FastAPI + DevOps
-    
-- Focus: Monitoring API
-    
-
-Perfect. We will make this practical and builder-focused 💪
-
----
-
 # 🚀 90-Minute Learning Plan
 
 ## Day 3 – System Monitoring API (DevOps Integration)
@@ -31,30 +12,21 @@ Imagine you run a cloud server.
 
 You must know:
 
-- Is CPU overloaded?
-    
-- Is memory full?
-    
-- Is system slow?
-    
+* Is CPU overloaded?
+* Is memory full?
+* Is system slow?
 
 If you don’t monitor:
 
-- App crashes
-    
-- Server becomes slow
-    
-- Users complain
-    
+* App crashes
+* Server becomes slow
+* Users complain
 
 This is why tools like:
 
-- Prometheus
-    
-- Grafana
-    
-- CloudWatch
-    
+* Prometheus
+* Grafana
+* CloudWatch
 
 exist.
 
@@ -64,30 +36,19 @@ Today → YOU build a mini monitoring system.
 
 ## 2️⃣ What is psutil? (10 mins)
 
-![Image](https://bigl.es/content/images/2019/07/Screenshot-from-2019-07-07-21-39-25.png)
-
-![Image](https://i.sstatic.net/ulISM.png)
-
-![Image](https://www.linuxfoundation.org/hs-fs/hubfs/Imported_Blog_Media/memory_2-1.jpeg?height=606&name=memory_2-1.jpeg&width=795)
-
-![Image](https://www.linuxfoundation.org/hs-fs/hubfs/Imported_Blog_Media/memory_5-1.jpeg?height=610&name=memory_5-1.jpeg&width=792)
 
 `psutil` = Python system utility library.
 
 It allows Python to:
 
-- Read CPU usage
-    
-- Read memory usage
-    
-- Read disk usage
-    
-- Read process info
-    
+* Read CPU usage
+* Read memory usage
+* Read disk usage
+* Read process info
 
 It talks to the OS.
 
-Think of it like:  
+Think of it like:
 Python → psutil → Operating System → Hardware
 
 Install:
@@ -109,10 +70,8 @@ print(cpu)
 
 What happens?
 
-- It checks CPU usage for 1 second
-    
-- Returns percentage
-    
+* It checks CPU usage for 1 second
+* Returns percentage
 
 Example output:
 
@@ -133,14 +92,10 @@ print(memory.percent)
 
 This returns:
 
-- Total memory
-    
-- Used memory
-    
-- Free memory
-    
-- Percent used
-    
+* Total memory
+* Used memory
+* Free memory
+* Percent used
 
 We only need `.percent`
 
@@ -150,12 +105,9 @@ We only need `.percent`
 
 In real cloud systems:
 
-- Kubernetes checks CPU
-    
-- Auto-scaling uses CPU %
-    
-- Alerts trigger when memory > 80%
-    
+* Kubernetes checks CPU
+* Auto-scaling uses CPU %
+* Alerts trigger when memory > 80%
 
 You are building the base of that system.
 
@@ -256,11 +208,8 @@ Now we upgrade this into a proper mini project.
 We improve 3 things:
 
 1. Add logging
-    
 2. Make endpoint async
-    
 3. Clean response structure
-    
 
 ---
 
@@ -309,20 +258,17 @@ async def get_metrics():
 
 You now understand:
 
-✔ How backend reads system data  
-✔ How DevOps tools gather metrics  
-✔ How monitoring APIs work  
-✔ How logging works  
+✔ How backend reads system data
+✔ How DevOps tools gather metrics
+✔ How monitoring APIs work
+✔ How logging works
 ✔ How to expose metrics over HTTP
 
 This is the foundation of:
 
-- Prometheus exporters
-    
-- Cloud monitoring systems
-    
-- Production observability
-    
+* Prometheus exporters
+* Cloud monitoring systems
+* Production observability
 
 ---
 
@@ -330,14 +276,10 @@ This is the foundation of:
 
 Add:
 
-- Response model using Pydantic
-    
-- Dockerize it
-    
-- Add `/health` endpoint
-    
-- Return hostname
-    
+* Response model using Pydantic
+* Dockerize it
+* Add `/health` endpoint
+* Return hostname
 
 ---
 
@@ -345,30 +287,10 @@ Add:
 
 If CPU becomes 95% for 5 minutes:
 
-- What should system do?
-    
-- Send alert?
-    
-- Restart service?
-    
-- Scale server?
-    
+* What should system do?
+* Send alert?
+* Restart service?
+* Scale server?
 
 Think about it.
 
----
-
-If you want, tomorrow we can:
-
-- Dockerize this API
-    
-- Push to cloud
-    
-- Add Prometheus integration
-    
-- Deploy using CI/CD
-    
-
-You’re not just learning syntax.
-
-You are building cloud thinking 🔥
