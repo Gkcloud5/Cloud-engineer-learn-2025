@@ -46,3 +46,4 @@ print(cpu)
 memory = psutil.virtual_memory()
 print(memory.percent)
 ```
+
