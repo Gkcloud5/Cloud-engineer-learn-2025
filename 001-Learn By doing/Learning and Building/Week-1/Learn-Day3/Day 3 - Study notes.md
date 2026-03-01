@@ -22,4 +22,16 @@
 * By using psutil, it act as bridge that wraps those system calls in python friendly functions
 * Flow is
 	* Psutil --> OS kernel --> Hardware counters
-* 
+* Psutil needs to
+	* Talks to OS kernel
+	* Use system calls
+	* Access low level process and hardware information
+* It's `C underneath + python wrapper on top`
+```
+psutil.cpu_percent()
+```
+
+
+```
+Python → C extension → system call → kernel → CPU stats → back to Python.
+```
