@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Learn By doing/Learning and Building/Week-1/Learn-Day3/Day 3 - Study notes.md",
+                "file": "001-Learn By doing/Learning and Building/Week-1/Learn-Day3/Day3 - code learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 3 - Study notes"
+              "title": "Day3 - code learning"
             }
           },
           {
@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,9 +236,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b0ec74452b30631",
+  "active": "f5af0b7e9ac5912e",
   "lastOpenFiles": [
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day3/Day 3 - Study notes.md",
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day3/Day3 - code learning.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day3/Day3 - 90 minutes plan.md",
     "001-Learn By doing/003-90days plan/90 day roadmap to learn genAI and cloud,devops.md",
     "Prompt Example.md",
@@ -273,7 +274,6 @@
     "001-Learn By doing/002-Prompt/002-Content write.md",
     "001-Learn By doing/002-Prompt/003- image creation for plan.md",
     "001-Learn By doing/003-90days plan",
-    "001-Learn By doing/001-Visibility/03-Content-Creation-Loop.md.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
