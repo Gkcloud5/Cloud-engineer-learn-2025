@@ -31,7 +31,9 @@
 psutil.cpu_percent()
 ```
 
-
+* Flow
 ```
 Python → C extension → system call → kernel → CPU stats → back to Python.
 ```
+
+
