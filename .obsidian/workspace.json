@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,10 +236,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5af0b7e9ac5912e",
+  "active": "5b0ec74452b30631",
   "lastOpenFiles": [
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day3/Day3 - 90 minutes plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day3/Day 3 - Study notes.md",
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day3/Day3 - 90 minutes plan.md",
     "001-Learn By doing/003-90days plan/90 day roadmap to learn genAI and cloud,devops.md",
     "Prompt Example.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day-2 - Production Health API v2.md",
