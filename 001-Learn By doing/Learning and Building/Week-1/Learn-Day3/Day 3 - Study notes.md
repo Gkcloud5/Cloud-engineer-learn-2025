@@ -47,3 +47,5 @@ memory = psutil.virtual_memory()
 print(memory.percent)
 ```
 
+### Thrashing:
+* Where system spends more time swapping than doing useful work
