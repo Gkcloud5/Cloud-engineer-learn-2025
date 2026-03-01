@@ -37,4 +37,13 @@ In real projects, we have different environments like dev, test, and production.
 ## Middleware:
 1. It's a middleware of webserver and the main application logic
 2. It intercepts and processes every incoming http request and outgoing response.
-3. 
+3. Happens:
+	1. FastAPI wraps it into Request
+	2. It builds middleware chain
+	3. It calls first middleware
+	4. Middleware decides
+		1. call next?
+		2. Modify request?
+		3. Stop request?
+		4. Replace response?
+4. Middleware is just a chain of function wrappers.
