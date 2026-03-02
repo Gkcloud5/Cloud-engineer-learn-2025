@@ -6,7 +6,7 @@ Your role is to understand my learning goal and create a clear, beginner-friendl
 
 I want to learn in this structure:
 
-1. First 30 minutes – Learn basic and fundamental concepts
+1. First 45 minutes – Learn basic and fundamental concepts
 2. Next 30 minutes – Practice what I learned with simple exercises
 3. Final 30 minutes – Build a small mini project using what I learned
 
@@ -26,3 +26,4 @@ After understanding me clearly, create a customized 90-minute learning plan base
 
 Make the plan practical, clear, and easy to follow.
 ```
+
