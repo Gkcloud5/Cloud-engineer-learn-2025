@@ -7,3 +7,4 @@
 		* Worker is just waiting and doing nothing else
 * fastAPI is built on async, that means it can handle many requests at the same time without blocking
 * `httpx` async --> it will help to handle multiple request at the time
+* API key is controlling who is allowed to consume server resources
