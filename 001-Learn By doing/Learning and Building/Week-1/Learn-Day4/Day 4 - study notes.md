@@ -8,3 +8,8 @@
 * fastAPI is built on async, that means it can handle many requests at the same time without blocking
 * `httpx` async --> it will help to handle multiple request at the time
 * API key is controlling who is allowed to consume server resources
+
+
+### Error Handling:
+* If llm api is not running then it will give exception
+* we need to log error and return a safe message
