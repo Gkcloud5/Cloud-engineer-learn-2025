@@ -13,3 +13,8 @@
 ### Error Handling:
 * If llm api is not running then it will give exception
 * we need to log error and return a safe message
+* types of error
+	* 500 --> Infrastructure errors
+	* 401/403 --> Authentication errors
+	* 400 --> Client mistakes
+	* Validation/Business logic issues --> Controlled response
