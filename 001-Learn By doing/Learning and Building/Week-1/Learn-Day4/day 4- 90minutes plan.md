@@ -196,7 +196,7 @@ Return:
 
 ---
 
-## Step 6 – Call OpenAI API
+## Step 6 – Call localLLM model or API
 
 Send text.
 Receive summary.
