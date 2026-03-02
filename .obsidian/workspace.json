@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/Day 3 - plan.md",
+                "file": "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/Day 4 - plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 3 - plan"
+              "title": "Day 4 - plan"
             }
           },
           {
@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/Day 3 - plan.md",
+                "file": "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/Day 4 - study notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 3 - plan"
+              "title": "Day 4 - study notes"
             }
           }
         ],
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4540dc4352e7e8d3",
@@ -237,9 +238,11 @@
   },
   "active": "69650059ed3cabc9",
   "lastOpenFiles": [
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/day 4- 90minutes plan.md",
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/Day 4 - study notes.md",
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/Day 4 - plan.md",
     "001-Learn By doing/Learning and Building/Week-1/01-Plan/Week - 1 to Day plan.md",
     "001-Learn By doing/002-Prompt/004 - Prompt for hour study to 2 hour plan.md",
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/Day 3 - plan.md",
     "Prompt Example.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day4",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day3/Day3 - code learning.md",
@@ -271,8 +274,6 @@
     "001-Learn By doing/Learning and Building/Week-1/01-Plan",
     "001-Learn By doing/Learning and Building/Week-1",
     "001-Learn By doing/Learning and Building",
-    "04-Git/01-Plans/Git.md",
-    "04-Git/02-Learn/Day 2 — Branching.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
