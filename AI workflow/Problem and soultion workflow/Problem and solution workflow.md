@@ -17,4 +17,13 @@
 	3. Why it mattered
 4. Technical Context builder
 	1. Add missing context
+	2. Environment
+5. Story Hook Generator
+	1. Zeigarnik effect
+	2. Narrative transportation
+6. Debugging journey builder
+	1. Pratfall effect
+7. Root cause and insight generator
+	1. Cognitive Ease
+		1. Explain real cause using technical mental models
 	2. 
