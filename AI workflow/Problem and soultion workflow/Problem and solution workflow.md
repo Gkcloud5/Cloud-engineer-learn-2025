@@ -30,3 +30,33 @@
 	1. Self efficacy
 	2. Heuristic
 9. Final Narrative composer
+
+### Example:
+
+``` text
+Hook
+Problem
+Environment
+Debugging Attempts
+Mistake
+Insight
+Solution
+```
+
+```
+Title: Fixing a Proxmox VM Locked by a Phantom Snapshot
+
+Hook
+I was about to restart a customer's VPS when Proxmox refused to start the VM.
+
+Debugging
+I tried restarting the daemon services...
+
+Insight
+The lock entry remained in the VM configuration.
+
+Solution
+Run:
+
+qm unlock <vmid>
+```
