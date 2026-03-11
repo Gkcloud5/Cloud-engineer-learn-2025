@@ -26,4 +26,7 @@
 7. Root cause and insight generator
 	1. Cognitive Ease
 		1. Explain real cause using technical mental models
-	2. 
+8. Actionable solution builder
+	1. Self efficacy
+	2. Heuristic
+9. Final Narrative composer
