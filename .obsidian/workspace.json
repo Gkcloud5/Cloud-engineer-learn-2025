@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI workflow/Problem and soultion workflow/Problem and solution workflow.md",
+                "file": "AI workflow/Problem and soultion workflow/Prb and sol works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problem and solution workflow"
+              "title": "Prb and sol works"
             }
           },
           {
@@ -266,8 +266,9 @@
   },
   "active": "51adf8596d962260",
   "lastOpenFiles": [
-    "2026-03-09.md",
     "AI workflow/Problem and soultion workflow/Problem and solution workflow.md",
+    "AI workflow/Problem and soultion workflow/Prb and sol works.md",
+    "2026-03-09.md",
     "AI workflow/Problem and soultion workflow",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/day 4- 90minutes plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/Day 4 - study notes.md",
@@ -295,7 +296,6 @@
     "AI workflow/for separate social media.md",
     "AI workflow/Content to post workflow.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2",
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day1/Day 1.md",
     "GenAI and Cloud and devops/01-FastAPI",
     "GenAI and Cloud and devops",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day1",
