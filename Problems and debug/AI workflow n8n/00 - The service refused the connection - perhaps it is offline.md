@@ -23,3 +23,9 @@ wget: can't connect to remote host (172.17.0.1): Connection refused
 
 So the problem is **not Docker** and **not n8n** — it is the **tunnel or AI service binding**.
 
+## Root cause:
+1. My AImodel VPS is rebooted so tunneling service is not running.
+2. Also i found the ssh key is changed so i have removed and readded
+
+### To make more reliable connection:
+1. 
