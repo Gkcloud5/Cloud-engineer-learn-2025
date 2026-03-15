@@ -28,4 +28,30 @@ So the problem is **not Docker** and **not n8n** — it is the **tunnel or AI se
 2. Also i found the ssh key is changed so i have removed and readded
 
 ### To make more reliable connection:
-1. 
+1. recreated the tunnel file
+```
+[Unit]
+Description=Persistent SSH Tunnel to AI Ollama Server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=n8n
+Environment="AUTOSSH_GATETIME=0"
+
+ExecStart=/usr/bin/autossh -M 0 -N \
+-L 0.0.0.0:11500:127.0.0.1:11434 \
+-o ExitOnForwardFailure=yes \
+-o ServerAliveInterval=30 \
+-o ServerAliveCountMax=3 \
+-o StrictHostKeyChecking=accept-new \
+-i /home/n8n/.ssh/ollama_ai2_key \
+root@38.49.208.147
+
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
+
+```
