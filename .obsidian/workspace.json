@@ -103,12 +103,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day2 - things i learnt.md",
+                "file": "001-Learn By doing/Learning and Building/Week-2 Docker and VPS deployement/02-Week 2 plan/Docker and VPS deployment plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day2 - things i learnt"
+              "title": "Docker and VPS deployment plan"
             }
           },
           {
@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 408.5
   },
   "right": {
     "id": "4540dc4352e7e8d3",
@@ -277,26 +277,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7338125bdc3adfc3",
+  "active": "69650059ed3cabc9",
   "lastOpenFiles": [
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/day 4- 90minutes plan.md",
+    "001-Learn By doing/Learning and Building/Week-2 Docker and VPS deployement/02-Week 2 plan/Docker and VPS deployment plan.md",
+    "001-Learn By doing/Learning and Building/Week-2 Docker and VPS deployement/02-Week 2 plan",
+    "001-Learn By doing/Learning and Building/Week-2 Docker and VPS deployement",
+    "GenAI and Cloud and devops/01-FastAPI/001- FastAPI basic.md",
+    "001-Learn By doing/003-90days plan/90 day roadmap to learn genAI and cloud,devops.md",
+    "001-Learn By doing/003-90days plan/Weekly plan with more topics.md",
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day2 - things i learnt.md",
+    "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/Day 4 - study notes.md",
+    "2026-03-09.md",
+    "02-Linux/001-Linux.md",
+    "001-Learn By doing/002-Prompt/002-Content write.md",
     "001-Learn By doing/002-Prompt/003- image creation for plan.md",
     "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
     "001-Learn By doing/002-Prompt/004 - Prompt for hour study to 2 hour plan.md",
-    "001-Learn By doing/003-90days plan/90 day roadmap to learn genAI and cloud,devops.md",
     "01-OS/000-Plan and action/01 - OS.md",
     "Prompt Example.md",
     "04-Git/01-Plans/Git.md",
-    "02-Linux/001-Linux.md",
     "Problems and debug/AI workflow n8n/00 - The service refused the connection - perhaps it is offline.md",
     "AI workflow/Problem and soultion workflow/Prb and sol works.md",
     "Problems and debug/AI workflow n8n",
     "Problems and debug",
     "AI workflow/Problem and soultion workflow/Problem and solution workflow.md",
-    "2026-03-09.md",
     "AI workflow/Problem and soultion workflow",
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/day 4- 90minutes plan.md",
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/Day 4 - study notes.md",
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day2 - things i learnt.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day3/Day3 - 90 minutes plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day3/Day3- Plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day3/Day3 - code learning.md",
@@ -306,15 +312,9 @@
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day4",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day-2 - Production Health API v2.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day3",
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Logs and learning.md",
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day2 plan.md",
-    "001-Learn By doing/003-90days plan/Weekly plan with more topics.md",
-    "001-Learn By doing/003-90days plan/Weekly study plan to day plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2",
     "GenAI and Cloud and devops/01-FastAPI",
     "GenAI and Cloud and devops",
-    "001-Learn By doing/Learning and Building/Week-1/Learn-Day1",
-    "001-Learn By doing/002-Prompt/01- Post creation",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
