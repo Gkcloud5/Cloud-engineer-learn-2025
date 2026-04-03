@@ -112,6 +112,18 @@
             }
           },
           {
+            "id": "d64341c3e7fa2f68",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "7338125bdc3adfc3",
             "type": "leaf",
             "state": {
@@ -126,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -277,7 +289,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69650059ed3cabc9",
+  "active": "d64341c3e7fa2f68",
   "lastOpenFiles": [
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/day 4- 90minutes plan.md",
     "001-Learn By doing/Learning and Building/Week-2 Docker and VPS deployement/02-Week 2 plan/Docker and VPS deployment plan.md",
