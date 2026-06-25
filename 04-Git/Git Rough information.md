@@ -34,4 +34,44 @@ main(production -- live website)
 
 1. write cloudformation templates
 2. Lambda function code -- track every version
-3. CI/CD with codepipeline -- Push to 
+3. CI/CD with codepipeline -- Push to github and auto deploy to aws
+
+### Git essential commands
+
+```
+#start tracking folder
+git init
+
+#check what changes
+git status
+
+#stage files for commit
+git add . //all files
+git add app.py //specific file
+
+#save snapshot
+git commit -m "commit message here"
+
+#connect to github
+git remote add origin http://github.url/account/link
+
+#push code online
+git push origin main //branch name
+
+#Download latest changes
+git pull origin main
+
+#Create a new branch
+git checkout -b feature/myfeature
+
+#show branch
+git branch
+
+#Switch branches
+git checkout main
+
+#See all commits
+git log --oneline
+```
+
+
