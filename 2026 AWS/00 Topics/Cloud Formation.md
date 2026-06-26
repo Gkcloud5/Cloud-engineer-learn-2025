@@ -20,5 +20,32 @@ Description: "PayFlow shield - Netwrok stack"
 Parameters:
 	Enviornment:
 		Type: String
-		AllowedValues: [de]
+		AllowedValues: [dev,staging,prod]
+
+Resources:
+	MYVPC: 
+	Type: AWS::EC2::VPC
+	Properties:
+	   CidrBlock: 10.0.0.0/16
+	   Tags:
+	      - Key: Name
+	        Value: payflow-vpc
+	        
+Outputs:
+	VPCId:
+	   Value: !Ref MyVPC
+	   Export:
+		   Name: PayFlow-VPC-ID
+
+```
+
+#### Deployment Command:
+
+```
+aws cloudformation deploy \
+	-- template-file root-stack.yaml \
+	-- stack-name payflow-shield-dev
+	-- parameter-overrides Environment=dev \
+	-- capabilities CAPABILITY_NAMED_IAM \
+	-- region ap-south-1
 ```
