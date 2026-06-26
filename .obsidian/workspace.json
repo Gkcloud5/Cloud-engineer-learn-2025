@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Days cloud support engineer/01-Linux and OS fundamentals/000 - OS Fundamentals.md",
+                "file": "2026 AWS/00 Topics/Cloud Formation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 - OS Fundamentals"
+              "title": "Cloud Formation"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 408.5,
+    "collapsed": true
   },
   "right": {
     "id": "4540dc4352e7e8d3",
@@ -172,8 +173,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7a357bad5a1eac9",
+  "active": "8682659f14f40f18",
   "lastOpenFiles": [
+    "30 Days cloud support engineer/01-Linux and OS fundamentals/000 - OS Fundamentals.md",
+    "2026 AWS/00 Topics/Cloud Formation.md",
+    "2026 AWS/00 Topics",
     "2026 AWS/Projects/02- PayFlow shield",
     "04-Git/Practical works/Some practical explore - reddit.md",
     "04-Git/Practical works/Test 1/Day wise plan.md",
@@ -182,7 +186,6 @@
     "04-Git/Git Rough information.md",
     "2026 AWS/Projects/01 Guardian Lab/Guardian lab AWS project overview.md",
     "04-Git/01-Plans/Git.md",
-    "30 Days cloud support engineer/01-Linux and OS fundamentals/000 - OS Fundamentals.md",
     "2026 AWS/Projects/01 Guardian Lab",
     "2026 AWS/Projects",
     "2026 AWS",
@@ -208,8 +211,6 @@
     "001-Learn By doing/002-Prompt/004 - Prompt for hour study to 2 hour plan.md",
     "01-OS/000-Plan and action/01 - OS.md",
     "Problems and debug/AI workflow n8n",
-    "Problems and debug",
-    "AI workflow/Problem and soultion workflow",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
