@@ -49,3 +49,4 @@ aws cloudformation deploy \
 	-- capabilities CAPABILITY_NAMED_IAM \
 	-- region ap-south-1
 ```
+
