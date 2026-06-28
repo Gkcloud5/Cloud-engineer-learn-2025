@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 AWS/00 Topics/Cloud Formation.md",
+                "file": "2026 AWS/001 Things to get experience/000  Things that company wants from employee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Formation"
+              "title": "000  Things that company wants from employee"
             }
           }
         ]
@@ -174,8 +174,10 @@
   },
   "active": "8682659f14f40f18",
   "lastOpenFiles": [
-    "30 Days cloud support engineer/01-Linux and OS fundamentals/000 - OS Fundamentals.md",
     "2026 AWS/00 Topics/Cloud Formation.md",
+    "2026 AWS/001 Things to get experience/000  Things that company wants from employee.md",
+    "2026 AWS/001 Things to get experience",
+    "30 Days cloud support engineer/01-Linux and OS fundamentals/000 - OS Fundamentals.md",
     "2026 AWS/00 Topics",
     "2026 AWS/Projects/02- PayFlow shield",
     "04-Git/Practical works/Some practical explore - reddit.md",
@@ -208,8 +210,6 @@
     "001-Learn By doing/002-Prompt/003- image creation for plan.md",
     "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
     "001-Learn By doing/002-Prompt/004 - Prompt for hour study to 2 hour plan.md",
-    "01-OS/000-Plan and action/01 - OS.md",
-    "Problems and debug/AI workflow n8n",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
