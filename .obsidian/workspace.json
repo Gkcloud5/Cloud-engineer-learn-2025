@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume/Work Expereience.md",
+                "file": "Resume/Refined expereience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work Expereience"
+              "title": "Refined expereience"
             }
           }
         ]
@@ -174,8 +174,9 @@
   },
   "active": "8682659f14f40f18",
   "lastOpenFiles": [
-    "2026 AWS/001 Things to get experience/000  Things that company wants from employee.md",
     "Resume/Work Expereience.md",
+    "Resume/Refined expereience.md",
+    "2026 AWS/001 Things to get experience/000  Things that company wants from employee.md",
     "Resume",
     "2026 AWS/00 Topics/Cloud Formation.md",
     "2026 AWS/001 Things to get experience",
@@ -209,7 +210,6 @@
     "001-Learn By doing/003-90days plan/Weekly plan with more topics.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day2/Day2 - things i learnt.md",
     "001-Learn By doing/002-Prompt/003- image creation for plan.md",
-    "001-Learn By doing/002-Prompt/001-Visibility prompt for comet.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
