@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume/Refined expereience.md",
+                "file": "Resume/Work Expereience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refined expereience"
+              "title": "Work Expereience"
             }
           }
         ]
@@ -174,8 +174,8 @@
   },
   "active": "8682659f14f40f18",
   "lastOpenFiles": [
-    "Resume/Work Expereience.md",
     "Resume/Refined expereience.md",
+    "Resume/Work Expereience.md",
     "2026 AWS/001 Things to get experience/000  Things that company wants from employee.md",
     "Resume",
     "2026 AWS/00 Topics/Cloud Formation.md",
