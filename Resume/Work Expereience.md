@@ -24,10 +24,6 @@
 - Troubleshot production networking on a multi-homed BGP network (own ASN): VLAN-aware vs. traditional Proxmox bridge models, tap/bridge/bond traffic-path tracing, MTU and firewall/nftables diagnostics
 - Maintained Linux and Windows OS templates and supported WHMCS-integrated provisioning through the in-house automation platform (Xenica)
 - Acted as escalation point for support-tier tickets involving storage, virtualization, and network layers under a 99.99% SLA with financial refund penalties
-- Storage Server Preparation:
-	- Provisioned production OmniOS storage servers (400–500TB capacity) from bare metal, including BIOS/firmware updates, OS installation on dedicated boot disks, and LACP bonding of dual 10GbE NICs for the primary data path.
-	- Designed RAIDZ2 storage pools via napp-it with deliberate disk placement — mapping drive bays from BIOS/caddie documentation to ensure no two disks in the same vdev shared a physical caddie, protecting against backplane-level failures.
-	- Exported pools over NFS to hypervisor hosts as production storage repositories.
 
 ## Systems Engineer — Infrastructure Automation & Storage Platforms Nov 2024 – Present
 * Designed and built a ZFS-based snapshot backup and replication platform for XenServer and Proxmox environments, covering NVMe data disks and OS disks across the production fleet — later launched as a customer-facing backup service.
@@ -46,3 +42,7 @@
 - - Planned and executed a 400TB server-to-server storage migration for a production NFS storage repository hosting live VMs, using ZFS send/receive streamed over mbuffer for high-throughput transfer.
 - Designed an incremental snapshot approach — full initial replication (3–5 days) followed by progressively smaller differential sends — shrinking the final sync to under an hour and minimizing VM downtime.
 - Coordinated the cutover: paused all VMs on the storage repository, sent the final differential snapshot, reassigned the storage IP to the destination server, and validated VM resume with no data loss.
+- - Storage Server Preparation:
+	- Provisioned production OmniOS storage servers (400–500TB capacity) from bare metal, including BIOS/firmware updates, OS installation on dedicated boot disks, and LACP bonding of dual 10GbE NICs for the primary data path.
+	- Designed RAIDZ2 storage pools via napp-it with deliberate disk placement — mapping drive bays from BIOS/caddie documentation to ensure no two disks in the same vdev shared a physical caddie, protecting against backplane-level failures.
+	- Exported pools over NFS to hypervisor hosts as production storage repositories.
