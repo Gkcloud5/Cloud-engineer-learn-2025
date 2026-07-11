@@ -21,4 +21,9 @@
 ### With less words:
 
 ## **Systems Engineer — Infrastructure Automation & Storage Platforms** | Nov 2024 – Present
+* Built a ZFS backup and replication platform protecting NVMe data and OS disks across XenServer and Proxmox fleets, with a custom REST API for job orchestration; it was later launched as a customer-facing backup service.
+* Migrated 400TB of live NFS storage between ZFS servers hosting production VMs using zfs send/receive over mbuffer; the final cutover took under an hour with no data loss.
+* Built and deployed 400–500TB OmniOS storage servers from bare metal, including firmware updates, LACP configuration for dual 10GbE NICs, RAIDZ2 pool creation with planned disk placement across drive caddies, and NFS storage for XenServer and Proxmox hosts in production.
+
+### Systems Engineer: Nov 2022 – Oct 2024
 
