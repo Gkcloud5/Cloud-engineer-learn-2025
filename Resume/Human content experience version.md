@@ -25,5 +25,15 @@
 * Migrated 400TB of live NFS storage between ZFS servers hosting production VMs using zfs send/receive over mbuffer; the final cutover took under an hour with no data loss.
 * Built and deployed 400–500TB OmniOS storage servers from bare metal, including firmware updates, LACP configuration for dual 10GbE NICs, RAIDZ2 pool creation with planned disk placement across drive caddies, and NFS storage for XenServer and Proxmox hosts in production.
 
-### Systems Engineer: Nov 2022 – Oct 2024
+## Systems Engineer: Nov 2022 – Oct 2024
+* Prepared and deployed production XenServer (XCP-ng) and Proxmox (KVM/LXC) hosts from bare metal, including IPMI configuration, OS and hypervisor installation, networking, and ZFS storage setup on HP, Dell, Quanta, and Supermicro servers.
+- Built Bash scripts to automate VPS provisioning, security hardening, OS reinstallation, and storage backup recovery. Maintained OS templates and supported automated VPS provisioning through the in-house Xenica platform integrated with WHMCS.
+- Resolved L2 infrastructure incidents independently and worked with datacenter and network teams to resolve L3 escalations within SLA.
+- Deployed and managed Storj storage nodes on underutilized servers, using Prometheus and Grafana to monitor node health and storage capacity.
+- Restored customer VMs from storage and NVMe backups, verifying data integrity and successful VM boot after recovery.
 
+## Technical Support Engineer: Nov 2020 – Oct 2022
+- Resolved 200–400 customer support tickets per month within SLA across KVM/Xen VPS, dedicated servers, and cPanel shared hosting on Linux and Windows.
+- Troubleshot VPS issues including boot failures, OS reinstalls, disk resizing, SSH/RDP connectivity, and performance problems, providing detailed diagnostics for complex escalations.
+- Wrote and maintained internal knowledge base articles to document troubleshooting procedures and provide consistent guidance for the support team.
+- Monitored production servers, investigated system issues, and escalated findings to senior engineers for resolution.
