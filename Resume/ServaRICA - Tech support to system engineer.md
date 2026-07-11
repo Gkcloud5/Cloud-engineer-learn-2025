@@ -17,6 +17,7 @@
 - XEN and KVM Server Preparation:
 	- Provisioned production servers end-to-end (IPMI configuration, OS installation, hypervisor setup, networking, ZFS storage) for customer-facing VPS workloads. 
 	* HP, DELL, QUANTA, SUPERMICRO
+	* Operated a mixed-hypervisor production fleet of [X] Proxmox VE (KVM/LXC) and XCP-ng/Xen nodes serving [X]+ customer VPS instances, covering node health, capacity planning, and VM lifecycle management
 * Resolved L2 incidents independently and drove L3 escalations to closure by coordinating with datacenter and network teams, owning issues through to resolution within SLA.
 * Built Bash automation for VPS provisioning, security hardening, OS reinstallation, and backup recovery workflows; maintained OS templates and WHMCS-integrated provisioning via the in-house platform (Xenica)
 * Deployed distributed storage nodes (Storj) on underutilized hardware to generate supplemental revenue, with Prometheus and Grafana monitoring for capacity and node health
