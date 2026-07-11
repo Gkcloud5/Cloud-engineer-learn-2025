@@ -28,4 +28,5 @@
 ### Technical Support Engineer: Nov 2020 – Oct 2022
 * Delivered front-line technical support for KVM/Xen VPS, dedicated servers, and cPanel shared hosting, resolving 200 to 400 tickets/month within SLA across Linux and Windows environments
 * Diagnosed and resolved guest-level VPS issues — failed boots, OS reinstalls, disk resizing, SSH/RDP access failures, and performance complaints — escalating complex cases with full diagnostic context
-* 
+* Monitored production servers, identified anomalies, and flagged issues to senior engineers for timely remediation.
+* Authored internal knowledgebase articles standardizing troubleshooting procedures, reducing repeat escalations and onboarding time for new support staff.
