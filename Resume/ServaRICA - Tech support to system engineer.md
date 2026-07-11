@@ -18,9 +18,14 @@
 	- Provisioned production servers end-to-end (IPMI configuration, OS installation, hypervisor setup, networking, ZFS storage) for customer-facing VPS workloads. 
 	* HP, DELL, QUANTA, SUPERMICRO
 * Resolved L2 incidents independently and drove L3 escalations to closure by coordinating with datacenter and network teams, owning issues through to resolution within SLA.
-* Built Bash automation for core infrastructure workflows — VPS provisioning, security hardening, OS reinstallation, and storage server backup recovery — reducing manual effort on recurring operations.
-* For company extra revenue i have used unusued hardware to ran storj crypto node. and monitored with promotheous and grafana
+* Built Bash automation for VPS provisioning, security hardening, OS reinstallation, and backup recovery workflows; maintained OS templates and WHMCS-integrated provisioning via the in-house platform (Xenica)
+* Deployed distributed storage nodes (Storj) on underutilized hardware to generate supplemental revenue, with Prometheus and Grafana monitoring for capacity and node health
 * Manually recover VM from our backup
-	* Storage VM backup
+	* Storage VM backup.
 	* NVMe VM backup
+* Administered ZFS storage pools across hypervisor nodes: pool creation, snapshots, quota management, scrubs, and failed-disk replacement with resilver monitoring
+
+### Technical Support Engineer: Nov 2020 – Oct 2022
+* Delivered front-line technical support for KVM/Xen VPS, dedicated servers, and cPanel shared hosting, resolving 200 to 400 tickets/month within SLA across Linux and Windows environments
+* Diagnosed and resolved guest-level VPS issues — failed boots, OS reinstalls, disk resizing, SSH/RDP access failures, and performance complaints — escalating complex cases with full diagnostic context
 * 
