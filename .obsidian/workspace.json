@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,10 +201,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d7ec405b96d78718",
+  "active": "23f9084aec6974c9",
   "lastOpenFiles": [
-    "Resume/Work Expereience.md",
     "Resume/ServaRICA - Tech support to system engineer.md",
+    "Resume/Work Expereience.md",
     "Resume/Refined expereience.md",
     "2026 AWS/001 Things to get experience/000  Things that company wants from employee.md",
     "Resume",
