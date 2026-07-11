@@ -7,4 +7,9 @@
 ### Systems Engineer: Nov 2022 – Oct 2024
 * Prepared and deployed production XenServer (XCP-ng) and Proxmox (KVM/LXC) hosts from bare metal, including IPMI setup, OS and hypervisor installation, networking, and ZFS storage configuration on HP, Dell, Quanta, and Supermicro servers. 
 * Built Bash automation for VPS provisioning, security hardening, OS reinstallation, and storage backup recovery. Maintained OS templates and supported automated VPS provisioning through the in-house Xenica platform integrated with WHMCS.
-* 
+* Resolved L2 infrastructure incidents independently and coordinated with datacenter and network teams to drive L3 escalations through to resolution within SLA.
+* Deployed and managed Storj storage nodes on underutilized servers to generate additional revenue, with Prometheus and Grafana used to monitor node health and storage capacity.
+* Restored customer VMs from storage and NVMe backups, validating data integrity and VM boot after recovery.
+
+### Technical Support Engineer: Nov 2020 – Oct 2022
+* Provided technical support for KVM/Xen VPS, dedicated servers, and cPanel shared hosting, resolving 200–400 customer tickets per month within SLA across Linux and Windows environments.

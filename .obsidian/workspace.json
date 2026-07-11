@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 408.5,
+    "collapsed": true
   },
   "right": {
     "id": "4540dc4352e7e8d3",
@@ -215,12 +216,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "540892a45d3386be",
+  "active": "d7ec405b96d78718",
   "lastOpenFiles": [
     "Resume/Work Expereience.md",
     "Resume/Refined expereience.md",
-    "Resume/Human content experience version.md",
     "Resume/ServaRICA - Tech support to system engineer.md",
+    "Resume/Human content experience version.md",
     "2026 AWS/001 Things to get experience/000  Things that company wants from employee.md",
     "Resume",
     "2026 AWS/00 Topics/Cloud Formation.md",
