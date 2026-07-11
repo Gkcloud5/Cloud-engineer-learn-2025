@@ -39,7 +39,7 @@
 - Manage OmniOS-based NFS storage backend serving XCP-ng compute nodes; support NFS and Ceph storage repositories, VDI/VBD lifecycle via `xe` CLI
 - Maintain backup job state in MySQL with sync-first reconciliation between API status and local state, preventing recurring job conflicts
 - Drive root-cause analysis for complex production incidents: conntrack exhaustion causing asymmetric outbound failures, IPv6 NDP failures across Proxmox bridge models, and selective BGP null-route diagnosis
-- Storage Server Complete migration
+- Storage Server Complete migration to another storage server
 	-  Planned and executed a 400TB server-to-server storage migration for a production NFS storage repository hosting live VMs, using ZFS send/receive streamed over mbuffer for high-throughput transfer.
 	- Designed an incremental snapshot approach — full initial replication (3–5 days) followed by progressively smaller differential sends — shrinking the final sync to under an hour and minimizing VM downtime.
 	- Coordinated the cutover: paused all VMs on the storage repository, sent the final differential snapshot, reassigned the storage IP to the destination server, and validated VM resume with no data loss.
