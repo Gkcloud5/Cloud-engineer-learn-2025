@@ -9,7 +9,7 @@
 - Handled abuse reports and IP reputation investigations (AbuseIPDB, RIPE, bgp.he.net), coordinating null-route and mitigation actions with the network team
 - Assisted customers with firewall configuration (iptables/firewalld), DNS, and web-hosting environment issues across shared and VPS platforms
 - Documented recurring issues and fixes, building internal knowledge-base articles that reduced repeat ticket volume
-
+ 
 ## Systems Engineer: Nov 2022 – Oct 2024
 * Resolved L2 incidents independently and drove L3 escalations to closure by coordinating with datacenter and network teams, owning issues through to resolution within SLA.
 * Provisioned production servers end-to-end (IPMI configuration, OS installation, hypervisor setup, networking, ZFS storage) for customer-facing VPS workloads. 
