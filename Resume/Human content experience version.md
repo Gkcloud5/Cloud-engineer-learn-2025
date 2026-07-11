@@ -16,3 +16,9 @@
 * Diagnosed and resolved VPS issues including boot failures, OS reinstalls, disk resizing, SSH/RDP connectivity, and performance problems, escalating complex cases with complete diagnostic details when required.
 * Monitored production servers, investigated system issues, and escalated findings to senior engineers for resolution.
 * Wrote and maintained internal knowledge base articles to document troubleshooting procedures and provide consistent guidance for the support team.
+
+
+### With less words:
+
+## **Systems Engineer — Infrastructure Automation & Storage Platforms** | Nov 2024 – Present
+
