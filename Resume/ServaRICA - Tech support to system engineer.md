@@ -19,4 +19,8 @@
 	* HP, DELL, QUANTA, SUPERMICRO
 * Resolved L2 incidents independently and drove L3 escalations to closure by coordinating with datacenter and network teams, owning issues through to resolution within SLA.
 * Built Bash automation for core infrastructure workflows — VPS provisioning, security hardening, OS reinstallation, and storage server backup recovery — reducing manual effort on recurring operations.
+* For company extra revenue i have used unusued hardware to ran storj crypto node. and monitored with promotheous and grafana
+* Manually recover VM from our backup
+	* Storage VM backup
+	* NVMe VM backup
 * 
