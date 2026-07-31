@@ -20,7 +20,7 @@
 ```
 git branch       //List all the branches in current repo
 git branch <branch name>    //Create new branch with that name
-git checkout <branch name>   //Switches working directory to that branch
+git switch <branch name>   //Switches working directory to that branch
 git checkout -b <branch name>  //creates a new branch and switches to it 
 git merge <branch name>  //Intgrates the history and changes the specified branch in curret active branch
 git branch -d <branch-name>  //Deletes the branch once you are done with it
