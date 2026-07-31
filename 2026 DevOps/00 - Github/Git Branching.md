@@ -22,5 +22,5 @@ git branch       //List all the branches in current repo
 git branch <branch name>    //Create new branch with that name
 git checkout <branch name>   //Switches working directory to that branch
 git checkout -b <branch name>  //creates a new branch and switches to it 
-git merge <branch name>  //Intgrates the his
+git merge <branch name>  //Intgrates the history and changes
 ```
