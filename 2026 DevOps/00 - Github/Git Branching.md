@@ -22,5 +22,15 @@ git branch       //List all the branches in current repo
 git branch <branch name>    //Create new branch with that name
 git checkout <branch name>   //Switches working directory to that branch
 git checkout -b <branch name>  //creates a new branch and switches to it 
-git merge <branch name>  //Intgrates the history and changes
+git merge <branch name>  //Intgrates the history and changes the specified branch in curret active branch
+git branch -d <branch-name>  //Deletes the branch once you are done with it
 ```
+
+
+### Branching workflow:
+
+1. Create & switch: Leave `main` to work on feature: `git checkout -b login-page`
+2. Work & Commit: You write the code and save it: `git commit -m "Add login form"`
+3. Switch back: Return stable line: `git checkout main`
+4. Merge: Bring new feature into the main project: `git merge login-page`
+
