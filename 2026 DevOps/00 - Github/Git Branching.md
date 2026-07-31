@@ -10,4 +10,17 @@
 ### Core Concept:
 * Every project starts with primary branch usually name main or master
 * Lightweight pointer: 
-	* Branch is not a 
+	* Branch is not a copy of all files. it is just tiny pointer to specific commit
+* Independent history:
+	* When create a new branch, we can add new commits to it while the `main` branch remains untouched and stable.
+
+
+### Essential branching commands:
+
+```
+git branch       //List all the branches in current repo
+git branch <branch name>    //Create new branch with that name
+git checkout <branch name>   //Switches working directory to that branch
+git checkout -b <branch name>  //creates a new branch and switches to it 
+git merge <branch name>  //Intgrates the his
+```
