@@ -14,7 +14,7 @@ git config --global user.name "GK"  //Name on every commit
 git config --global user.email "email@gmail.com" //Email on every commit
 ```
 
-### Daily work commands:
+### Daily work commands on working directory:
 
 ```
 git init   //Turn a normal folder into gir repo
@@ -24,5 +24,10 @@ git add . //Stage everything changed
 git commit -m "message"  //click the photo -- save the snapshot
 git log  //See the whole album, newest first
 git log --oneline  //same, but short and redable
-git diff 
+git diff  //show what changed but have not staged yet
+git push //Sends locally saved commits up to remote platform like github
 ```
+
+
+
+

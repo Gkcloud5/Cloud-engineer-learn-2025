@@ -12,5 +12,5 @@
 ### 3 Main states of files:
 - Modified: You have changed file but not saved in git repo
 - Staged: You have marked modified file to be included on next snapshot
-- Commited: The snapshot is permanently and safely save in git history
+- Committed: The snapshot is permanently and safely save in git history
 
