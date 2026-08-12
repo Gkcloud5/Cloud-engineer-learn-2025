@@ -33,6 +33,8 @@ docker ps
 docker run **Dcoker name**
 docker images  ##see images in machine
 docker ps -a  ##flag all getting information
-
+docker rm **container name**
+docker rmi **Image name**
 ```
+
 
