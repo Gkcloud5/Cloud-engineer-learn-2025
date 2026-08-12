@@ -31,5 +31,8 @@ systemctl start docker
 systemctl enable docker
 docker ps
 docker run **Dcoker name**
+docker images  ##see images in machine
+docker ps -a  ##flag all getting information
+
 ```
 
