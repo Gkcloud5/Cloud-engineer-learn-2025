@@ -1,5 +1,1 @@
-
-
-```
-Docker is isolated process with all the things that app need to run. it will have dependecies 
-```
+** Docker is a isolated process that helps to run a app without any issue. 
