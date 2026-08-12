@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
+                "file": "2026 DevOps/01 - Docker/01-  Dockerfile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Docker about and basics"
+              "title": "01-  Dockerfile"
             }
           }
         ],
@@ -234,8 +234,9 @@
   },
   "active": "d85790098283637a",
   "lastOpenFiles": [
-    "2026 DevOps/00 - Github/Merge conflicts.md",
     "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
+    "2026 DevOps/01 - Docker/01-  Dockerfile.md",
+    "2026 DevOps/00 - Github/Merge conflicts.md",
     "2026 DevOps/01 - Docker",
     "2026 DevOps/00 - Github/Git Branching.md",
     "2026 DevOps/00 - Github/Git Essential commands.md",
@@ -269,7 +270,6 @@
     "02-Linux/001-Linux.md",
     "2026-03-09.md",
     "Prompt Example.md",
-    "Cloud engineer 2025 plan.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
