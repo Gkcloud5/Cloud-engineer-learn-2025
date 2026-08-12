@@ -22,8 +22,7 @@ docker run hello-world
 
 **Image = the read-only template. Container = a running instance made from it.**
 
-### Docker fundamentals:
-* 
+
 ### Commands:
 
 ```
