@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "01-  Dockerfile"
             }
+          },
+          {
+            "id": "f1287eb8883273e0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -232,7 +244,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d85790098283637a",
+  "active": "f1287eb8883273e0",
   "lastOpenFiles": [
     "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
     "2026 DevOps/01 - Docker/01-  Dockerfile.md",
