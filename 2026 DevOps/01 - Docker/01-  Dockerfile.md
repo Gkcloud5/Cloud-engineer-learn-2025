@@ -15,4 +15,9 @@ EOF
 ```
 
 * `FROM ngnix:latest` --> Stare from the ngnix image.
-* `COPY index.html /usr/share/ngnix/html/index.html` --> Copy your file from folder into the image. to exact spot ngnix 
+* `COPY index.html /usr/share/ngnix/html/index.html` --> Copy your file from folder into the image. to exact spot ngnix server.
+
+![[Pasted image 20260815232709.png]]
+
+**Baking files into the image makes it portable and self contained, the image runs identically anywhere because it carries its own content**
+
