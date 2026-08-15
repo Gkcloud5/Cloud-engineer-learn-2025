@@ -19,5 +19,13 @@ EOF
 
 ![[Pasted image 20260815232709.png]]
 
-**Baking files into the image makes it portable and self contained, the image runs identically anywhere because it carries its own content**
+**Baking files into the image makes it portable and self contained, the image runs identically anywhere because it carries its own content. that's the whole reason containers beat just copy files to a server**
 
+```
+BUILD:
+docker build -t gk-website .
+```
+
+* `docker build -->` Read the dockerfile and assemble an image from it
+* `-t gk-website` `-->` tag(name) the image gk-website. 
+* `. -->` 
