@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "01-  Dockerfile"
             }
+          },
+          {
+            "id": "47bd79611c8d3ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026 DevOps/01 - Docker/02 - Docker image push to registery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - Docker image push to registery"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -232,13 +246,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d85790098283637a",
+  "active": "47bd79611c8d3ee5",
   "lastOpenFiles": [
+    "2026 DevOps/01 - Docker/01-  Dockerfile.md",
+    "2026 DevOps/01 - Docker/02 - Docker image push to registery.md",
+    "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
     "2026 DevOps/01 - Docker/000 - Images",
     "2026 DevOps/01 - Docker/000 - Images.md",
-    "2026 DevOps/01 - Docker/01-  Dockerfile.md",
     "2026 DevOps/01 - Docker/000 - Images/Pasted image 20260815232709.png",
-    "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
     "2026 DevOps/00 - Github/Merge conflicts.md",
     "2026 DevOps/01 - Docker",
     "2026 DevOps/00 - Github/Git Branching.md",
@@ -266,7 +281,6 @@
     "2026 AWS/Projects/01 Guardian Lab/Guardian lab AWS project overview.md",
     "04-Git/01-Plans/Git.md",
     "2026 AWS/Projects/01 Guardian Lab",
-    "2026 AWS/Projects",
     "30 Days cloud support engineer/000 - 30 Days RoadMAP and topic to learn.md",
     "001-Learn By doing/Learning and Building/Week-2 Docker and VPS deployement/02-Week 2 plan/Docker and VPS deployment plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/Day 4 - study notes.md",

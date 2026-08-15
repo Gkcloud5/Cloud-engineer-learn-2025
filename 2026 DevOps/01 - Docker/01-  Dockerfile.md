@@ -33,21 +33,29 @@ docker build -t gk-website .
 ```
 
 [root@ip-172-31-1-28 my-first-image]# docker build -t gk-website .
-[+] Building 0.3s (7/7) FINISHED                                                                      docker:default
+[+] Building 0.2s (7/7) FINISHED                                                                      docker:default
  => [internal] load build definition from Dockerfile                                                            0.0s
  => => transferring dockerfile: 164B                                                                            0.0s
  => [internal] load metadata for docker.io/library/nginx:latest                                                 0.0s
  => [internal] load .dockerignore                                                                               0.0s
  => => transferring context: 2B                                                                                 0.0s
- => [internal] load build context                                                                               0.1s
- => => transferring context: 196B                                                                               0.0s
- => [1/2] FROM docker.io/library/nginx:latest                                                                   0.1s
- => [2/2] COPY index.html /usr/share/ngnix/html/index.html                                                      0.1s
+ => [internal] load build context                                                                               0.0s
+ => => transferring context: 91B                                                                                0.0s
+ => CACHED [1/2] FROM docker.io/library/nginx:latest                                                            0.0s
+ => [2/2] COPY index.html /usr/share/nginx/html/index.html                                                      0.1s
  => exporting to image                                                                                          0.0s
  => => exporting layers                                                                                         0.0s
- => => writing image sha256:6e987c2b0e5daabdf45ed3a0efa67ab47382f7c47682da160580b4efbe681db4                    0.0s
+ => => writing image sha256:012c1c95b99a4721df05585ddf5e42b9c1938f0a8a125435b4d4fe010764469f                    0.0s
  => => naming to docker.io/library/gk-website                                                                   0.0s
 [root@ip-172-31-1-28 my-first-image]#
 
+
+```
+
+
+### Run the image:
+
+```
+docker run -d -p 8080:80 --name mysite gk-website
 ```
 
