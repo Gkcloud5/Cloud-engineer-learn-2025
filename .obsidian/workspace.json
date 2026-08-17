@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
+                "file": "2026 DevOps/01 - Docker/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Docker about and basics"
+              "title": "Untitled"
             }
           }
         ],
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5,
-    "collapsed": true
+    "width": 408.5
   },
   "right": {
     "id": "4540dc4352e7e8d3",
@@ -248,9 +247,10 @@
   },
   "active": "47bd79611c8d3ee5",
   "lastOpenFiles": [
+    "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
+    "2026 DevOps/01 - Docker/Untitled.md",
     "2026 DevOps/01 - Docker/02 - Docker image push to registery.md",
     "2026 DevOps/01 - Docker/01-  Dockerfile.md",
-    "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
     "2026 DevOps/01 - Docker/000 - Images",
     "2026 DevOps/01 - Docker/000 - Images.md",
     "2026 DevOps/01 - Docker/000 - Images/Pasted image 20260815232709.png",
@@ -284,7 +284,6 @@
     "30 Days cloud support engineer/000 - 30 Days RoadMAP and topic to learn.md",
     "001-Learn By doing/Learning and Building/Week-2 Docker and VPS deployement/02-Week 2 plan/Docker and VPS deployment plan.md",
     "001-Learn By doing/Learning and Building/Week-1/Learn-Day4/Day 4 - study notes.md",
-    "02-Linux/001-Linux.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
