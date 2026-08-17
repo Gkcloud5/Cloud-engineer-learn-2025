@@ -38,4 +38,7 @@ docker rmi **Image name**
 ```
 
 
-### 
+### Some Basics command:
+
+* `RUN` --> Run commands during build, install packages, create files.
+* `WORKDIR` --> Sets the working folder. all later 
