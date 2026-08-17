@@ -41,4 +41,19 @@ docker rmi **Image name**
 ### Some Basics command:
 
 * `RUN` --> Run commands during build, install packages, create files.
-* `WORKDIR` --> Sets the working folder. all later 
+* `WORKDIR` --> Sets the working folder. all later steps run inside it
+* `ENV` -->  `export DB_HOST=...` --> Set environment variable that lives inside the image and the running container
+* `EXPOSE` --> documentation only. a label saying which port the app listens
+* ``CMD` / `ENTRYPOINT`` --> `ExecStart` --> The command that runs when the container starts. this is what keeps it alive.
+
+```
+FROM python:3.13-slim          # base image (pick the current stable tag)
+WORKDIR /app                   # cd into /app
+COPY requirements.txt .        # copy dependency list in
+RUN pip install -r requirements.txt   # install them AT BUILD TIME
+COPY . .                       # copy the rest of the app
+ENV PORT=5000                  # set a config variable
+EXPOSE 5000                    # document: "I listen on 5000"
+CMD ["python", "app.py"]       # the power button: start the app
+```
+
