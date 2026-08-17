@@ -7,3 +7,13 @@
 	* That's where volumes come in
 * Actually containers are designed to be replaceable.
 
+```
+Container
+   │
+   ↓
+Volume
+   │
+   ↓
+Database data
+```
+
