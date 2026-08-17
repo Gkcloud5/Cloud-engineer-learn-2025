@@ -68,3 +68,14 @@ YOUR EC2 BOX                DOCKER HUB              ANY OTHER SERVER
 
 
 
+### Pull from docker hub:
+
+* Pull from another machine
+
+```
+docker pull gokulkrish07/gk-website:v1
+```
+
+```
+docker run -d -p 8080:80 --name mysite gokulkrish07/gk-website:v1
+```
