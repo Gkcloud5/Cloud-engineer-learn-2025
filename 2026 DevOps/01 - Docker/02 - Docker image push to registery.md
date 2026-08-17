@@ -52,3 +52,19 @@ v1: digest: sha256:5c9195faa8f705a188b2b9f4c1a723832ff267548a47b40b83a1f8f778e8e
 [root@ip-172-31-1-28 ~]#
 ```
 
+
+* 589ac4f6865d: Pushed --> it's actually file that need to push to repo
+* Seven lines of `Mounted from library/nginx` --> those are the nginx base layer. 
+	* Docker hub already have it
+* `v1: digest: sha256:...` --> It's final receipt. image is now on shelf.
+
+### Here's the mental picture of docker flow:
+
+```
+YOUR EC2 BOX                DOCKER HUB              ANY OTHER SERVER
+  build + push  ────────►  gk-website:v1  ─────────►  docker pull + run
+                            (the shelf)         (VPS 2, VPS 3, CI, k8s...)
+```
+
+
+
