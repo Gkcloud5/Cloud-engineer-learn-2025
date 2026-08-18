@@ -40,3 +40,5 @@ root@db2c104b30cb:/#
 * `-if` --> Interactive terminal. `-i` keeps input open, `-t` gives you terminal.
 * `ubuntu` --> The image
 * `bash` --> command to run: a shell.
+
+
