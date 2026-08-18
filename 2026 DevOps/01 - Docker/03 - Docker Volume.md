@@ -17,4 +17,12 @@ Volume
 Database data
 ```
 
+## run dokcer and go bash
 
+```
+docker run -it --name datatest ubuntu bash
+```
+
+```
+
+```
