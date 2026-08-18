@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "03 - Docker Volume"
             }
+          },
+          {
+            "id": "34a88ba1556db585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - Docker about and basics"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -246,10 +260,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47bd79611c8d3ee5",
+  "active": "34a88ba1556db585",
   "lastOpenFiles": [
-    "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
     "2026 DevOps/01 - Docker/03 - Docker Volume.md",
+    "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
     "2026 DevOps/01 - Docker/02 - Docker image push to registery.md",
     "2026 DevOps/01 - Docker/01-  Dockerfile.md",
     "2026 DevOps/01 - Docker/000 - Images",
