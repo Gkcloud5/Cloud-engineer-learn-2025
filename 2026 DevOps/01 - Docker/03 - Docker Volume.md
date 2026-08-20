@@ -17,7 +17,7 @@ Volume
 Database data
 ```
 
-## run dokcer and go bash
+## run docker and go bash
 
 ```
 docker run -it --name datatest ubuntu bash
@@ -49,4 +49,20 @@ root@db2c104b30cb:/#
    ─────────────────────────
    CONTAINER writable layer (on top)  ← your myfile.txt went HERE
 ```
+
+
+```
+[root@ip-172-31-4-249 ~]# docker start -ai datatest
+root@db2c104b30cb:/# cat /root/myfile.txt
+important data
+root@db2c104b30cb:/#
+
+```
+
+* Restart first container and reattaches `-a` and `i`. same container and same writable layer
+
+* Docker uses **OverlayFS**.
+	* Read-only image at the bottom, thin writable layer per container on top.
+
+
 
