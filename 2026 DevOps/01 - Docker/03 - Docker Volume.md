@@ -85,6 +85,9 @@ root@db2c104b30cb:/#
 ```
 docker volume create mydata
 docker volume ls
+
+##Mount the volume and write on it
+docker run -it --name voltest -v mydata:/data ubuntu bash
 ```
 
 ```
