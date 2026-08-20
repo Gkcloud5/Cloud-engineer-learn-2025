@@ -68,3 +68,35 @@ root@db2c104b30cb:/#
 
 ## Volume:
 * A volume is storage that lives outside the container's writable layer - managed by docker. sitting on the host disk
+* Volume is not the part of the disposable layer so deleting the container does not delete the volume the data surives
+
+```
+  ┌──────────────────────────┐
+  │ WRITABLE LAYER (dies)    │
+  ├──────────────────────────┤
+  │ IMAGE (read-only)        │
+  └──────────────────────────┘
+            │
+      mount │  /data  ───────►  ┌─────────────────────┐
+            ▼                    │  VOLUME (survives)  │  ← lives on host, outside the container
+                                 └─────────────────────┘
+```
+
+```
+docker volume create mydata
+docker volume ls
+```
+
+```
+[root@ip-172-31-4-249 ~]# docker volume create mydata
+mydata
+[root@ip-172-31-4-249 ~]# docker volume ls
+DRIVER    VOLUME NAME
+local     mydata
+[root@ip-172-31-4-249 ~]#
+
+```
+
+
+
+
