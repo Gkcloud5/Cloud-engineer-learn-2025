@@ -115,4 +115,15 @@ tmpfs           457M     0  457M   0% /sys/firmware
 
 
 ### What is OverlayFS:
-* 
+
+```
+              WHAT I SEE
+                  ↑
+             OVERLAY VIEW
+                  ↑
+        ┌─────────┴─────────┐
+        │                   │
+     UPPER                LOWER
+   changes              original
+```
+
