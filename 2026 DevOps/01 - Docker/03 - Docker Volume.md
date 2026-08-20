@@ -41,4 +41,12 @@ root@db2c104b30cb:/#
 * `ubuntu` --> The image
 * `bash` --> command to run: a shell.
 
+* Every container gets its own thin writable layer stacked on top of the shared read only image
+* Anything we can create, edit, delete inside a container goes into that container's layer.
+
+```
+   IMAGE (read-only, frozen)          ← ubuntu's files. NEVER changes.
+   ─────────────────────────
+   CONTAINER writable layer (on top)  ← your myfile.txt went HERE
+```
 
