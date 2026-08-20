@@ -66,3 +66,5 @@ root@db2c104b30cb:/#
 
 
 
+## Volume:
+* A volume is storage that lives outside the container's writable layer - managed by docker. sitting on the host disk
