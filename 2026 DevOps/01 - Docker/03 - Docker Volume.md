@@ -101,5 +101,15 @@ local     mydata
 ```
 
 
+```
+root@b3bb0cf98e8c:/# df -h
+Filesystem      Size  Used Avail Use% Mounted on
+overlay         8.0G  2.2G  5.9G  27% /        --> Writable layer - disposable
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/nvme0n1p1  8.0G  2.2G  5.9G  27% /data  --> Volume that shared here
+tmpfs           457M     0  457M   0% /proc/acpi
+tmpfs           457M     0  457M   0% /sys/firmware
 
+```
 
