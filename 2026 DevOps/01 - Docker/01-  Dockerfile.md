@@ -14,7 +14,7 @@ COPY index.html /usr/share/ngnix/html/index.html
 EOF
 ```
 
-* `FROM ngnix:latest` --> Stare from the ngnix image.
+* `FROM ngnix:latest` --> Stare from the nginx image.
 * `COPY index.html /usr/share/ngnix/html/index.html` --> Copy your file from folder into the image. to exact spot ngnix server.
 
 ![[Pasted image 20260815232709.png]]
