@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI workflow/Content to post workflow.md",
+                "file": "2026 DevOps/01 - Docker/04 - Docker Compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Content to post workflow"
+              "title": "04 - Docker Compose"
             }
           },
           {
@@ -261,6 +261,7 @@
   },
   "active": "47bd79611c8d3ee5",
   "lastOpenFiles": [
+    "AI workflow/Content to post workflow.md",
     "2026 DevOps/01 - Docker/04 - Docker Compose.md",
     "2026-03-09.md",
     "2026 DevOps/01 - Docker/03 - Docker Volume.md",
@@ -297,7 +298,6 @@
     "2026 AWS/Projects/01 Guardian Lab/Guardian lab AWS project overview.md",
     "04-Git/01-Plans/Git.md",
     "2026 AWS/Projects/01 Guardian Lab",
-    "30 Days cloud support engineer/000 - 30 Days RoadMAP and topic to learn.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
