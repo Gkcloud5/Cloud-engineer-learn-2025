@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 DevOps/01 - Docker/01-  Dockerfile.md",
+                "file": "2026 DevOps/01 - Docker/04 - Docker Compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-  Dockerfile"
+              "title": "04 - Docker Compose"
             }
           },
           {
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 408.5,
+    "collapsed": true
   },
   "right": {
     "id": "4540dc4352e7e8d3",
@@ -261,13 +262,13 @@
   },
   "active": "47bd79611c8d3ee5",
   "lastOpenFiles": [
+    "2026 DevOps/01 - Docker/01-  Dockerfile.md",
     "2026 DevOps/01 - Docker/04 - Docker Compose.md",
     "AI workflow/Content to post workflow.md",
     "2026-03-09.md",
     "2026 DevOps/01 - Docker/03 - Docker Volume.md",
     "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
     "2026 DevOps/01 - Docker/02 - Docker image push to registery.md",
-    "2026 DevOps/01 - Docker/01-  Dockerfile.md",
     "2026 DevOps/01 - Docker/000 - Images",
     "2026 DevOps/01 - Docker/000 - Images.md",
     "2026 DevOps/01 - Docker/000 - Images/Pasted image 20260815232709.png",
