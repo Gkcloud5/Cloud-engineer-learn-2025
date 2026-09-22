@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
+                "file": "2026 DevOps/01 - Docker/05-  Docker multistage build.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Docker about and basics"
+              "title": "05-  Docker multistage build"
             }
           },
           {
@@ -262,12 +262,13 @@
   },
   "active": "47bd79611c8d3ee5",
   "lastOpenFiles": [
+    "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
+    "2026 DevOps/01 - Docker/05-  Docker multistage build.md",
     "2026 DevOps/01 - Docker/04 - Docker Compose.md",
     "2026 DevOps/01 - Docker/01-  Dockerfile.md",
     "AI workflow/Content to post workflow.md",
     "2026-03-09.md",
     "2026 DevOps/01 - Docker/03 - Docker Volume.md",
-    "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
     "2026 DevOps/01 - Docker/02 - Docker image push to registery.md",
     "2026 DevOps/01 - Docker/000 - Images",
     "2026 DevOps/01 - Docker/000 - Images.md",
@@ -297,7 +298,6 @@
     "04-Git/Practical works/Test 1/Day1/00-Theory/Understand and Build Foundation.md",
     "04-Git/Git Rough information.md",
     "2026 AWS/Projects/01 Guardian Lab/Guardian lab AWS project overview.md",
-    "04-Git/01-Plans/Git.md",
     "2026 AWS/Projects/01 Guardian Lab",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
