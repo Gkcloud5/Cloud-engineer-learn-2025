@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 DevOps/01 - Docker/04 - Docker Compose.md",
+                "file": "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Docker Compose"
+              "title": "00 - Docker about and basics"
             }
           },
           {
@@ -262,8 +262,8 @@
   },
   "active": "47bd79611c8d3ee5",
   "lastOpenFiles": [
-    "2026 DevOps/01 - Docker/01-  Dockerfile.md",
     "2026 DevOps/01 - Docker/04 - Docker Compose.md",
+    "2026 DevOps/01 - Docker/01-  Dockerfile.md",
     "AI workflow/Content to post workflow.md",
     "2026-03-09.md",
     "2026 DevOps/01 - Docker/03 - Docker Volume.md",
