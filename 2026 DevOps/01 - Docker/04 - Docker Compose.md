@@ -9,4 +9,38 @@
 		* What environment variable are required?
 		* Where should persistent data go?
 		* Which network should containers use?
-		* How do you recreate everything
+		* How do you recreate everything on another machine?
+		* How do you start/stpo the entire application
+
+```
+Docker CLI
+   |
+   | "Create/run this container"
+   v
+Individual containers
+
+
+Docker Compose
+   |
+   | "This is my entire application"
+   v
+┌─────────┬─────────┬──────────┬─────────┐
+│  Nginx  │   App   │ Postgres │  Redis  │
+└─────────┴─────────┴──────────┴─────────┘
+```
+
+* Docker compose usually return in yaml file
+	* It have information about multiple container applications
+* Example:
+```
+services:
+
+	web:
+	  image: nginx
+	
+	app:
+	  image: pyhton:3.12
+	
+	db:
+	 image: postgres:16
+```
