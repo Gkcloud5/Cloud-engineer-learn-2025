@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6431deace3c8d7eb",
+        "id": "4fec03d2f46e4c52",
         "type": "tabs",
         "children": [
           {
-            "id": "8682659f14f40f18",
+            "id": "d304db14d4acdfb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume/Refined expereience.md",
+                "file": "2026 DevOps/01 - Docker/001 - Project/000 - BookStack app/000 - Overview app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refined expereience"
-            }
-          },
-          {
-            "id": "23f9084aec6974c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resume/Work Expereience.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Work Expereience"
-            }
-          },
-          {
-            "id": "540892a45d3386be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resume/ServaRICA - Tech support to system engineer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ServaRICA - Tech support to system engineer"
-            }
-          },
-          {
-            "id": "d7ec405b96d78718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026 DevOps/00 - Github/Git Essential commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git Essential commands"
-            }
-          },
-          {
-            "id": "d85790098283637a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026 DevOps/01 - Docker/01-  Dockerfile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-  Dockerfile"
-            }
-          },
-          {
-            "id": "47bd79611c8d3ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026 DevOps/01 - Docker/06 - Some real world exposure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 - Some real world exposure"
-            }
-          },
-          {
-            "id": "34a88ba1556db585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00 - Docker about and basics"
+              "title": "000 - Overview app"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5,
-    "collapsed": true
+    "width": 408.5
   },
   "right": {
     "id": "4540dc4352e7e8d3",
@@ -260,13 +174,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47bd79611c8d3ee5",
+  "active": "d304db14d4acdfb6",
   "lastOpenFiles": [
-    "2026 DevOps/01 - Docker/05-  Docker multistage build.md",
-    "2026 DevOps/01 - Docker/06 - Some real world exposure.md",
+    "2026 DevOps/01 - Docker/001 - Project/000 - BookStack app/000 - Overview app.md",
     "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
-    "2026 DevOps/01 - Docker/04 - Docker Compose.md",
+    "2026 DevOps/01 - Docker/06 - Some real world exposure.md",
     "2026 DevOps/01 - Docker/01-  Dockerfile.md",
+    "2026 DevOps/00 - Github/Git Essential commands.md",
+    "Resume/ServaRICA - Tech support to system engineer.md",
+    "Resume/Work Expereience.md",
+    "Resume/Refined expereience.md",
+    "2026 DevOps/01 - Docker/001 - Project/000 - BookStack app",
+    "2026 DevOps/01 - Docker/001 - Project",
+    "2026 DevOps/01 - Docker/05-  Docker multistage build.md",
+    "2026 DevOps/01 - Docker/04 - Docker Compose.md",
     "AI workflow/Content to post workflow.md",
     "2026-03-09.md",
     "2026 DevOps/01 - Docker/03 - Docker Volume.md",
@@ -277,28 +198,21 @@
     "2026 DevOps/00 - Github/Merge conflicts.md",
     "2026 DevOps/01 - Docker",
     "2026 DevOps/00 - Github/Git Branching.md",
-    "2026 DevOps/00 - Github/Git Essential commands.md",
     "2026 DevOps/00 - Github/Untitled",
     "2026 DevOps/00 - Github/GitHub learn and overview.md",
-    "Resume/ServaRICA - Tech support to system engineer.md",
     "Resume/Human content experience version.md",
     "2026 DevOps/00 - Github",
     "2026 DevOps",
-    "Resume/Refined expereience.md",
-    "Resume/Work Expereience.md",
     "2026 AWS/001 Things to get experience/000  Things that company wants from employee.md",
     "Resume",
     "2026 AWS/00 Topics/Cloud Formation.md",
     "2026 AWS/001 Things to get experience",
     "30 Days cloud support engineer/01-Linux and OS fundamentals/000 - OS Fundamentals.md",
     "2026 AWS/00 Topics",
-    "2026 AWS/Projects/02- PayFlow shield",
     "04-Git/Practical works/Some practical explore - reddit.md",
     "04-Git/Practical works/Test 1/Day wise plan.md",
     "04-Git/Practical works/Test 1/Day1/02-Practical/Practical steps create, build, deploy docker image.md",
     "04-Git/Practical works/Test 1/Day1/00-Theory/Understand and Build Foundation.md",
-    "04-Git/Git Rough information.md",
-    "2026 AWS/Projects/01 Guardian Lab",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
