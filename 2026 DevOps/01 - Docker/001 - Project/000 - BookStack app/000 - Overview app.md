@@ -43,7 +43,6 @@ Documentation
 * Phase 12 — Cloud Deployment
 * Phase 13 — Production Architecture
 * Phase 14 — Documentation
-* 
 
 
 ### App repo
