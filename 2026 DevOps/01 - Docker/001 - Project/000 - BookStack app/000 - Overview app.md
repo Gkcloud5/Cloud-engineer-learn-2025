@@ -49,3 +49,8 @@ Documentation
 
 https://github.com/BookStackApp/BookStack
 
+
+**Bookstack is a company knowledge base/documentation platform. it has an application layer and database layer, and our job is to build the infrastructure required to run it reliably, securely, efficient. while handling connectivity. failure, performance, monitoring, backup and recovery**
+
+
+

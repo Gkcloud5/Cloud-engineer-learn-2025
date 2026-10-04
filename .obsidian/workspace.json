@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026 DevOps/01 - Docker/001 - Project/000 - BookStack app/001 - Phase/Phase1 - Understand the app.md",
+                "file": "2026 DevOps/01 - Docker/001 - Project/000 - BookStack app/001 - Phase/Phase 1.1 -- Bookstack architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase1 - Understand the app"
+              "title": "Phase 1.1 -- Bookstack architecture"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 408.5,
+    "collapsed": true
   },
   "right": {
     "id": "4540dc4352e7e8d3",
@@ -176,12 +177,13 @@
   },
   "active": "d304db14d4acdfb6",
   "lastOpenFiles": [
+    "2026 DevOps/01 - Docker/001 - Project/000 - BookStack app/001 - Phase/Phase 1 - Understand the app.md",
+    "2026 DevOps/01 - Docker/001 - Project/000 - BookStack app/001 - Phase/Phase 1.1 -- Bookstack architecture.md",
     "2026 DevOps/01 - Docker/001 - Project/000 - BookStack app/000 - Overview app.md",
     "2026 DevOps/01 - Docker/00 - Docker about and basics.md",
     "2026 DevOps/01 - Docker/04 - Docker Compose.md",
     "2026 DevOps/01 - Docker/05-  Docker multistage build.md",
     "2026 DevOps/01 - Docker/06 - Some real world exposure.md",
-    "2026 DevOps/01 - Docker/001 - Project/000 - BookStack app/001 - Phase/Phase1 - Understand the app.md",
     "2026 DevOps/01 - Docker/001 - Project/000 - BookStack app/001 - Phase",
     "2026 DevOps/01 - Docker/01-  Dockerfile.md",
     "2026 DevOps/00 - Github/Git Essential commands.md",
@@ -212,7 +214,6 @@
     "30 Days cloud support engineer/01-Linux and OS fundamentals/000 - OS Fundamentals.md",
     "04-Git/Practical works/Some practical explore - reddit.md",
     "04-Git/Practical works/Test 1/Day wise plan.md",
-    "04-Git/Practical works/Test 1/Day1/02-Practical/Practical steps create, build, deploy docker image.md",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 11_26_58 PM.png",
     "03- Networking/Image/ChatGPT Image Nov 12, 2025, 12_45_33 AM.png",
     "03- Networking/Image/Pasted image 20251109011908.png",
